@@ -342,6 +342,10 @@
 						return sprite;
 					}
 
+					//Reads stuff from a list with the name and the tags.
+					//Format:
+					// (Name) [Biome] [Class]
+					//This is the PoI version (the more random version is more random and does not allow the computer to make major sapients- very illegal!)
 					function Build_World(name) {
 					  var tagger = new Array();
 						tagger.length = 0;
@@ -354,9 +358,27 @@
 					  }
 						 	World_Class = tagger[tagger.length-2];
 							Object_Type = tagger[tagger.length-1];
+							switch(World_Class)
+							{
+								case "T": World_Class = "Terran";
+								case "D": World_Class = "Desert";
+								case "S": World_Class = "Sunglacial";
+								case "O": World_Class = "Ocean";
+								case "J": World_Class = "Jovian";
+								default:  World_Class = "YOU FUCKED UP THE WORLD CLASS";
+							}
+							switch(World_Class)
+							{
+								case "T": Object_Type = "Biosphere";
+								case "D": Object_Type = "Primitive Sapients";
+								case "S": Object_Type = "Sapients";
+								case "O": Object_Type = "Major Sapeint";
+								case "J": Object_Type = "Super Organism";
+								default:  Object_Type = "YOU FUCKED UP THE LIFE TYPE";
+							}
 						console.log("World name: " + display_Name);
-						console.log("World class: " + World_Class);
-						console.log("Entity class: " + Object_Type);
+						console.log("World Type: " + World_Class);
+						console.log("Life Type: " + Object_Type);
 					//  return World_Object;
 					}
 
