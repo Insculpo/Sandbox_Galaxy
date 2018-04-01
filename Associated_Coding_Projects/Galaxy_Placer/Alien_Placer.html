@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Map_Coordinator</title>
+		<meta charset="utf-8">
+		<style>
+			body {
+			  margin: 0px;
+				overflow: hidden;
+			}
+		</style>
+	</head>
+	<body>
+  		<div id="container">
+        <script src="js/three.js"></script>
+				<link rel=stylesheet href="css/worldText.css">
+				<script type="x-shader/x-vertex" id="LabelShader">
+				</script>
+				<script src="js/OrbitControls.js"></script>
+      </div>
+
+
+        <script>
+        //Sources:
+        //Skybox: http://spaceengine.org/
+        //(I made the skybox using a export skybox feature from space engine)
+        //Textures: Pulled from public domain sources.
+        //Artist used for grass texture: https://hhh316.deviantart.com/
+        //A lot of code here modified code from the examples given in class.
+        //It also attempted to borrow the lighting systems from the threejs examples.
+
+          var texture0 = new THREE.TextureLoader().load( 'Textures/galaxy_map_way.jpg' );
+
+          container = document.getElementById( 'container' );
+
+
+					var size = 256;
+					var scene = new THREE.Scene();
+					var camera = new THREE.PerspectiveCamera( 75, window.innerWidth/window.innerHeight, 0.1, 10000000 );
+    			var renderer = new THREE.WebGLRenderer();
+    			renderer.setSize( window.innerWidth, window.innerHeight );
+    			document.body.appendChild( renderer.domElement );
+					var Orb = new THREE.OrbitControls( camera );
+
+					var GalacticText = new THREE.FontLoader();
+					var GalacticMat = new THREE.MeshBasicMaterial({color: 0xffffff});
+					var geometry = new THREE.SphereGeometry( 15,64,64 );
+					var material = new THREE.MeshBasicMaterial({color: 0xffffff});
+					var Smaterial = new THREE.MeshBasicMaterial({color: 0x00ff00});
+					var CenterGeo = new THREE.SphereGeometry( 50,64,64 );
+					var CenterMat = new THREE.MeshBasicMaterial({color: 0x000000});
+					var BHgeometry = new THREE.PlaneGeometry( 10000,10000 );
+					var BHmaterial = new THREE.MeshPhongMaterial({side: THREE.DoubleSide, opacity: 0.5, transparent: true, map: texture0});
+					var PoI = new THREE.Mesh( geometry, material );
+					var Sol = new THREE.Mesh( geometry, Smaterial );
+					var Center = new THREE.Mesh( CenterGeo, CenterMat );
+					var BlackHole = new THREE.Mesh( BHgeometry, BHmaterial );
+
+					var Light = new THREE.AmbientLight(0xffffff,0.5);
+					var Light2 = new THREE.AmbientLight(0xffffff,0.5);
+					var Solar_System = addAliens("Earth");
+
+					BlackHole.rotation.x = 1.57079632679;
+					Light.position.y = 10000;
+					Light2.position.y = -10000;
+
+					Sol.scale.xyz = 100;
+					Sol.position.x = 0;
+					Sol.position.z = -1910;
+					Solar_System.position.x = Sol.position.x;
+					Solar_System.position.y = Sol.position.y + 25;
+					Solar_System.position.z = Sol.position.z;
+
+
+					var PoIcoord = new Array();
+					var PoILabels = new Array();
+					var AlienNames = new Array();
+					AlienNames = ["Blanca","Sakam","Bezen","Glisten","Hyperoxia","Isa","Adina","Summanus*","Vlikovom*","Nuivi","Siplunt","The Night","Mendus*","Varblodia","Alkud*","Tropill","Antleria","The Skimming*",
+					"Kyruvi","Sapli","Yiukoso","Varpossos","Blotosov","Crimson","Tabby World*","Torvald*","Soot","Azul","Torpo","The Yelling","Votaldi","Exolith","Guvuza","Jilonus","Ikarlothru","Oxides","Infared Peaks","HIP 103639 d",
+					"The Dumbbells","Ludor*","Kiblutz*","The Rotter*","Pavasa*","Kanda*","Aratas*","Snod*","Kazzlehorf*","Saren*","Paralatha*","Sopliss*","Polor*","Ikla*","Jay*","Kars*","Harlapa*","Eyes of Sarvas***","The Pale*","Barium*"
+					,"Zeem*","Kazav*","Pasus*","The Vine*","Vali*","Zai*","Gavus***","Green Worlds***","Stargi***","Blod**","The Clogging Soul***","Contorlas***","Sidilico**","Long Step**","The Violet**","Sul Vopal**",
+					"Tamak**","Fuedisar**","Clipsan**","Phidius**","Grey World","Union 78","The Timeless","Flat World*","Titus","Dolot","Locun","Soto 4","Sarlum","Somber","Thalis"];
+
+
+					for(i = 0; i < AlienNames.length; i++)
+					{
+						var deg = 360 * Math.random();
+						var VariableMax = 50000 - 10000 * Math.random();
+						var VariableMin = 500 + 5000 * Math.random();
+						var HandleWithCare = AlienNames[i];
+						var Lab = addAliens(HandleWithCare);
+						var rad = 5000 + (VariableMax - VariableMin) * Math.random();
+						var PoIn = PoI.clone();
+						var Labeler = Lab.clone();
+						PoIn.material = PoI.material.clone();
+						PoIn.position.x = 0;
+						PoIn.position.y = 0;
+						PoIn.position.z = 0;
+						//Degree converter
+						PoIn.position.x = rad * Math.cos(deg);
+						PoIn.position.z =  rad * Math.sin(deg);
+						//Height above/below the galactic disk
+						PoIn.position.y = -500 + 1000 * Math.random();
+
+						//Scaling conversion
+						PoIn.position.x = PoIn.position.x/10;
+						PoIn.position.y = 0;
+						PoIn.position.z = PoIn.position.z/10;
+						Labeler.position.x = PoIn.position.x;
+						Labeler.position.y = PoIn.position.y + 25;
+						Labeler.position.z = PoIn.position.z;
+						PoILabels.push(Labeler);
+						PoIcoord.push(PoIn);
+					}
+
+					for(i = 0; i < PoILabels.length; i++)
+					{
+						scene.add( PoIcoord[i] );
+						scene.add( PoILabels[i] );
+					}
+					scene.add(Sol);
+					scene.add(BlackHole);
+					scene.add(Center);
+					scene.add(Light);
+					scene.add(Light2);
+
+					scene.add(Solar_System);
+
+
+				//	scene.add(StarText);
+					camera.position.y = 5000;
+					camera.rotation.x = toRadians(270);
+
+          animate();
+
+    			function animate() {
+						requestAnimationFrame( animate );
+						renderer.render(scene, camera);
+          };
+
+					function toRadians (angle) {
+  						return angle * (Math.PI / 180);
+					}
+
+					function Randomize(max) {
+						return Math.floor(Math.random() * Math.floor(max));
+					}
+
+					function addAliens( aliens ){
+						var procCanvas = document.createElement('canvas');
+						var size = 256 * 4;
+						procCanvas.width = size;
+						procCanvas.height = size;
+						var plane = procCanvas.getContext('2d');
+						procCanvas.width = procCanvas.height = size;
+						plane.fillStyle = '#ffff00';
+						plane.textAlign = 'center';
+						plane.font = '64px Cambria';
+						plane.fillText(aliens,size/2,size/2);
+						var texus = new THREE.Texture(procCanvas);
+						texus.needsUpdate = true;
+						var texmat = new THREE.SpriteMaterial({
+							map: texus,
+							color: 0xffffff,
+							clippingPlanes: true,
+							depthTest: false,
+							transparent: false,
+							opacity: 1.0,
+
+						})
+						var sprite = new THREE.Sprite(texmat);
+						sprite.scale.set(1500,1500,150);
+						return sprite;
+					}
+
+    		</script>
