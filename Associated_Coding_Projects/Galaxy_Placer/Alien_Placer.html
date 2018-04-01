@@ -17,23 +17,27 @@
 				<script type="x-shader/x-vertex" id="LabelShader">
 				</script>
 				<script src="js/OrbitControls.js"></script>
+				<script src="js/World_Builder.js"></script>
+
       </div>
 
 
         <script>
         //Sources:
-        //Skybox: http://spaceengine.org/
-        //(I made the skybox using a export skybox feature from space engine)
-        //Textures: Pulled from public domain sources.
-        //Artist used for grass texture: https://hhh316.deviantart.com/
-        //A lot of code here modified code from the examples given in class.
-        //It also attempted to borrow the lighting systems from the threejs examples.
-
+        //Map: Public domain galaxy Map, has credits written on the image itself
           var texture0 = new THREE.TextureLoader().load( 'Textures/galaxy_map_way.jpg' );
 
           container = document.getElementById( 'container' );
+					var AlienNames = new Array();
+					AlienNames = ["Blanca J B","Ludor T L","Isa D B","Tabby World T P"];
+					//["Blanca","Sakam","Bezen","Glisten","Hyperoxia","Isa","Adina","Summanus*","Vlikovom*","Nuivi","Siplunt","The Night","Mendus*","Varblodia","Alkud*","Tropill","Antleria","The Skimming*",
+					//"Kyruvi","Sapli","Yiukoso","Varpossos","Blotosov","Crimson","Tabby World*","Torvald*","Soot","Azul","Torpo","The Yelling","Votaldi","Exolith","Hiviza","Jilonus","Ikarlothru","Oxides","Infared Peaks","HIP 103639 d",
+					//"The Dumbbells","Ludor*","Kiblutz*","The Rotter*","Pavasa*","Kanda*","Aratas*","Snod*","Kazzlehorf*","Saren*","Paralatha*","Sopliss*","Polor*","Ikla*","Jay*","Kars*","Harlapa*","Eyes of Sarvas***","The Pale*","Barium*"
+					//,"Zeem*","Kazav*","Pasus*","The Vine*","Vali*","Zai*","Gavus***","Green Worlds***","Stargi***","Blod**","The Clogging Soul***","Contorlas***","Sidilico**","Long Step**","The Violet**","Sul Vopal**",
+					//"Tamak**","Fuedisar**","Clipsan**","Phidius**","Grey World","Union 78","The Timeless","Flat World*","Titus","Dolot","Locun","Soto 4","Sarlum","Somber","Thalis"];
 
-
+					var i;
+					var scaleFactor = 1;
 					var size = 256;
 					var scene = new THREE.Scene();
 					var camera = new THREE.PerspectiveCamera( 75, window.innerWidth/window.innerHeight, 0.1, 10000000 );
@@ -44,15 +48,19 @@
 
 					var GalacticText = new THREE.FontLoader();
 					var GalacticMat = new THREE.MeshBasicMaterial({color: 0xffffff});
-					var geometry = new THREE.SphereGeometry( 15,64,64 );
-					var material = new THREE.MeshBasicMaterial({color: 0xffffff});
+					var geometry = new THREE.BoxGeometry( 5,5,5 );
+					var Wgeometry = new THREE.BoxGeometry( 2,2,2 );
+					var material = new THREE.MeshBasicMaterial({color: 0x00ff00});
 					var Smaterial = new THREE.MeshBasicMaterial({color: 0x00ff00});
-					var CenterGeo = new THREE.SphereGeometry( 50,64,64 );
+					var Wmaterial = new THREE.MeshBasicMaterial({color: 0xffffff});
+					var CenterGeo = new THREE.SphereGeometry( 50,7,7 );
 					var CenterMat = new THREE.MeshBasicMaterial({color: 0x000000});
-					var BHgeometry = new THREE.PlaneGeometry( 10000,10000 );
+					var BHgeometry = new THREE.PlaneGeometry( 100000,100000 );
 					var BHmaterial = new THREE.MeshPhongMaterial({side: THREE.DoubleSide, opacity: 0.5, transparent: true, map: texture0});
 					var PoI = new THREE.Mesh( geometry, material );
 					var Sol = new THREE.Mesh( geometry, Smaterial );
+					var Wash = new THREE.Mesh( Wgeometry, Wmaterial );
+
 					var Center = new THREE.Mesh( CenterGeo, CenterMat );
 					var BlackHole = new THREE.Mesh( BHgeometry, BHmaterial );
 
@@ -66,7 +74,7 @@
 
 					Sol.scale.xyz = 100;
 					Sol.position.x = 0;
-					Sol.position.z = -1910;
+					Sol.position.z = -19100;
 					Solar_System.position.x = Sol.position.x;
 					Solar_System.position.y = Sol.position.y + 25;
 					Solar_System.position.z = Sol.position.z;
@@ -74,20 +82,70 @@
 
 					var PoIcoord = new Array();
 					var PoILabels = new Array();
-					var AlienNames = new Array();
-					AlienNames = ["Blanca","Sakam","Bezen","Glisten","Hyperoxia","Isa","Adina","Summanus*","Vlikovom*","Nuivi","Siplunt","The Night","Mendus*","Varblodia","Alkud*","Tropill","Antleria","The Skimming*",
-					"Kyruvi","Sapli","Yiukoso","Varpossos","Blotosov","Crimson","Tabby World*","Torvald*","Soot","Azul","Torpo","The Yelling","Votaldi","Exolith","Guvuza","Jilonus","Ikarlothru","Oxides","Infared Peaks","HIP 103639 d",
-					"The Dumbbells","Ludor*","Kiblutz*","The Rotter*","Pavasa*","Kanda*","Aratas*","Snod*","Kazzlehorf*","Saren*","Paralatha*","Sopliss*","Polor*","Ikla*","Jay*","Kars*","Harlapa*","Eyes of Sarvas***","The Pale*","Barium*"
-					,"Zeem*","Kazav*","Pasus*","The Vine*","Vali*","Zai*","Gavus***","Green Worlds***","Stargi***","Blod**","The Clogging Soul***","Contorlas***","Sidilico**","Long Step**","The Violet**","Sul Vopal**",
-					"Tamak**","Fuedisar**","Clipsan**","Phidius**","Grey World","Union 78","The Timeless","Flat World*","Titus","Dolot","Locun","Soto 4","Sarlum","Somber","Thalis"];
-
-
+					var WashCoord = new Array();
+					var AlienNaming = new Array();
 					for(i = 0; i < AlienNames.length; i++)
 					{
+						Build_World(AlienNames[i]);
+						AlienNaming[i] = AlienNames[i];
+					}
+
+					//Populate();
+					//Generates the locations of every major biosphere in the galaxy.
+					for(i = 0; i < 12187; i++)
+					{
+
 						var deg = 360 * Math.random();
-						var VariableMax = 50000 - 10000 * Math.random();
-						var VariableMin = 500 + 5000 * Math.random();
-						var HandleWithCare = AlienNames[i];
+						var sparseRoll = 100 * Math.random();
+						var fryRoll = 100 * Math.random();
+						var VariableMax = 30000 + 5000 * Math.random();
+						if(sparseRoll > 75)
+						{
+							 VariableMax = 30000 + 20000 * Math.random();
+						}
+						if(fryRoll > 75)
+						{
+							 VariableMin = 5450 * Math.random()
+						}
+						var VariableMin = 50 + 5450 * Math.random();
+						var rad = 5000 + (VariableMax - VariableMin) * Math.random();
+						if(fryRoll > 92)
+						{
+							 rad -= 4700;
+						}
+						var WaIn = Wash.clone();
+						WaIn.material = PoI.material.clone();
+						WaIn.position.x = 0;
+						WaIn.position.y = 0;
+						WaIn.position.z = 0;
+						//Degree converter
+						WaIn.position.x = rad * Math.cos(deg);
+						WaIn.position.z =  rad * Math.sin(deg);
+						//Height above/below the galactic disk
+						WaIn.position.y = -500 + 1000 * Math.random();
+
+						//Scaling conversion
+						WaIn.position.x = WaIn.position.x/scaleFactor;
+						WaIn.position.y = WaIn.position.y/scaleFactor;
+						WaIn.position.z = WaIn.position.z/scaleFactor;
+						WashCoord.push(WaIn);
+					}
+
+					for(i = 0; i < AlienNaming.length; i++)
+					{
+						var deg = 360 * Math.random();
+						var sparseRoll = 100 * Math.random();
+						var VariableMax = 30000 + 5000 * Math.random();
+						if(sparseRoll > 75)
+						{
+							 VariableMax = 30000 + 20000 * Math.random();
+						}
+						if(fryRoll > 75)
+						{
+							 VariableMin = 5450 * Math.random()
+						}
+						var VariableMin = 50 + 5450 * Math.random();
+						var HandleWithCare = AlienNaming[i];
 						var Lab = addAliens(HandleWithCare);
 						var rad = 5000 + (VariableMax - VariableMin) * Math.random();
 						var PoIn = PoI.clone();
@@ -103,14 +161,19 @@
 						PoIn.position.y = -500 + 1000 * Math.random();
 
 						//Scaling conversion
-						PoIn.position.x = PoIn.position.x/10;
-						PoIn.position.y = PoIn.position.y/10;
-						PoIn.position.z = PoIn.position.z/10;
+						PoIn.position.x = PoIn.position.x/scaleFactor;
+						PoIn.position.y = PoIn.position.y/scaleFactor;
+						PoIn.position.z = PoIn.position.z/scaleFactor;
 						Labeler.position.x = PoIn.position.x;
-						Labeler.position.y = PoIn.position.y + 25;
+						Labeler.position.y = PoIn.position.y + 10;
 						Labeler.position.z = PoIn.position.z;
 						PoILabels.push(Labeler);
 						PoIcoord.push(PoIn);
+					}
+
+					for(i = 0; i < WashCoord.length; i++)
+					{
+						scene.add( WashCoord[i] );
 					}
 
 					for(i = 0; i < PoILabels.length; i++)
@@ -135,6 +198,8 @@
 
     			function animate() {
 						requestAnimationFrame( animate );
+						//Refresh command
+
 						renderer.render(scene, camera);
           };
 
@@ -145,6 +210,110 @@
 					function Randomize(max) {
 						return Math.floor(Math.random() * Math.floor(max));
 					}
+
+					/*function Populate()
+					{
+						//Adds the random systems (representing places with life usually, though not that well since the universe will have way more than 71K worlds with complex life!)
+						//So you could say it's the "where intelligent life exists" populator with any smaller scale procedural content being just that.
+						for(i = 0; i < 71000; i++)
+						{
+
+							var deg = 360 * Math.random();
+							var sparseRoll = 100 * Math.random();
+							var fryRoll = 100 * Math.random();
+							var VariableMax = 30000 + 5000 * Math.random();
+							if(sparseRoll > 75)
+							{
+								 VariableMax = 30000 + 20000 * Math.random();
+							}
+							if(fryRoll > 75)
+							{
+								 VariableMin = 5450 * Math.random()
+							}
+							var VariableMin = 50 + 5450 * Math.random();
+							var rad = 5000 + (VariableMax - VariableMin) * Math.random();
+							if(fryRoll > 92)
+							{
+								 rad -= 4700;
+							}
+							var WaIn = Wash.clone();
+							WaIn.material = PoI.material.clone();
+							WaIn.position.x = 0;
+							WaIn.position.y = 0;
+							WaIn.position.z = 0;
+							//Degree converter
+							WaIn.position.x = rad * Math.cos(deg);
+							WaIn.position.z =  rad * Math.sin(deg);
+							//Height above/below the galactic disk
+							WaIn.position.y = -500 + 1000 * Math.random();
+
+							//Scaling conversion
+							WaIn.position.x = WaIn.position.x;
+							WaIn.position.y = WaIn.position.y;
+							WaIn.position.z = WaIn.position.z;
+							WashCoord.push(WaIn);
+						}
+
+						//Adds the PoI systems
+						for(i = 0; i < AlienNaming.length; i++)
+						{
+							var deg = 360 * Math.random();
+							var sparseRoll = 100 * Math.random();
+							var VariableMax = 30000 + 5000 * Math.random();
+							if(sparseRoll > 75)
+							{
+								 VariableMax = 30000 + 20000 * Math.random();
+							}
+							if(fryRoll > 75)
+							{
+								 VariableMin = 5450 * Math.random()
+							}
+							var VariableMin = 50 + 5450 * Math.random();
+							var HandleWithCare = AlienNaming[i];
+							var Lab = addAliens(HandleWithCare);
+							var rad = 5000 + (VariableMax - VariableMin) * Math.random();
+							var PoIn = PoI.clone();
+							var Labeler = Lab.clone();
+							PoIn.material = PoI.material.clone();
+							PoIn.position.x = 0;
+							PoIn.position.y = 0;
+							PoIn.position.z = 0;
+							//Degree converter
+							PoIn.position.x = rad * Math.cos(deg);
+							PoIn.position.z =  rad * Math.sin(deg);
+							//Height above/below the galactic disk
+							PoIn.position.y = -500 + 1000 * Math.random();
+
+							//Scaling conversion
+							PoIn.position.x = PoIn.position.x;
+							PoIn.position.y = PoIn.position.y;
+							PoIn.position.z = PoIn.position.z;
+							Labeler.position.x = PoIn.position.x;
+							Labeler.position.y = PoIn.position.y + 10;
+							Labeler.position.z = PoIn.position.z;
+							PoILabels.push(Labeler);
+							PoIcoord.push(PoIn);
+						}
+
+						//Adds generated objects to the scene.
+						for(i = 0; i < WashCoord.length; i++)
+						{
+							scene.add( WashCoord[i] );
+						}
+
+						for(i = 0; i < PoILabels.length; i++)
+						{
+							scene.add( PoIcoord[i] );
+							scene.add( PoILabels[i] );
+						}
+						scene.add(Sol);
+						scene.add(BlackHole);
+						scene.add(Center);
+						scene.add(Light);
+						scene.add(Light2);
+
+						scene.add(Solar_System);
+					}*/
 
 					function addAliens( aliens ){
 						var procCanvas = document.createElement('canvas');
@@ -169,8 +338,26 @@
 
 						})
 						var sprite = new THREE.Sprite(texmat);
-						sprite.scale.set(1500,1500,150);
+						sprite.scale.set(500,500,50);
 						return sprite;
+					}
+
+					function Build_World(name) {
+					  var tagger = new Array();
+						tagger.length = 0;
+						tagger = name.split(" ");
+					  console.log("BUILD");
+						var display_Name = "";
+					  for(var k = 0; k < tagger.length-2; k++)
+					  {
+							display_Name += tagger[k] + " ";
+					  }
+						 	World_Class = tagger[tagger.length-2];
+							Object_Type = tagger[tagger.length-1];
+						console.log("World name: " + display_Name);
+						console.log("World class: " + World_Class);
+						console.log("Entity class: " + Object_Type);
+					//  return World_Object;
 					}
 
     		</script>
