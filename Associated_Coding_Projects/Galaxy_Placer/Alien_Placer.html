@@ -18,8 +18,6 @@
 				</script>
 				<script src="js/OrbitControls.js"></script>
 				<script src="js/World_Builder.js"></script>
-				<script src="Aliens.js"></script>
-				<script src="Asterisms.js"></script>
 
       </div>
 
@@ -32,19 +30,19 @@
 					var AsterCat = new XMLHttpRequest();
 					PoIcat.open('GET','Aliens.txt');
 					PoIcat.open('GET','Asterisms.txt');
-					console.log(sendData);
-					getNames = sendData.split(",");
 
 
           container = document.getElementById( 'container' );
 					var AlienNames = new Array();
-					var v;
-					for( v = 0; v < getNames.length; v++)
-					{
-						AlienNames[v] = getNames[v];
-					}
+					AlienNames = ["Blanca J B","Ludor T S","Isa D O","Tabby World T P"];
+					//["Blanca","Sakam","Bezen","Glisten","Hyperoxia","Isa","Adina","Summanus*","Vlikovom*","Nuivi","Siplunt","The Night","Mendus*","Varblodia","Alkud*","Tropill","Antleria","The Skimming*",
+					//"Kyruvi","Sapli","Yiukoso","Varpossos","Blotosov","Crimson","Tabby World*","Torvald*","Soot","Azul","Torpo","The Yelling","Votaldi","Exolith","Hiviza","Jilonus","Ikarlothru","Oxides","Infared Peaks","HIP 103639 d",
+					//"The Dumbbells","Ludor*","Kiblutz*","The Rotter*","Pavasa*","Kanda*","Aratas*","Snod*","Kazzlehorf*","Saren*","Paralatha*","Sopliss*","Polor*","Ikla*","Jay*","Kars*","Harlapa*","Eyes of Sarvas***","The Pale*","Barium*"
+					//,"Zeem*","Kazav*","Pasus*","The Vine*","Vali*","Zai*","Gavus***","Green Worlds***","Stargi***","Blod**","The Clogging Soul***","Contorlas***","Sidilico**","Long Step**","The Violet**","Sul Vopal**",
+					//"Tamak**","Fuedisar**","Clipsan**","Phidius**","Grey World","Union 78","The Timeless","Flat World*","Titus","Dolot","Locun","Soto 4","Sarlum","Somber","Thalis"];
+
 					var i;
-					var scaleFactor = 25;
+					var scaleFactor = 1;
 					var size = 256;
 					var scene = new THREE.Scene();
 					var camera = new THREE.PerspectiveCamera( 75, window.innerWidth/window.innerHeight, 0.1, 10000000 );
@@ -59,10 +57,10 @@
 					var Wgeometry = new THREE.BoxGeometry( 2,2,2 );
 					var material = new THREE.MeshBasicMaterial({color: 0x00ff00});
 					var Smaterial = new THREE.MeshBasicMaterial({color: 0x00ff00});
-					var Wmaterial = new THREE.MeshBasicMaterial({color: 0x00ff00});
+					var Wmaterial = new THREE.MeshBasicMaterial({color: 0xffffff});
 					var CenterGeo = new THREE.SphereGeometry( 50,7,7 );
 					var CenterMat = new THREE.MeshBasicMaterial({color: 0x000000});
-					var BHgeometry = new THREE.PlaneGeometry( 100000/scaleFactor,100000/scaleFactor );
+					var BHgeometry = new THREE.PlaneGeometry( 100000,100000 );
 					var BHmaterial = new THREE.MeshPhongMaterial({side: THREE.DoubleSide, opacity: 0.5, transparent: true, map: texture0});
 					var PoI = new THREE.Mesh( geometry, material );
 					var Sol = new THREE.Mesh( geometry, Smaterial );
@@ -93,17 +91,15 @@
 					var AlienNaming = new Array();
 					for(i = 0; i < AlienNames.length; i++)
 					{
-						var WorldObj;
-						WorldObj = Build_World(AlienNames[i]);
-						AlienNaming[i] = WorldObj;
+						Build_World(AlienNames[i]);
+						AlienNaming[i] = AlienNames[i];
 					}
-
 
 					//Populate();
 					//Generates the locations of every major biosphere in the galaxy.
 					for(i = 0; i < 12187; i++)
 					{
-						var worldRoll = 1000 * Math.random();
+
 						var deg = 360 * Math.random();
 						var sparseRoll = 100 * Math.random();
 						var fryRoll = 100 * Math.random();
@@ -123,27 +119,7 @@
 							 rad -= 4700;
 						}
 						var WaIn = Wash.clone();
-						WaIn.material = Wash.material.clone();
-						//Desert worlds
-						if(worldRoll > 200 && worldRoll <= 600){
-							WaIn.material.color.setHex(0xff5733);
-						}
-						//Ocean Worlds
-						if(worldRoll > 600 && worldRoll <= 800){
-							WaIn.material.color.setHex(0xa3ecd0);
-						}
-						//Subglacial/Ice worlds
-						if(worldRoll > 800 && worldRoll <= 925){
-							WaIn.material.color.setHex(0xe2fffc);
-						}
-						//Jovian Worlds
-						if(worldRoll > 925 && worldRoll <= 999){
-							WaIn.material.color.setHex(0x480a79);
-						}
-						//Procedural mega organism world test
-						if(worldRoll > 999 && worldRoll <= 1000){
-							WaIn.material.color.setHex(0x000000);
-						}
+						WaIn.material = PoI.material.clone();
 						WaIn.position.x = 0;
 						WaIn.position.y = 0;
 						WaIn.position.z = 0;
@@ -179,9 +155,10 @@
 						var rad = 5000 + (VariableMax - VariableMin) * Math.random();
 						var PoIn = PoI.clone();
 						var Labeler = Lab.clone();
-						PoIn.position.x = HandleWithCare.xpos;
-						PoIn.position.y = HandleWithCare.ypos;
-						PoIn.position.z = HandleWithCare.zpos;
+						PoIn.material = PoI.material.clone();
+						PoIn.position.x = 0;
+						PoIn.position.y = 0;
+						PoIn.position.z = 0;
 						//Degree converter
 						PoIn.position.x = rad * Math.cos(deg);
 						PoIn.position.z =  rad * Math.sin(deg);
@@ -195,15 +172,8 @@
 						Labeler.position.x = PoIn.position.x;
 						Labeler.position.y = PoIn.position.y + 10;
 						Labeler.position.z = PoIn.position.z;
-						HandleWithCare.xpos = PoIn.position.x;
-						HandleWithCare.ypos = PoIn.position.y;
-						HandleWithCare.zpos = PoIn.position.z;
-						HandleWithCare.mesh = PoIn;
-						HandleWithCare.mesh.material = PoIn.material.clone();
-						HandleWithCare = Render_World(HandleWithCare);
-						console.log(HandleWithCare.mesh.material.color);
 						PoILabels.push(Labeler);
-						PoIcoord.push(HandleWithCare);
+						PoIcoord.push(PoIn);
 					}
 
 					for(i = 0; i < WashCoord.length; i++)
@@ -213,11 +183,8 @@
 
 					for(i = 0; i < PoILabels.length; i++)
 					{
-						console.log(PoIcoord[i]);
-						scene.add(PoIcoord[i].mesh);
-						console.log(PoIcoord[i].mesh.material.color);
+						scene.add( PoIcoord[i] );
 						scene.add( PoILabels[i] );
-
 					}
 					scene.add(Sol);
 					scene.add(BlackHole);
@@ -237,6 +204,7 @@
     			function animate() {
 						requestAnimationFrame( animate );
 						//Refresh command
+
 						renderer.render(scene, camera);
           };
 
@@ -359,25 +327,10 @@
 						procCanvas.height = size;
 						var plane = procCanvas.getContext('2d');
 						procCanvas.width = procCanvas.height = size;
-						switch(aliens.development)
-						{
-							case "B":  plane.fillStyle = '#c2e71e';
-														 break;
-							case "P":  plane.fillStyle = '#1ee77f';
-														 break;
-							case "S":  plane.fillStyle = '#ffc541';
-														 break;
-							case "M":  plane.fillStyle = '#ffffff';
-														 break;
-							case "O":  plane.fillStyle = '#e71ee4';
-															break;
-							case "C":  plane.fillStyle = '#0000ff';
-															break;
-							default:  World_Class = "YOU FUCKED UP THE WORLD CLASS";
-							}
+						plane.fillStyle = '#ffff00';
 						plane.textAlign = 'center';
 						plane.font = '64px Cambria';
-						plane.fillText(aliens.name,size/2,size/2);
+						plane.fillText(aliens,size/2,size/2);
 						var texus = new THREE.Texture(procCanvas);
 						texus.needsUpdate = true;
 						var texmat = new THREE.SpriteMaterial({
@@ -399,8 +352,6 @@
 					// (Name) [Biome] [Class]
 					//This is the PoI version (the more random version is more random and does not allow the computer to make major sapients- very illegal!)
 					function Build_World(name) {
-						var worldMake = new Object();
-						var NWorld_Class;
 						tagger = "";
 					  var tagger = new Array();
 						tagger.length = 0;
@@ -414,85 +365,40 @@
 							Object_Type = tagger[tagger.length-1];
 							switch(World_Class)
 							{
-								case "T": NWorld_Class = "Terran";
+								case "T": World_Class = "Terran";
 													break;
-								case "D": NWorld_Class = "Desert";
+								case "D": World_Class = "Desert";
 													break;
-								case "S": NWorld_Class = "Subglacial";
+								case "S": World_Class = "Sunglacial";
 													break;
-								case "O": NWorld_Class = "Ocean";
+								case "O": World_Class = "Ocean";
 													break;
-								case "J": NWorld_Class = "Jovian";
+								case "J": World_Class = "Jovian";
 													break;
-								default:  NWorld_Class = "YOU FUCKED UP THE WORLD CLASS";
+								default:  World_Class = "YOU FUCKED UP THE WORLD CLASS";
 							}
 							switch(Object_Type)
 							{
-								case "B": NObject_Type = "Biosphere";
+								case "B": Object_Type = "Biosphere";
 													break;
-								case "P": NObject_Type = "Primitive Sapients";
+								case "P": Object_Type = "Primitive Sapients";
 													break;
-								case "S": NObject_Type = "Sapients";
+								case "S": Object_Type = "Sapients";
 													break;
-								case "M": NObject_Type = "Major Sapeint";
+								case "M": Object_Type = "Major Sapients";
 													break;
-								case "O": NObject_Type = "Super Organism";
+								case "O": Object_Type = "Super Organism";
 													break;
-								case "C": NObject_Type = "Colony";
+								case "C": Object_Typ = "Colony";
 													break;
-								default:  NObject_Type = "YOU FUCKED UP THE LIFE TYPE";
+								case "A": Object_Type = "Megastructure";
+													break;
+								default:  Object_Type = "YOU FUCKED UP THE LIFE TYPE";
 							}
 						console.log("World name: " + display_Name);
 						console.log("World Type: " + World_Class);
 						console.log("Life Type: " + Object_Type);
-
-						 worldMake.name = display_Name;
-						 worldMake.biome = World_Class;
-						 worldMake.name_biome = NWorld_Class;
-						 worldMake.development = Object_Type;
-						 worldMake.name_development = NObject_Type;
-						 worldMake.xpos = 0;
-						 worldMake.ypos = 0;
-						 worldMake.zpos = 0;
-						 return worldMake;
-					 }
-
-					 //Renders the world based on Tag-Based asterData
-					 function Render_World(WorldRender) {
-						 //Geometry defined by class of world
-						 switch(WorldRender.development)
-						 {
-							 case "B":  WorldRender.mesh.scale.xyz = 1;
-												 			break;
-							 case "P":  WorldRender.mesh.scale.xyz = 2;
-												 			break;
-							 case "S":  WorldRender.mesh.scale.xyz = 4;
-												 			break;
-							 case "M":  WorldRender.mesh.scale.xyz = 8;
-												 			break;
-							 case "O":  WorldRender.mesh.scale.xyz = 16;
-												 			 break;
-							 case "C":  WorldRender.mesh.scale.xyz = 1;
-															 break;
-							 default:  World_Class = "YOU FUCKED UP THE WORLD CLASS";
-							 }
-						 //Color defined by ecology type of world
-						 console.log(WorldRender.biome);
-						 switch(WorldRender.biome)
-						 {
-							 case "T":  WorldRender.mesh.material.color.setHex(0x00ff00);
-												 			break;
-							 case "D":  WorldRender.mesh.material.color.setHex(0xff5733);
-												 			break;
-							 case "S":  WorldRender.mesh.material.color.setHex(0xe2fffc);
-												 			break;
-							 case "O":  WorldRender.mesh.material.color.setHex(0xa3ecd0);
-												 			break;
-							 case "J":  WorldRender.mesh.material.color.setHex(0x480a79);
-												 			 break;
-							 default:  World_Class = "YOU FUCKED UP THE WORLD CLASS";
-							 }
-							 return WorldRender;
-						 }
+					//  return World_Object;
+					}
 
     		</script>
