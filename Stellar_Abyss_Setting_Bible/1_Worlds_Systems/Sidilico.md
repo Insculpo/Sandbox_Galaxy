@@ -1,6 +1,8 @@
-### Overview and Geology
+### Overview
 
 Sidilico is a large, dried up desert world rich in both salt and life.
+
+### Geology
 
 Sililico has salty seas and moderate geological activity with massive aquifers under the surface.  In general, expect a xeric climate.  The world has one large inland ocean in the south, which acts like a massive oasis.  Much of the water life uses comes from underground near mountains and within scarps.  Sidilico was once covered in ocean, but said ocean dried out over millions upon millions of years with their aging star drying their world up.  Sidilico’s complex life is on the decline, though its resilience has given fruit in the form of the Aveterriat who would from this dying world come to self-awareness and ultimately interstellar civilization.
 Before we discuss that, we must first discuss Sidilico itself.
