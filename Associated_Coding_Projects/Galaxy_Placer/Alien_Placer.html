@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -18,6 +19,8 @@
 				</script>
 				<script src="js/OrbitControls.js"></script>
 				<script src="js/World_Builder.js"></script>
+				<script src="Aliens.js"></script>
+				<script src="Asterisms.js"></script>
 
       </div>
 
@@ -26,23 +29,19 @@
         //Sources:
         //Map: Public domain galaxy Map, has credits written on the image itself
           var texture0 = new THREE.TextureLoader().load( 'Textures/galaxy_map_way.jpg' );
-					var PoIcat = new XMLHttpRequest();
-					var AsterCat = new XMLHttpRequest();
-					PoIcat.open('GET','Aliens.txt');
-					PoIcat.open('GET','Asterisms.txt');
-
-
+					console.log(sendData);
+					getNames = sendData.split(",");
+					console.log(getNames);
           container = document.getElementById( 'container' );
 					var AlienNames = new Array();
-					AlienNames = ["Blanca J B","Ludor T S","Isa D O","Tabby World T P"];
-					//["Blanca","Sakam","Bezen","Glisten","Hyperoxia","Isa","Adina","Summanus*","Vlikovom*","Nuivi","Siplunt","The Night","Mendus*","Varblodia","Alkud*","Tropill","Antleria","The Skimming*",
-					//"Kyruvi","Sapli","Yiukoso","Varpossos","Blotosov","Crimson","Tabby World*","Torvald*","Soot","Azul","Torpo","The Yelling","Votaldi","Exolith","Hiviza","Jilonus","Ikarlothru","Oxides","Infared Peaks","HIP 103639 d",
-					//"The Dumbbells","Ludor*","Kiblutz*","The Rotter*","Pavasa*","Kanda*","Aratas*","Snod*","Kazzlehorf*","Saren*","Paralatha*","Sopliss*","Polor*","Ikla*","Jay*","Kars*","Harlapa*","Eyes of Sarvas***","The Pale*","Barium*"
-					//,"Zeem*","Kazav*","Pasus*","The Vine*","Vali*","Zai*","Gavus***","Green Worlds***","Stargi***","Blod**","The Clogging Soul***","Contorlas***","Sidilico**","Long Step**","The Violet**","Sul Vopal**",
-					//"Tamak**","Fuedisar**","Clipsan**","Phidius**","Grey World","Union 78","The Timeless","Flat World*","Titus","Dolot","Locun","Soto 4","Sarlum","Somber","Thalis"];
-
+					var v;
+					for( v = 0; v < getNames.length; v++)
+					{
+						AlienNames[v] = getNames[v];
+						console.log(AlienNames[v]);
+					}
 					var i;
-					var scaleFactor = 1;
+					var scaleFactor = 25;
 					var size = 256;
 					var scene = new THREE.Scene();
 					var camera = new THREE.PerspectiveCamera( 75, window.innerWidth/window.innerHeight, 0.1, 10000000 );
@@ -50,56 +49,42 @@
     			renderer.setSize( window.innerWidth, window.innerHeight );
     			document.body.appendChild( renderer.domElement );
 					var Orb = new THREE.OrbitControls( camera );
-
 					var GalacticText = new THREE.FontLoader();
 					var GalacticMat = new THREE.MeshBasicMaterial({color: 0xffffff});
 					var geometry = new THREE.BoxGeometry( 5,5,5 );
 					var Wgeometry = new THREE.BoxGeometry( 2,2,2 );
 					var material = new THREE.MeshBasicMaterial({color: 0x00ff00});
 					var Smaterial = new THREE.MeshBasicMaterial({color: 0x00ff00});
-					var Wmaterial = new THREE.MeshBasicMaterial({color: 0xffffff});
+					var Wmaterial = new THREE.MeshBasicMaterial({color: 0x00ff00});
 					var CenterGeo = new THREE.SphereGeometry( 50,7,7 );
 					var CenterMat = new THREE.MeshBasicMaterial({color: 0x000000});
-					var BHgeometry = new THREE.PlaneGeometry( 100000,100000 );
+					var BHgeometry = new THREE.PlaneGeometry( 100000/scaleFactor,100000/scaleFactor );
 					var BHmaterial = new THREE.MeshPhongMaterial({side: THREE.DoubleSide, opacity: 0.5, transparent: true, map: texture0});
 					var PoI = new THREE.Mesh( geometry, material );
-					var Sol = new THREE.Mesh( geometry, Smaterial );
 					var Wash = new THREE.Mesh( Wgeometry, Wmaterial );
-
 					var Center = new THREE.Mesh( CenterGeo, CenterMat );
 					var BlackHole = new THREE.Mesh( BHgeometry, BHmaterial );
-
 					var Light = new THREE.AmbientLight(0xffffff,0.5);
 					var Light2 = new THREE.AmbientLight(0xffffff,0.5);
-					var Solar_System = addAliens("Earth");
-
+					var Solar_System = Build_World("Earth 19000 19100 T M");
 					BlackHole.rotation.x = 1.57079632679;
 					Light.position.y = 10000;
 					Light2.position.y = -10000;
-
-					Sol.scale.xyz = 100;
-					Sol.position.x = 0;
-					Sol.position.z = -19100;
-					Solar_System.position.x = Sol.position.x;
-					Solar_System.position.y = Sol.position.y + 25;
-					Solar_System.position.z = Sol.position.z;
-
-
+					var AlienNaming = new Array();
+					AlienNaming[0] = Solar_System;
 					var PoIcoord = new Array();
 					var PoILabels = new Array();
 					var WashCoord = new Array();
-					var AlienNaming = new Array();
-					for(i = 0; i < AlienNames.length; i++)
+					for(i = 1; i < AlienNames.length; i++)
 					{
-						Build_World(AlienNames[i]);
-						AlienNaming[i] = AlienNames[i];
+						WorldObj = Build_World(AlienNames[i]);
+						AlienNaming[i] = WorldObj;
 					}
-
 					//Populate();
 					//Generates the locations of every major biosphere in the galaxy.
-					for(i = 0; i < 12187; i++)
+					for(i = 0; i < 72103928; i++)
 					{
-
+						var worldRoll = 1000 * Math.random();
 						var deg = 360 * Math.random();
 						var sparseRoll = 100 * Math.random();
 						var fryRoll = 100 * Math.random();
@@ -119,7 +104,27 @@
 							 rad -= 4700;
 						}
 						var WaIn = Wash.clone();
-						WaIn.material = PoI.material.clone();
+						WaIn.material = Wash.material.clone();
+						//Desert worlds
+						if(worldRoll > 200 && worldRoll <= 600){
+							WaIn.material.color.setHex(0xff5733);
+						}
+						//Ocean Worlds
+						if(worldRoll > 600 && worldRoll <= 800){
+							WaIn.material.color.setHex(0xa3ecd0);
+						}
+						//Subglacial/Ice worlds
+						if(worldRoll > 800 && worldRoll <= 925){
+							WaIn.material.color.setHex(0xe2fffc);
+						}
+						//Jovian Worlds
+						if(worldRoll > 925 && worldRoll <= 999){
+							WaIn.material.color.setHex(0x480a79);
+						}
+						//Procedural mega organism world test
+						if(worldRoll > 999 && worldRoll <= 1000){
+							WaIn.material.color.setHex(0x000000);
+						}
 						WaIn.position.x = 0;
 						WaIn.position.y = 0;
 						WaIn.position.z = 0;
@@ -127,15 +132,13 @@
 						WaIn.position.x = rad * Math.cos(deg);
 						WaIn.position.z =  rad * Math.sin(deg);
 						//Height above/below the galactic disk
-						WaIn.position.y = -500 + 1000 * Math.random();
-
+						WaIn.position.y = -1000 + 2000 * Math.random();
 						//Scaling conversion
 						WaIn.position.x = WaIn.position.x/scaleFactor;
 						WaIn.position.y = WaIn.position.y/scaleFactor;
 						WaIn.position.z = WaIn.position.z/scaleFactor;
 						WashCoord.push(WaIn);
 					}
-
 					for(i = 0; i < AlienNaming.length; i++)
 					{
 						var deg = 360 * Math.random();
@@ -155,16 +158,14 @@
 						var rad = 5000 + (VariableMax - VariableMin) * Math.random();
 						var PoIn = PoI.clone();
 						var Labeler = Lab.clone();
-						PoIn.material = PoI.material.clone();
-						PoIn.position.x = 0;
-						PoIn.position.y = 0;
-						PoIn.position.z = 0;
+						PoIn.position.x = HandleWithCare.xpos;
+						PoIn.position.y = HandleWithCare.ypos;
+						PoIn.position.z = HandleWithCare.zpos;
 						//Degree converter
 						PoIn.position.x = rad * Math.cos(deg);
 						PoIn.position.z =  rad * Math.sin(deg);
 						//Height above/below the galactic disk
-						PoIn.position.y = -500 + 1000 * Math.random();
-
+						PoIn.position.y = -1000 + 2000 * Math.random();
 						//Scaling conversion
 						PoIn.position.x = PoIn.position.x/scaleFactor;
 						PoIn.position.y = PoIn.position.y/scaleFactor;
@@ -172,154 +173,46 @@
 						Labeler.position.x = PoIn.position.x;
 						Labeler.position.y = PoIn.position.y + 10;
 						Labeler.position.z = PoIn.position.z;
+						HandleWithCare.xpos = PoIn.position.x;
+						HandleWithCare.ypos = PoIn.position.y;
+						HandleWithCare.zpos = PoIn.position.z;
+						HandleWithCare.mesh = PoIn;
+						HandleWithCare.mesh.material = PoIn.material.clone();
+						HandleWithCare = Render_World(HandleWithCare);
+						console.log(HandleWithCare.mesh.material.color);
 						PoILabels.push(Labeler);
-						PoIcoord.push(PoIn);
+						PoIcoord.push(HandleWithCare);
 					}
-
 					for(i = 0; i < WashCoord.length; i++)
 					{
 						scene.add( WashCoord[i] );
 					}
-
 					for(i = 0; i < PoILabels.length; i++)
 					{
-						scene.add( PoIcoord[i] );
+						console.log(PoIcoord[i]);
+						scene.add(PoIcoord[i].mesh);
+						console.log(PoIcoord[i].mesh.material.color);
 						scene.add( PoILabels[i] );
 					}
-					scene.add(Sol);
 					scene.add(BlackHole);
 					scene.add(Center);
 					scene.add(Light);
 					scene.add(Light2);
-
-					scene.add(Solar_System);
-
-
 				//	scene.add(StarText);
 					camera.position.y = 5000;
 					camera.rotation.x = toRadians(270);
-
           animate();
-
     			function animate() {
 						requestAnimationFrame( animate );
 						//Refresh command
-
 						renderer.render(scene, camera);
           };
-
 					function toRadians (angle) {
   						return angle * (Math.PI / 180);
 					}
-
 					function Randomize(max) {
 						return Math.floor(Math.random() * Math.floor(max));
 					}
-
-					/*function Populate()
-					{
-						//Adds the random systems (representing places with life usually, though not that well since the universe will have way more than 71K worlds with complex life!)
-						//So you could say it's the "where intelligent life exists" populator with any smaller scale procedural content being just that.
-						for(i = 0; i < 71000; i++)
-						{
-
-							var deg = 360 * Math.random();
-							var sparseRoll = 100 * Math.random();
-							var fryRoll = 100 * Math.random();
-							var VariableMax = 30000 + 5000 * Math.random();
-							if(sparseRoll > 75)
-							{
-								 VariableMax = 30000 + 20000 * Math.random();
-							}
-							if(fryRoll > 75)
-							{
-								 VariableMin = 5450 * Math.random()
-							}
-							var VariableMin = 50 + 5450 * Math.random();
-							var rad = 5000 + (VariableMax - VariableMin) * Math.random();
-							if(fryRoll > 92)
-							{
-								 rad -= 4700;
-							}
-							var WaIn = Wash.clone();
-							WaIn.material = PoI.material.clone();
-							WaIn.position.x = 0;
-							WaIn.position.y = 0;
-							WaIn.position.z = 0;
-							//Degree converter
-							WaIn.position.x = rad * Math.cos(deg);
-							WaIn.position.z =  rad * Math.sin(deg);
-							//Height above/below the galactic disk
-							WaIn.position.y = -500 + 1000 * Math.random();
-
-							//Scaling conversion
-							WaIn.position.x = WaIn.position.x;
-							WaIn.position.y = WaIn.position.y;
-							WaIn.position.z = WaIn.position.z;
-							WashCoord.push(WaIn);
-						}
-
-						//Adds the PoI systems
-						for(i = 0; i < AlienNaming.length; i++)
-						{
-							var deg = 360 * Math.random();
-							var sparseRoll = 100 * Math.random();
-							var VariableMax = 30000 + 5000 * Math.random();
-							if(sparseRoll > 75)
-							{
-								 VariableMax = 30000 + 20000 * Math.random();
-							}
-							if(fryRoll > 75)
-							{
-								 VariableMin = 5450 * Math.random()
-							}
-							var VariableMin = 50 + 5450 * Math.random();
-							var HandleWithCare = AlienNaming[i];
-							var Lab = addAliens(HandleWithCare);
-							var rad = 5000 + (VariableMax - VariableMin) * Math.random();
-							var PoIn = PoI.clone();
-							var Labeler = Lab.clone();
-							PoIn.material = PoI.material.clone();
-							PoIn.position.x = 0;
-							PoIn.position.y = 0;
-							PoIn.position.z = 0;
-							//Degree converter
-							PoIn.position.x = rad * Math.cos(deg);
-							PoIn.position.z =  rad * Math.sin(deg);
-							//Height above/below the galactic disk
-							PoIn.position.y = -500 + 1000 * Math.random();
-
-							//Scaling conversion
-							PoIn.position.x = PoIn.position.x;
-							PoIn.position.y = PoIn.position.y;
-							PoIn.position.z = PoIn.position.z;
-							Labeler.position.x = PoIn.position.x;
-							Labeler.position.y = PoIn.position.y + 10;
-							Labeler.position.z = PoIn.position.z;
-							PoILabels.push(Labeler);
-							PoIcoord.push(PoIn);
-						}
-
-						//Adds generated objects to the scene.
-						for(i = 0; i < WashCoord.length; i++)
-						{
-							scene.add( WashCoord[i] );
-						}
-
-						for(i = 0; i < PoILabels.length; i++)
-						{
-							scene.add( PoIcoord[i] );
-							scene.add( PoILabels[i] );
-						}
-						scene.add(Sol);
-						scene.add(BlackHole);
-						scene.add(Center);
-						scene.add(Light);
-						scene.add(Light2);
-
-						scene.add(Solar_System);
-					}*/
-
 					function addAliens( aliens ){
 						var procCanvas = document.createElement('canvas');
 						var size = 256 * 4;
@@ -327,10 +220,25 @@
 						procCanvas.height = size;
 						var plane = procCanvas.getContext('2d');
 						procCanvas.width = procCanvas.height = size;
-						plane.fillStyle = '#ffff00';
+						switch(aliens.development)
+						{
+							case "B":  plane.fillStyle = '#c2e71e';
+														 break;
+							case "P":  plane.fillStyle = '#1ee77f';
+														 break;
+							case "S":  plane.fillStyle = '#ffc541';
+														 break;
+							case "M":  plane.fillStyle = '#ffffff';
+														 break;
+							case "O":  plane.fillStyle = '#e71ee4';
+															break;
+							case "C":  plane.fillStyle = '#0000ff';
+															break;
+							default:  World_Class = "YOU FUCKED UP THE WORLD CLASS";
+							}
 						plane.textAlign = 'center';
 						plane.font = '64px Cambria';
-						plane.fillText(aliens,size/2,size/2);
+						plane.fillText(aliens.name,size/2,size/2);
 						var texus = new THREE.Texture(procCanvas);
 						texus.needsUpdate = true;
 						var texmat = new THREE.SpriteMaterial({
@@ -340,65 +248,116 @@
 							depthTest: false,
 							transparent: false,
 							opacity: 1.0,
-
 						})
 						var sprite = new THREE.Sprite(texmat);
 						sprite.scale.set(500,500,50);
 						return sprite;
 					}
-
 					//Reads stuff from a list with the name and the tags.
 					//Format:
 					// (Name) [Biome] [Class]
 					//This is the PoI version (the more random version is more random and does not allow the computer to make major sapients- very illegal!)
 					function Build_World(name) {
+						var worldMake = new Object();
+						var NWorld_Class;
 						tagger = "";
+						var Max_Dist = 0;
+						var Min_Dist = 50000;
 					  var tagger = new Array();
 						tagger.length = 0;
 						tagger = name.split(" ");
 						var display_Name = "";
-					  for(var k = 0; k < tagger.length-2; k++)
+					  for(var k = 0; k < tagger.length-4; k++)
 					  {
 							display_Name += tagger[k] + " ";
 					  }
+							Min_Dist = tagger[tagger.length-4];
+							Max_Dist = tagger[tagger.length-3];
 						 	World_Class = tagger[tagger.length-2];
 							Object_Type = tagger[tagger.length-1];
 							switch(World_Class)
 							{
-								case "T": World_Class = "Terran";
+								case "T": NWorld_Class = "Terran";
 													break;
-								case "D": World_Class = "Desert";
+								case "D": NWorld_Class = "Desert";
 													break;
-								case "S": World_Class = "Sunglacial";
+								case "S": NWorld_Class = "Subglacial";
 													break;
-								case "O": World_Class = "Ocean";
+								case "O": NWorld_Class = "Ocean";
 													break;
-								case "J": World_Class = "Jovian";
+								case "J": NWorld_Class = "Jovian";
 													break;
-								default:  World_Class = "YOU FUCKED UP THE WORLD CLASS";
+								default:  NWorld_Class = "YOU FUCKED UP THE WORLD CLASS";
 							}
 							switch(Object_Type)
 							{
-								case "B": Object_Type = "Biosphere";
+								case "B": NObject_Type = "Biosphere";
 													break;
-								case "P": Object_Type = "Primitive Sapients";
+								case "P": NObject_Type = "Primitive Sapients";
 													break;
-								case "S": Object_Type = "Sapients";
+								case "S": NObject_Type = "Sapients";
 													break;
-								case "M": Object_Type = "Major Sapients";
+								case "M": NObject_Type = "Major Sapeint";
 													break;
-								case "O": Object_Type = "Super Organism";
+								case "O": NObject_Type = "Super Organism";
 													break;
-								case "C": Object_Typ = "Colony";
+								case "C": NObject_Type = "Colony";
 													break;
-								case "A": Object_Type = "Megastructure";
-													break;
-								default:  Object_Type = "YOU FUCKED UP THE LIFE TYPE";
+								default:  NObject_Type = "YOU FUCKED UP THE LIFE TYPE";
 							}
-						console.log("World name: " + display_Name);
-						console.log("World Type: " + World_Class);
-						console.log("Life Type: " + Object_Type);
-					//  return World_Object;
-					}
-
+				//		console.log("World name: " + display_Name);
+					//	console.log("World Type: " + World_Class);
+					//	console.log("Life Type: " + Object_Type);
+						 worldMake.name = display_Name;
+						 worldMake.biome = World_Class;
+						 worldMake.name_biome = NWorld_Class;
+						 worldMake.development = Object_Type;
+						 worldMake.name_development = NObject_Type;
+						 worldMake.xpos = 0;
+						 worldMake.ypos = 0;
+						 worldMake.zpos = 0;
+						 worldMake.minDist = Min_Dist;
+						 worldMake.maxDist = Max_Dist;
+						 return worldMake;
+					 }
+					 //Renders the world based on Tag-Based asterData
+					 function Render_World(WorldRender) {
+						 //Geometry defined by class of world
+						 switch(WorldRender.development)
+						 {
+							 case "B":  WorldRender.mesh.scale.xyz = 1;
+												 			break;
+							 case "P":  WorldRender.mesh.scale.xyz = 2;
+												 			break;
+							 case "S":  WorldRender.mesh.scale.xyz = 4;
+												 			break;
+							 case "M":  WorldRender.mesh.scale.xyz = 8;
+												 			break;
+							 case "O":  WorldRender.mesh.scale.xyz = 16;
+												 			 break;
+							 case "C":  WorldRender.mesh.scale.xyz = 1;
+															 break;
+							 default:  World_Class = "YOU FUCKED UP THE WORLD CLASS";
+							 }
+						 //Color defined by ecology type of world
+						 console.log(WorldRender.biome);
+						 switch(WorldRender.biome)
+						 {
+							 case "T":  WorldRender.mesh.material.color.setHex(0x00ff00);
+												 			break;
+							 case "D":  WorldRender.mesh.material.color.setHex(0xff5733);
+												 			break;
+							 case "S":  WorldRender.mesh.material.color.setHex(0xe2fffc);
+												 			break;
+							 case "O":  WorldRender.mesh.material.color.setHex(0xa3ecd0);
+												 			break;
+							 case "J":  WorldRender.mesh.material.color.setHex(0x480a79);
+												 			 break;
+							 default:  World_Class = "YOU FUCKED UP THE WORLD CLASS";
+							 }
+							 return WorldRender;
+						 }
+						 function Asterize(anchor_world, fixer)
+						 {
+						 }
     		</script>

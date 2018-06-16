@@ -1,7 +1,9 @@
 
-### Overview and Geology
+### Overview
 
 Fuedisar is a large, acidic world where the Vopson originate.  Fuedisar has multiple inland oceans connected by large rivers and is pock marked in a terrain with huge deserts separated by seas of sulfuric acid.  There is not much metal on Fuedisar, but it is possible to start fires on Fuedisar and that is all you really need to make an advanced civilization, making use of the plastic-like bones of creatures in ways impossible with calcium based bones on Earth.  Fuedisar’s acidic environment has led to life which has resorted to much more rigorous, acid proof materials for protection (as the acidity of Fuedisar is more a product of acid excreting bacteria, so life on Fuedisar didn’t start out adapted to seas of sulfuric acid).
+
+### Geology
 
 The landscapes are generally hilly with the brazen exception of the crystal mountains that occupy the northern parts of the world.  For acidic worlds in the geological processes have a tendency to leave behind vast swathes of crystals, massive ones in fact which deposit      
 
