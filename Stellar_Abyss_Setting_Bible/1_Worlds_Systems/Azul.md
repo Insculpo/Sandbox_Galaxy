@@ -5,6 +5,6 @@ Azul is a dark, cloudy desert world where highly lithic life has thrived among t
 
 ### Cyan trees
 
-The copper rich nature of the world has lead to savannahs with distictive, rich blue cyan trees.
+The copper rich nature of the world has lead to savannahs with distinctive, rich blue cyan trees.
 
 Cyan trees have amazingly deep roots and usually thrive in mountains.  Their blue color comes from the quality of copper they absorb, and can also be clear and white in coloration.  This mineral rich tree glows at pure twilight, to attract all manner of pollinators to its solitary, rusty existence as cyan trees due to their deep roots are relatively solitary in the volcanic mountainous Savannah.
