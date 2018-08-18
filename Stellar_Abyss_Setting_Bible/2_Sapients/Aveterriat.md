@@ -1,4 +1,10 @@
 
+<h2 align="center">Aveterriat
+</h2>
+<p align="center">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Aveterriat.png">
+</p>
+
 ### Overview
 
 The Aveterriat are small, highly reproductive beings around the size of a housecat when full grown who live at first what seems like a strange, unitary existence, but in truth live in a strange form of desire pursuit where work is an end of itself with deep taboos on idleness and laziness.  
