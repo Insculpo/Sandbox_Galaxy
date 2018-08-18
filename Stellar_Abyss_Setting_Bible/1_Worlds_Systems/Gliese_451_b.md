@@ -1,5 +1,5 @@
 
-<p align="center">Gliese 451</h2>
+<h2 align="center">Gliese 451</h2>
 <img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Gliese451.png" width="210" height="270">
 </p>
 
