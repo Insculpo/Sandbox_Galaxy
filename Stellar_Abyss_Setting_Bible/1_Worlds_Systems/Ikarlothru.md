@@ -25,4 +25,4 @@ Tree Suckers
 
 ### Tree Suckers
 
-These Tree Suckers are clam-like critters that latch to trees for parasitic reasons, have a smaller polyp form that roams for a nice spot to start sucking and they than entrench themselves.  They reproduce with spores that become cysts at lower levels, which hatch into crawlers who find new places to suck sap from.  They're stationary, and suck slowly, lasting a several months before running out of water to filter from a dry season.  They populam various biomes of the Ikarlothru like herpes.
+These Tree Suckers are clam-like critters that latch to trees for parasitic reasons, have a smaller polyp form that roams for a nice spot to start sucking and they than entrench themselves.  They reproduce with spores that become cysts at lower levels, which hatch into crawlers who find new places to suck sap from.  They're stationary, and suck slowly, lasting a several months before running out of water to filter from a dry season.  They populate various biomes of the Ikarlothru like herpes.
