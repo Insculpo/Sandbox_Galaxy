@@ -1,7 +1,14 @@
 
+<h2 align="center">Dioviermes
+</h2>
+<p align="center">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Dioviermes.png">
+</p>
+
+
 ### Evolution
 
-The Dioviermes are serpentine aliens with segmented bodies and trilateral symmetry.   They are from humid world with perpetual cloud cover broken only by the dry seasons and highly mountainous landscapes. It is a world with little gravity, a factor which would affect their evolution greatly as it allowed them to be gliders rather easily.  This misty world is a very warm, hazy world whose hydrosphere is more like numerous, interconnected seas than continents and oceans.  Such environment proved a great incubator of biodiversity on their world with its 40% landmass.  Diovierme evolution was not as slow as one would think, mainly since their mitosis and asexual reproduction is supplemented with ???
+The Dioviermes are serpentine aliens with segmented bodies and trilateral symmetry.   They are from humid world with perpetual cloud cover broken only by the dry seasons and highly mountainous landscapes. It is a world with little gravity, a factor which would affect their evolution greatly as it allowed them to be gliders rather easily.  This misty world is a very warm, hazy world whose hydrosphere is more like numerous, interconnected seas than continents and oceans.  Such environment proved a great incubator of biodiversity on their world with its 40% landmass.  Diovierme evolution was not as slow as one would think, mainly since their mitosis and asexual reproduction is helped by basic darwinian logic and mutations cuased during growth of new body parts.
 
 Of the many families of organisms of their world, the Dioviermes come from a segmented, trilaterally symmetrical family of arboreal creatures.  Unlike with humans, the Dioviermes never stopped being arboreal, in fact they evolved into the direction of being gliders to take advantage of the weak gravity of their world.     
 
