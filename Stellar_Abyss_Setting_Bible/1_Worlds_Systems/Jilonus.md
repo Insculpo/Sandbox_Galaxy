@@ -1,3 +1,7 @@
+<h2 align="center">Jilonus</h2>
+<p align="center">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/migrators.png" height="270" width="210" >
+</p>
 
 ### Overview
 
