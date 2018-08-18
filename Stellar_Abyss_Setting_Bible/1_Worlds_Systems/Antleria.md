@@ -1,6 +1,13 @@
+<h2 align="center">Antleria
+</h2>
+<p align="center">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Antleria.png" width="210" height="260">
+</p>
+
+
 ### Geology
 
-The T-life are life forms which subside on radiation from radioactive decay.  They are a common force on the neon rich world of Antlers, a icy super earth which remains geologically active despite speeding through a eternal abyss.  Antlers hosts the T-life underground and on the surface, which is shrouded in a sense, neon-rich atmosphere and a landscape of supercritical ices which flow about the cryogenic world.  
+Anterlia is a frigid world with life that has come to embrace a cyrophilliac, radiotrophic style of living.  The T-life are life forms which subside on radiation from radioactive decay.  They are a common force on the neon rich world of Antlers, a icy super earth which remains geologically active despite speeding through a eternal abyss.  Antlers hosts the T-life underground and on the surface, which is shrouded in a sense, neon-rich atmosphere and a landscape of supercritical ices which flow about the cryogenic world.  
 
 ### Ecology
 
