@@ -4,7 +4,7 @@
 Kyruvi is a world which always had a liquid nitrogen layer beneath its surface and thus, instead of developing a thick shell with a ultra deep ocean developed a liquid nitrogen ocean where life emerged. Kyruvi is just one example of the incredible diversity of icy worlds in conditions not often seen.
 
 <p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Porlor.png">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Porlor.png" width="210" height="270">
 </p>
 
 ### The Porlor
