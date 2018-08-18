@@ -1,4 +1,11 @@
 
+
+<h2 align="center">Cyrawaloc
+</h2>
+<p align="center">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Cyrawaloc.png" width="400" height="560">
+</p>
+
 ### Overview
 
 The Cyrawaloc are three separate species combined into a single sapient being. If these species were separated they would never have made a massive interstellar civilization.  The heads are the Cyrs, the bodies are the Awa and the limbs are the Loka.  Multiple combinations of head and limb exist, but universally a Cyrawaloc will have only a single body to separate itself from another ‘individual’.  They are a very widespread and powerful species in the current day, even in spite of incidents such as the Bilethought or the ikeitan exodus in their deeper history spanning back over four millennia.  They have since deviated into many strange forms and have a civilization built on both advanced synthetic technology and magnetic manipulation.  The Cyrawaloc are individualistic minded, but not in the same way as us.  All the three species part of a Cyrawaloc are viewed as the same individual and aggressively so; denying that they are the same is viewed as an insult. The Cyrawaloc identify shifts as parts of itself are born and die, attaching and detaching.  The death of the Awa (body), the least sapient part of a Cyrawaloc, ironically is usually viewed as the “death” of an individual even if the head and limbs survive as the body lives much longer than the head or limbs.  A cyrawaloc can have a single limb, five limbs, two heads and so forth.  The limit is usually two heads and five limbs, anymore and “mental disorders” happen like insanity, plain and simple insanity.  Not to mention it risks encumbering the Awa.  
