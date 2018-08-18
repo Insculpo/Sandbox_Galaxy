@@ -1,11 +1,21 @@
+<h2 align="center">Tabby World
+</h2>
 
 ### Overview
 
 Tabby world is a cool, earthlike world where the grass is teal and the temperatures tend to range from temperate to freezing and orbits over 2.5 AU from its blazing hot F class star, in fact the world is already melting.  It is a complex world where you can expect all matter of strange critters waltzing about who are used to colder conditions than you ever see on Earth.  Tabby World is called such because it was found in orbit of Tabby’s star, while a disappointment due to the lack of any real megastructure, the unexpected discovery of a biosphere here sparked the imagination regardless given the young age of the parent star.
 
+<p align="center">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Ice_Spiker.png" width="210" height="270">
+</p>
+
 ### Ice spikers
 
 Predatory creatures found on in the colder regions of Tabbyland, these critters have feet adapted to walking across feeling cold ice and all matter of adaptations for fishing, holding themselves against blizzards and climbing up steep surfaces as de facto tripods.  They also defend themselves from larger predators through all matter of poisonous chilla.
+
+<p align="center">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Gelid.png" width="210" height="270">
+</p>
 
 ### Gelids
 
