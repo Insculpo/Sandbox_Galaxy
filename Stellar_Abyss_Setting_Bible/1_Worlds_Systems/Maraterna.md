@@ -1,6 +1,12 @@
+<h2 align="center"> Maraterna </h2>
+
 ### Overview
 
 Maraterna is an ocean world with a couple tiny, tiny islands in the northern and southern poles where the oceans are slightly shallower.  Maraterna has cultivated in its 30KM deep oceans and a vast range of life ranging from the paranoid, toxic and moss cultivating Alephids to the massive and territorial Samala.
+
+<p align="center">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Samala.png" width="210" height="270">
+</p>
 
 ### Samala
 
