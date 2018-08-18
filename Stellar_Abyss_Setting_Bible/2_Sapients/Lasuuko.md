@@ -1,3 +1,4 @@
+![Lasuuko](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Lasuuko.png "Lasuuko")
 
 ### Overview
 
