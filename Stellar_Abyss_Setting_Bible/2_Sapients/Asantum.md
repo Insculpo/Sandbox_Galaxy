@@ -1,5 +1,11 @@
 
-###Evolution
+<h2 align="center">Asantum
+</h2>
+<p align="center">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Asantum.png">
+</p>
+
+### Evolution
 
 The Asantum come from a Europa-like world with a rocky core, icy mantle and a thin ice shell that was in a jovian moon system.  Their intelligence is the product of being a colonial organism that had to develop intelligence to make the most of their arrangement and the latent instabilities in their world caused by tidal stress from a large nearby moon that makes the regional outflows of volcanic food pumps somewhat unpredictable.  They are a higher-level predator-omnivore on their home world and like many, if not all sapients, did attain the apex predator niche remarkably fast.  The Asantum evolved their intelligence over a very long period because of mating selection between the tendrils and the need to intercommunicate their bodies in a feed-back loop which led to their modern psychology over competing minds that had too cooperate even as they competed for mates and food.  The Asantum eventually evolved to intense a mutual relationship between their aggregations that they became inseperable, however even modern Asantum can survive without some of their limbs in a savage, retarded state.  The Asantum come from creatures who millions of years ago were rooted to the ground that became free swimming entities who never closed their base roots.  Said base root found new functionality as their prehensile hands as they grew more intelligent, however the Asantum using their hands to anchor themselves to rocks in the depths of their world when they want to sit remains a common habit.
 
