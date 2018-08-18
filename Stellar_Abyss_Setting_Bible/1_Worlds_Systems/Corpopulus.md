@@ -1,3 +1,9 @@
+<h2 align="center">Corpopulus
+</h2>
+<p align="center">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Corpopulus.png" width="210" height="260">
+</p>
+
 ### Overview
 
 Th Corpopulus complex is a network of worlds Spanning across a Jovian system which houses huge populations of many sprawl entities, of whom seem to have regressed greatly from the once advanced existence their society once had.
