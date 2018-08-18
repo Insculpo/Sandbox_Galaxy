@@ -1,3 +1,8 @@
+<h2 align="center">Steel World
+</h2>
+<p align="center">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Steel_World.png" width="210" height="270">
+</p>
 
 ## Overview
 
