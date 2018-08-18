@@ -1,3 +1,9 @@
+<h2 align="center">Butusov
+</h2>
+<p align="center">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Blutusov.png" width="210" height="260">
+</p>
+
 ### Overview
 
 Butusov is a temperate world with oceans of nitric acid.    The world is very flat and can be slathered in ocean sized high tides of acid, creating a highly porous, meandering terrain modified mostly by large crystalline deposits hundreds of meters in height.  These crystal mountains are a common feature on acidic worlds in general, and Butusov is of no exception.  These crystal mountains are where of all places the floral features of the world take root, along with vast bacterial colonies of chemotrophs who live in the surface of the crystals, giving them a whole rainbow of colors though usually orange due to their acidic exposure.
