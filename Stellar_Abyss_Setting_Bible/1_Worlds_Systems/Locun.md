@@ -1,7 +1,13 @@
+<h2 align="center">Locun
+</h2>
 
 ### Overview
 
 Locun is a high gravity world notable for having life that looks stunningly like that of the Ivoltic, this is because Locun is an Ivoltic world, simply one that doesn’t acknowledge the fact due to how they broke with gravity orthodoxy to live on a high gravity world and culturally degenerated back to a Darwinist ecosystem much to the total horror of the other Ivoltic clades.
+
+<p align="center">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Sardoid.png" width="210" height="270">
+</p>
 
 ### Sardoids
 
