@@ -9,4 +9,3 @@
 * [Civilizations](https://github.com/Insculpo/Sandbox_Galaxy/new/Galactic/Stellar_Abyss_Setting_Bible/CivCatalog.md)
 * [Characters](https://github.com/Insculpo/Sandbox_Galaxy/new/Galactic/Stellar_Abyss_Setting_Bible/CharCatalog.md)
 * [Technologies](https://github.com/Insculpo/Sandbox_Galaxy/new/Galactic/Stellar_Abyss_Setting_Bible/TechCatalog.md)
-
