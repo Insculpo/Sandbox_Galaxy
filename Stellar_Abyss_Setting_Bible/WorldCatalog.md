@@ -1,12 +1,6 @@
+# World Catalog
 
-### Homeworlds
-
-* [Fuedisar](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Fuedisar.md)
-* [Long Step](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Long_Step.md)
-* [Sidilico](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Sidilico.md)
-* [Slow](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Slow.md)
-* [Sul Vopal](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Sul_Vopal.md)
-* [Vamusida](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Vamusida.md)
+This catalog contains dozens of worlds od the abyss.
 
 ## Sterile Worlds (Solid)
 
@@ -188,6 +182,17 @@ Jovian worlds as incredible as it sounds, can at times have life. Life on Jovian
 * [Hyperoxia](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Hyperoxia.md)
 * [Sammanus](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Sammanus.md)
 
+
+## Miscellaneous
+
+### Homeworlds
+
+* [Fuedisar](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Fuedisar.md)
+* [Long Step](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Long_Step.md)
+* [Sidilico](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Sidilico.md)
+* [Slow](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Slow.md)
+* [Sul Vopal](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Sul_Vopal.md)
+* [Vamusida](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Vamusida.md)
 
 ### Other/Artifical
 
