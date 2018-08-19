@@ -1,7 +1,13 @@
+<h2 align="center">Glinnvyr
+</h2>
+<p align="center">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Glinnvyr.png" width="210" height="270">
+</p>
+
 
 ### Overview
 
-Glinnvyr are ice worlders who have transcended the slowness of typical low metabolism life by shifting metabolic states- being statue-like one minute and moving at insane rates as needed.  The Glinnvyr are in a niche akin to a more social jaguar, climbing in trees and hunting down prey.  However, despite their low sociality they can be shockingly coordinated.  Their social structure is more egalitarian and individualistic than humans, with much less social stratification in general, often being united by common ideas more than by kinship.  The Glinnvyr body design is very elongated, with jointed limbs that at the third joint split into two sub-limbs which act like both extremely large grabbers with their hands and feet at the ends of them.  
+Glinnvyr are beings from a frigid, tundra-like world where oily pools are frequent.  Despite the metabolism poor environment, the Glinnvyr have transcended the slowness of typical low metabolism existence by shifting metabolic states.  Shifting between being statue-like one minute and moving at insane rates as needed.  The Glinnvyr are in a niche akin to a more social jaguar, climbing in trees and hunting down prey.  However, despite their low sociality they can be shockingly coordinated.  Their social structure is more egalitarian and individualistic than humans, with much less social stratification in general, often being united by common ideas more than by kinship.  The Glinnvyr body design is very elongated, with jointed limbs that at the third joint split into two sub-limbs which act like both extremely large grabbers with their hands and feet at the ends of them.  
 
 The Glinnvyr in nature had the niche of some ambush predator in arboreal climates.  They are rather individualistic in how they conduct relationships, often tending towards smaller social hierarchies and groups except in certain circumstances.  The Glinnvyr hunted as obligate carnivores and having to do so with much less energy than what Earth had- though their environment wasn't entirely arboreal as the oxygen fumes from organic cyrovolcano dwelling mega flora and a relatively warmer environment from say, Titan meant that there is a 1.4% oxygen content on their world.  
 
