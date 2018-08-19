@@ -1,6 +1,14 @@
+<h2 align="center">Lamsis
+</h2>
+
 ### Overview
 
 Torpo is a high gravity desert world where only some regions of the world are habitable (mainly due to the scorching heat towards the equator).  The high gravity has forced distinctive measures for survival.
+
+
+<p align="center">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Illi.png" width="210" height="270">
+</p>
 
 ### Illi
 
