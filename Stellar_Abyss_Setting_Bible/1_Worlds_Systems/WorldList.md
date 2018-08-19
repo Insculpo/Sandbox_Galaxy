@@ -33,7 +33,7 @@
 * [Dumbells](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Dumbells.md)
 * [Exolith](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Exolith.md)
 * [Glisten](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Glisten.md)
-* [HIP 103629 d](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/HIP_103629_d.md)
+* [HIP 103629 d](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/HIP_103639_d.md)
 * [Hiviza](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Hiviza.md)
 * [Ikarlothru](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Ikarlothru.md)
 * [Infrared Peaks](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Infrared_Peaks.md)
