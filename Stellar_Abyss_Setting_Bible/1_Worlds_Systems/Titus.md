@@ -22,7 +22,7 @@ Roots are a biostructure that gets both solar and geothermal energy.  They are
 A mountain formation whose erosion has been reduced by numerous plants and roots holding the structure together hosts a vast range of arboreal, mountain inclined life used to living hundreds of feet above ground within the mesh of roots and vines which drape the hanging peaks.  
 
 <p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/findlers.png" width="210" height="270">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Findler.png" width="210" height="270">
 </p>
 
 ### Findlers
