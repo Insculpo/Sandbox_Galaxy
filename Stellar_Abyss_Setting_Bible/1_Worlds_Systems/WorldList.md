@@ -51,7 +51,6 @@
 
 ### Ocean Worlds
 
-* [Lamsis](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Lamsis.md)
 * [Maraterna](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Maraterna.md)
 * [Somber](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Somber.md)
 * [Uvami](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Uvami.md)
@@ -61,6 +60,7 @@
 ### Subglacial Worlds
 
 * [Kyurvi](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Kyurvi.md)
+* [Lamsis](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Lamsis.md)
 * [Night](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Night.md)
 * [Sapli](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Sapli.md)
 * [The Skimming](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Skimming.md)
