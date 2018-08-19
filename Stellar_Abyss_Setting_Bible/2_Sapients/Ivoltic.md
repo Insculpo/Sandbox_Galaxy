@@ -1,16 +1,24 @@
 
+<h2 align="center">Ivoltic
+</h2>
+<p align="center">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Ivoltic.png" width="180" height="270">
+</p>
+
 ### Overview
 
 The Ivoltic are a collective biosphere built through a communal relationship between millions of species cooperating to the fugue of existence.
 
-The Ivoltic started off as cultivated by the violet, a mega organism whose pheromone network allowed for a slow thinking, global brain in a stable enough environment.
-
-This slow, dilliberate being appears as a whole range of long, rigid needles with the base being much more organic;
+The Ivoltic started off as cultivated by the Violet, a mega organism whose pheromone network allowed for a slow thinking, global brain in a stable enough environment.
 
 ### Biology
 
 This body has in its base a storage of decomposers and memories which over time it has used to make much more elaborate pheromone can mixtures from the corpses of dead animals.  The red stuff is its gamete spreading mechanism.
 The Ivoltic festered about a world which was a festering corpse, existing and coming to play after a mass extinction killed off 70% of all life on the origin world of the Violet.  The Violet is a low gravity world, so a lot of architecture impossible on our world was very possible here, such as sky networks of pheromones transported by super highways of large flying creatures known as the Gilded Winged.
+
+<p align="center">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Gild_Wing.png" width="180" height="270">
+</p>
 
 They share the world with those driller critters from your nature brain storm.  As they come from the same kingdom.  The violet/yellow scheme of the kingdom the towers are made from hold a strong relationship anyways.  The yellow coloration of much the life on this world is a product of a fluke, mainly it worked earlier on and so yellow/brown variations stuck due to the sandy Savannas and rocky environments which the sparse woods exist in.  They are on a somewhat Xeric, but forested world laden in shrublands and firestorm riddled forests.  It is dry, badlands environment in many parts of the world which can shift towards forested regions at the caps where you come across violet trees on this temperate EarthLike world still recovering from a mass exon goon that occurred just a few million years earlier.
 
