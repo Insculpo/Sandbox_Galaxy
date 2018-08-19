@@ -18,7 +18,7 @@
 				</script>
 				<script src="js/OrbitControls.js"></script>
 				<script src="js/World_Builder.js"></script>
-				<script src="Aliens.js"></script>
+				<script src="EarthCenterAliens.js"></script>
 				<script src="Asterisms.js"></script>
 
       </div>
@@ -44,15 +44,17 @@
 						AlienNames[v] = getNames[v];
 					}
 					var i;
-					var scaleFactor = 25;
+					var scaleFactor = 9;
 					var size = 256;
 					var scene = new THREE.Scene();
-					var camera = new THREE.PerspectiveCamera( 75, window.innerWidth/window.innerHeight, 0.1, 1000000 );
+					var camera = new THREE.PerspectiveCamera( 75, window.innerWidth/window.innerHeight, 0.1, 10000 );
     			var renderer = new THREE.WebGLRenderer();
     			renderer.setSize( window.innerWidth, window.innerHeight );
     			document.body.appendChild( renderer.domElement );
 					var Orb = new THREE.OrbitControls( camera );
-
+					Orb.enableKeys.true;
+					Orb.enablePan.true;
+					Orb.target = new THREE.Vector3(0,150/scaleFactor,-19000/scaleFactor);
 					var GalacticText = new THREE.FontLoader();
 					var GalacticMat = new THREE.MeshBasicMaterial({color: 0xffffff});
 					var geometry = new THREE.BoxGeometry( 5,5,5 );
@@ -158,7 +160,7 @@
 						var sparseRoll = 100 * Math.random();
 						var fryRoll = 100 * Math.random();
 
-						var sparsemultiplier = 0.9;
+						var sparsemultiplier = 0.2;
 						var VariableMax = parseFloat(HandleWithCare.maxDist);
 						var VariableMin = parseFloat(HandleWithCare.minDist);
 						console.log("Minimum Distance check: " + VariableMin);
@@ -206,10 +208,10 @@
 						PoIcoord.push(HandleWithCare);
 					}
 
-				/*	for(i = 0; i < WashCoord.length; i++)
+					for(i = 0; i < WashCoord.length; i++)
 					{
 						scene.add( WashCoord[i] );
-					}*/
+					}
 
 					for(i = 0; i < PoILabels.length; i++)
 					{
@@ -226,7 +228,7 @@
 							PoILabels[i].position.z = -19000/scaleFactor;
 							PoILabels[i].position.y = 150/scaleFactor;
 						}
-						if(PoIcoord[i].name == "Tabby World ")
+						else if(PoIcoord[i].name == "Tabby World ")
 						{
 							console.log("found " + PoIcoord[i].name + "!");
 							PoIcoord[i].mesh.position.x = -1000/scaleFactor;
@@ -235,6 +237,14 @@
 							PoILabels[i].position.x = -1000/scaleFactor;
 							PoILabels[i].position.z = -18500/scaleFactor;
 							PoILabels[i].position.y = -550/scaleFactor;
+						}
+						else {
+							PoIcoord[i].mesh.position.x += 0;
+							PoIcoord[i].mesh.position.z += -19000/scaleFactor;
+							PoIcoord[i].mesh.position.y += 100/scaleFactor;
+							PoILabels[i].position.x += 0;
+							PoILabels[i].position.z += -19000/scaleFactor;
+							PoILabels[i].position.y += 150/scaleFactor;
 						}
 					//	console.log(PoIcoord[i]);
 						scene.add(PoIcoord[i].mesh);
