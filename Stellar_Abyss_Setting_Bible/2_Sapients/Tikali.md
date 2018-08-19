@@ -1,7 +1,14 @@
 
+<h2 align="center">Tikali
+</h2>
+<p align="center">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Tikali.png">
+</p>
+
 ### Overview
 
-Located on the world of Long Step in orbit of a K-class star, the Tikali thrive.
+Located on the world of [Long Step](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Long_Step.md)
+ in orbit of a K-class star, the Tikali thrive.
 
 The Tikali are mostly seafaring creatures who developed over the ages to the state they currently are in now.  That is as one of the most advanced beings in the known galaxy.  And from origins grotesque and dirty- from the salty swamps of hardgrowth which had been the incubators of civilizations on the Murk for millennia.  The Tikalian canon stretches on for a span of ages before they ever grabbed ahold of the rocket or paddled their way to the stars when networks of floating cities run by elite families were the norm.  The development of steel happened less than a century before space travel, of which came more about due to their innovations in chemical warfare than anything else as their world became ever more interconnected in the thousand years leading up to the launching of the first rockets and the eventually information revolution which radically destroyed over ten thousand years of entrenched clans within a century as the Tikali shifted to a deeply molecular existence and became one of the few beings to happen upon a system of FTL in the known universe.
 
