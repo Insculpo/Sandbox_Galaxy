@@ -1,4 +1,10 @@
 
+<h2 align="center">Tarpi
+</h2>
+<p align="center">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Tarpi.png" width="180" height="270">
+</p>
+
 ### Overview
 
  The Tarpi are extremely ancient sapients, predating the sprawl by over a million years and had no sense of future or past.  Indeed, they still exist, they never hid or left.  They always were around if you ask them.  Their society's ever-present nature is made much more cryptic by their loose outlook and absence of imperial desire- they never will go anywhere they think life exists and much prefer to live around red dwarves.  They prefer hot, extremely burning worlds with dense cloud cover and seem to have a wry, yet dry outlook on existence which no real cure exists.  The Tarpi are ones to define themselves are prone to illness, endless illness.  Infecting themselves with diseases for the sake of being ill is pretty much a tradition for them and has been one since the beginning of sapience as far as they concern themselves.  
