@@ -1,4 +1,8 @@
-The Fosskemians are among the more notorious beings of the galaxy, notable for how short their emergence is to our world- with only a 2 century gap between the Proto-Hargonian emergency colonies and the Terran Expansion, with the Composer led interstellar colonization occurring little less than a century before the Golden Swarm invaded humankind to systemically wipe them all out.  The Fosskemians have been lucky in that all their genocides have been self-inflicted so far, but less lucky in how the majority of their kind has basically been enslaved by AIs of their own creation.
+<h2 align="center">Fosskemians
+</h2>
+<p align="center">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Fosskemian.png" >
+</p>
 
 
 
