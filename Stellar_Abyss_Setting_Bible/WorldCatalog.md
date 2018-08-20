@@ -62,6 +62,9 @@ Life on Terran worlds tends to get rather complex should oxygen producing life e
 * [Xibalba](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Xibalba.md)
 
 
+<p align="center"><img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Desert_World.png">
+</p>
+
 ### Desert Worlds (Solid, Gas)
 
 **Overview**
@@ -129,6 +132,8 @@ Life on ocean planets is very plausible if there are geothermal vents to cook up
 * [Varpossos](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Varpossos.md)
 * [Yiukoso](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Yiukoso.md)
 
+<p align="center"><img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/IceWorld.png">
+</p>
 
 ### Subglacial Worlds (Solid, Liquid)
 
