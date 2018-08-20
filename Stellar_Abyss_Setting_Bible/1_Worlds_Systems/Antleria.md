@@ -1,8 +1,7 @@
-<h2 align="center">Antleria
-</h2>
-<p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Antleria.png" width="210" height="260">
-</p>
+## Antleria
+
+![Cancer World](/Stellar_Abyss_Setting_Bible/Photo_Directory/Anteria.png "Cancer World")
+
 
 
 ### Geology
