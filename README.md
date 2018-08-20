@@ -1,3 +1,3 @@
 # Sandbox_Galaxy
 
-[Enter](/Main.md/)
+[Enter](Main.md)
