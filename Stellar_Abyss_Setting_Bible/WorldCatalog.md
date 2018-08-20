@@ -160,7 +160,7 @@ Life inside subglacial worlds would need an oxygen rich environment, which is po
 * [Lamsis](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Lamsis.md)
 * [Night](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Night.md)
 * [Sapli](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Sapli.md)
-* [The Skimming](Skimming.md)
+* [The Skimming](Sandbox_Galaxy/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Skimming.md )
 
 
 ### Jovian Worlds (Gas)
