@@ -1,6 +1,6 @@
 ## Antleria
 
-![Cancer World](/Stellar_Abyss_Setting_Bible/Photo_Directory/Anteria.png "Cancer World")
+![Cancer World](/Stellar_Abyss_Setting_Bible/Photo_Directory/Antleria.png "Cancer World")
 
 
 
