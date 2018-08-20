@@ -22,7 +22,7 @@ Sterile worlds almost never have life, hence their namesake. This is the case fo
 
 ### Catalog
 
-* [Gliese 451 b](1_Worlds_Systems/Gliese_451_b.md)
+* [Gliese 451 b](/1_Worlds_Systems/Gliese_451_b.md)
 
 
 ## Terran Worlds (Solid, Liquid, Gas)
