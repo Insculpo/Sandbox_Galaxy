@@ -1,6 +1,6 @@
 
 <h2 align="center">Gliese 451</h2>
-<p align="center"><img src="/Stellar_Abyss_Setting_Bible/Photo_Directory/Gliese451.png" width="210" height="270" alt="Diamonds?" class="inline">
+<p align="center"><img src="https://raw.githubusercontent.com/Insculpo/Sandbox_Galaxy/master/Stellar_Abyss_Setting_Bible/Photo_Directory/Gliese451.png" width="210" height="270" alt="Diamonds?" class="inline">
 </p>
 
 ### Overview
