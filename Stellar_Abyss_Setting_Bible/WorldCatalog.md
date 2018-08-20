@@ -1,6 +1,6 @@
 # World Catalog
 
-This catalog contains dozens of worlds od the abyss.
+This catalog contains dozens of worlds of the abyss.
 
 ## Sterile Worlds (Solid)
 
@@ -22,7 +22,7 @@ Sterile worlds almost never have life, hence their namesake. This is the case fo
 
 ### Catalog
 
-* [Gliese 451 b](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Gliese_451_b.md)
+* [Gliese 451 b](1_Worlds_Systems/Gliese_451_b.md)
 
 
 ## Terran Worlds (Solid, Liquid, Gas)
