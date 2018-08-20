@@ -1,8 +1,6 @@
-<h2 align="center">Crimson
-</h2>
-<p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Crimson.png" width="210" height="260">
-</p>
+## Crimson
+
+![Red World](/Stellar_Abyss_Setting_Bible/Photo_Directory/Crimson.png "Red World")
 
 ### Overview
 

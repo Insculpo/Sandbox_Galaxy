@@ -1,8 +1,4 @@
-<h2 align="center">Corpopulus
-</h2>
-<p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Corpopulus.png" width="210" height="260">
-</p>
+## Corpopulus
 
 ### Overview
 

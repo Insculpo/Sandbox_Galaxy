@@ -1,6 +1,7 @@
-<p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Hyperoxia.png" width="210" height="270">
-</p>
+## hyperoxia
+
+![Oxygen World](/Stellar_Abyss_Setting_Bible/Photo_Directory/Hyperoxia.png "Oxygen World")
+
 
 ### Overview
 

@@ -1,7 +1,7 @@
-<h2 align="center">Ikarlothru</h2>
-<p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Ikarlothru.png" width="210" height="270">
-</p>
+## Ikarlothru
+
+![Twilight World](/Stellar_Abyss_Setting_Bible/Photo_Directory/Ikarlothru.png "Twilight World")
+
 
 ### Overview
 
@@ -10,18 +10,15 @@ In orbit of a red dwarf is one of many worlds in perpetual twilight, this one kn
 That being said the seas see these roots everywhere, which completely and utterly dominate the world in a huge, mindless biosphere network.  This phenomena is known as the Ikarlothu and its origin is unknown as to whether or not it is truly organic in nature.
 Fractal tree grabber.
 
-<p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/FractalPredator.png" width="210" height="270">
-</p>
+![Fractal Predator](/Stellar_Abyss_Setting_Bible/Photo_Directory/FractalPredator.png "Fractal Predator")
+
 
 ### Fractal Tree Grabbers
 
 The FTG are creatures with fractal limbs they use to help navigate the web worked trees of the Ikarlothru, they're extremely arboreal and can break falls using atavistic wings.  They go about the trees hunting for preys arching them with fast shooting hands that grab them.  They're around the size of Jaguars. 
 Tree Suckers
 
-<p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Tree_Suckers.png" width="210" height="270">
-</p>
+![Tree Parasite](/Stellar_Abyss_Setting_Bible/Photo_Directory/Tree_Suckers.png "Tree Parasite")
 
 ### Tree Suckers
 

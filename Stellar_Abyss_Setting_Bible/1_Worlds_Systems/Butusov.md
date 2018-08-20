@@ -1,8 +1,6 @@
-<h2 align="center">Butusov
-</h2>
-<p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Blutusov.png" width="210" height="260">
-</p>
+## Butusov
+
+![Nitric World](/Stellar_Abyss_Setting_Bible/Photo_Directory/Blutusov.png "Nitric World")
 
 ### Overview
 

@@ -1,8 +1,6 @@
-<h2 align="center">Bezen
-</h2>
-<p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Bezen.png" width="210" height="260">
-</p>
+## Bezen
+
+![Alcohol World](/Stellar_Abyss_Setting_Bible/Photo_Directory/Bezen.png "Diamond World")
 
 ### Overview
 
@@ -10,9 +8,7 @@ Benzen is an oxygen rich Terran world where floating balls of puff exist- indeed
 
 The life here has organisms where jet propulsion-like features exist as flying mega fauna and creatures who have been compared to dragons.  Life here has not developed sapience, but large eusocial organisms permeate the northern continent who while not much smarter than ants still have a civilization-like influence on the world.
 
-<p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Fermenter.png" width="210" height="260">
-</p>
+![Fermenter](/Stellar_Abyss_Setting_Bible/Photo_Directory/Fermenter.png "Fermenter")
 
 ### Fermenters
 

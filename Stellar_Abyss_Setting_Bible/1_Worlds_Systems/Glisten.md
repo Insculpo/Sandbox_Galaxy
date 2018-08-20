@@ -1,7 +1,4 @@
-<h2 align="center"> Glisten </h2>
-<p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Glisten.png" width="210" height="270">
-</p>
+![Sulfur World](/Stellar_Abyss_Setting_Bible/Photo_Directory/Glisten.png "Sulfur World")
 
 ### Overview
  

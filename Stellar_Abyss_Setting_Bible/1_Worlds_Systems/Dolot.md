@@ -1,18 +1,14 @@
-<h2 align="center">Dolot
-</h2>
-<p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Dolot.png" width="210" height="260">
-</p>
+## Dolot
 
-### Dolot
+![Noodle World](/Stellar_Abyss_Setting_Bible/Photo_Directory/Dolot.png "Noodle World")
+
+### Overview
 
 Dolot is a low gravity world with a size around that of mars.  It is the smallest world in a trinary system that gives Dolot the tidal stress it needs to survive. with an anomalously massive biomass caused by its signature noodles to which their whole ecology is built around.
 
-Life on Dolot is incredibly used to the low gravity conditions and its amazingly high, wiggly and unstable environment caused by kilometers tall flora which build needle-like mountains covering much of the planet.  These insanely tall structures are a product of the incredibly high phosphorus deposits of the world, the use of biofilms with similar properties to that of space elevators and the extremely fused nature of the noodles.  These noodles will fuse into each other, creating many layers of undergrowth that can go down for kilometers further in some regions.  Life has come to also seed the water world and barren world, though the Polo are only common on this one noodle filled world. 
+Life on Dolot is incredibly used to the low gravity conditions and its amazingly high, wiggly and unstable environment caused by kilometers tall flora which build needle-like mountains covering much of the planet.  These insanely tall structures are a product of the incredibly high phosphorus deposits of the world, the use of biofilms with similar properties to that of space elevators and the extremely fused nature of the noodles.  These noodles will fuse into each other, creating many layers of undergrowth that can go down for kilometers further in some regions.  Life has come to also seed the water world and barren world, though the Polo are only common on this one noodle filled world.
 
-<p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Polo.png" width="210" height="260">
-</p>
+![Noodle Critter](/Stellar_Abyss_Setting_Bible/Photo_Directory/Polo.png "Noodle Critter")
 
 ### Polo
 
@@ -22,9 +18,7 @@ The Polo eye system is very different from ours, for their limbs are their eyes,
 
 For the Polo are are stringy critter from a stringy, noodle filled world.  It is hard to explain, imagine is there was vast wiggly forests of many layers going down dozens of kilometers in some of the most massive biological constructs of Darwinian origin in the known Galaxy.
 
-<p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Noodles.png" width="210" height="260">
-</p>
+![Noodles](/Stellar_Abyss_Setting_Bible/Photo_Directory/Noodles.png "Noodles")
 
 ### The noodles
 

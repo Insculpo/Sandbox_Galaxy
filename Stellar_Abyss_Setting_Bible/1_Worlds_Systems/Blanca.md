@@ -1,8 +1,6 @@
-<h2 align="center">Blanca
-</h2>
-<p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Blanca.png" width="210" height="260">
-</p>
+## Blanca
+
+![White World](/Stellar_Abyss_Setting_Bible/Photo_Directory/Blanca.png "White World")
 
 ### Overview
 
