@@ -1,0 +1,10 @@
+<h2 align="center">Gavus
+</h2>
+<p align="center">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Gavus.png" width="210" height="270">
+</p>
+
+
+### Gavus
+
+Gavus is a being who dwells on an ice giant, a massive one whose clouded thoughts get in the way of everything else in its total insularity and stormy manipulation a of its world and biosphere, mainly in the name of propagating itself wherever possible by ensuring the wind flux on its world keeps its form in existence- it is a layered cellular form and so it needs to keep order wherever possible.  It is not too privy to outsiders and is able to cause all matter of chaos in the name of keeping stability in the flows, which keep its forms alive.  The flows it is the self-proclaimed master of and the self-proclaimed engineer of.  It engineered the wind systems of a whole planet in the name of enriching itself and giving the gas giant a incredibly anomalous, highly regimental cloudscape.  
