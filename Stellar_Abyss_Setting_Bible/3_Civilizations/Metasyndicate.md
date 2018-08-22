@@ -30,13 +30,21 @@ The Metasyndicate military is huge for the size of the population, they have ove
 Their populations go as follows-
 
 2 million composers
+
 55% Fosskemian
+
 7% Vopson
+
 2% Cyrawaloc
+
 15% Aveterriat
+
 5% Phidian
+
 3% humans
+
 10% uplifts, AIs, pure virtuals and countless other sapient entities of unknown nature
+
 3% Other sapients
 
 Around 60% of the population has access to a backup life from some living insurance business. Not always reliable.
