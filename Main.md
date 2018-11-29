@@ -10,7 +10,11 @@ Here you will find all matter of creative efforts by Insculpo/ZoppaDoppa, most o
 ##Interactives
 
  [The Untethered](Associated_Coding_Projects/TheUntetheredV1.6.html)
+ 
  [The Lizard](Associated_Coding_Projects/LizardRunner/myGame/index.html)
+
+ [Galaxy Mapper](Associated_Coding_Projects/Galaxy_Placer/Alien_Placer.html)
+
 
 ## Setting Bible
 
