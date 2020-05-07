@@ -1,6 +1,6 @@
-(Region)
+# The Sprawl
 
-[ideally, a region map]
+The sprawling network of city worlds that connects a lot of the galaxy through an ancient wormhole network.  Much of this article deals primarily with the large sprawl network connecting multiple upstart civilizations.  Other parts of the sprawl are either destroyed or too disconnected to be relevant.  The Sprawl attempted tospread the Ancient Ecumene across the galaxy but collapsed, becoming the fragmented and disconnected mess that it remains to this day.
 
 ## Worlds
 - Yuli
