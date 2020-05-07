@@ -29,8 +29,9 @@
 - Sapli
 - Siversial
 - Tangerine World
+- Zirlopir
 
-## Species
+## Sapients
 
 ### Darwinian
 - Vopson
@@ -57,12 +58,11 @@
 - The Cancer
 
 ## Civilizations
-- Silver Legion
 - Mediator Gestalt
+- Silver Legion
 - Bilethought
 - An Appath
 - Urzine Domain
-- Eyes of Sarvas
 - Balch
 - Tommik
 - Glowing Swarm
@@ -79,6 +79,8 @@
 - The Positives
 - The Negatives
 - Purifiers
+- The Mirage
+- The Antimirage
 
 ## History
 -Link to history articles/timelines of this region

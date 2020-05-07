@@ -6,7 +6,7 @@ Broken Space is a region of space where the bulk of space travel has been monopo
 - Isa
 - Ijarnosis
 
-## Species
+## Sapients
 
 ### Darwinian
 - Zikelli

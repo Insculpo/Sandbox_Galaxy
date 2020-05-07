@@ -6,7 +6,7 @@ The ancient Ecumene was the first emergent civilization, though the emergence na
 ## Worlds
 - Core of Creation
 
-## Species
+## Sapients
 
 ### Darwinian
 - Calzonit

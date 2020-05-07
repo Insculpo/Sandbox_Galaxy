@@ -16,7 +16,7 @@
 - Exolith
 - The Abandoned Nexus
 
-## Species
+## Sapients
 
 The Sprawl is connected to the Ancient Ecumene, various sprawl species originated from the Ancient Ecunene.  So what is shown here are Sprawl entities in general, instead of strictly beings of the sprawl.  So you see a lot of overlap with the species.
 

@@ -4,9 +4,10 @@ The core of the galaxy and its associated societies.  Various entities adapted t
 
 ## Worlds
 - Velorum Complex
+- The Infinite Sphere
 - The Sagittarius Swarm
 
-## Species
+## Sapients
 
 ### Darwinian
 - Untirlonians
@@ -20,6 +21,7 @@ The core of the galaxy and its associated societies.  Various entities adapted t
 - Milky Way Virgo
 - Messierians
 - The Pyre Protectorate
+
 
 ## History
 

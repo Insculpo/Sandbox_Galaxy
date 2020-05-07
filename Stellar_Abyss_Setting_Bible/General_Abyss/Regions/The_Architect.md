@@ -29,10 +29,13 @@ The Architect is a space dominated by confederations of world states that pool i
 - Kyruvi
 - Sopliss
 
-## Species
+## Sapients
+
+### Darwinian
 - Aveterriat
 - Glinnvyr
 - Asantum
+- Kabuzihin (They get around)
 - Jayapossa
 - Somber Hydras
 - Fluka
@@ -40,10 +43,18 @@ The Architect is a space dominated by confederations of world states that pool i
 - Loptras
 - Mjazzans
 - Karko
-- Kolosha
 - Hilbado
 - Illrop
 - Polino
+
+### Synthetic
+- Statics
+- Immersed Custodians
+- The Foam
+- The Null
+- Wisps
+- Anarchic Wisps
+- Ovatarians
 
 ## Civilizations
 - Custodians
@@ -52,7 +63,15 @@ The Architect is a space dominated by confederations of world states that pool i
 - Vmiskii Domain
 - Mountain of Plates
 - Long Confederation
-- Panstellarites
+- Panstellar Confederation
+- Realm of Englightenment
+- Realm of Endless Cream
+- The Vipappi Realm
+- The Crack
+- Ovatar's Domain
+- The Null
+
+
 
 ## History
 -Link to history articles/timelines of this region

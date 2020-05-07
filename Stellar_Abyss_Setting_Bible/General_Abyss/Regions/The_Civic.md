@@ -32,7 +32,7 @@ The Civics are the collective name given to the peculiar emergence of two inters
 - Scaverkus
 - Stargi
 
-## Species
+## Sapients
 
 ### Darwinian
 - Human

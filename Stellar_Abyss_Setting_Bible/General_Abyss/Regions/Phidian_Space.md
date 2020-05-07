@@ -5,8 +5,12 @@ A region of space where there is only one dominate species loosely linked to by 
 ## Worlds
 - Phidias
 
-## Species
+## Sapients
+
+### Darwinian
 - Phidians
+
+### Synthetic
 
 ## Civilizations
 - The Counsulate

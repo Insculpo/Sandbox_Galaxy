@@ -14,7 +14,7 @@ The great mold is huge, it expands across a large share of the galaxy away from 
 - The Abanoned Nexus
 - Panalama Complex
 
-## Species
+## Sapients
 
 ### Darwinian
 - Tarpi
