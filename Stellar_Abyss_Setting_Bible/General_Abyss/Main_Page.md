@@ -8,20 +8,20 @@ The goal of 2020 abyss is revision first and foremost, to improve on and work ou
 
 ## Regions
 
--[The Civic](Stellar_Abyss_Setting_Bible\General_Abyss\Regions\The_Civic.md)
--Prospect Space
--The Sprawl
--The Architect
--Phidians
--Zikelli
--The Great Mold (Larona, Pink Space)
--The Ancient Ecumene
--Heatspace
+- [The Civic](Stellar_Abyss_Setting_Bible/General_Abyss/Regions/The_Civic.md)
+- Prospect Space
+- The Sprawl
+- The Architect
+- Phidians
+- Zikelli
+- The Great Mold (Larona, Pink Space)
+- The Ancient Ecumene
+- Heatspace
 
 ## Rulesets
 
-![FTL Systems](Stellar_Abyss_Setting_Bible\General_Abyss\FTL_Systems.md)
-![Biochemistries](Stellar_Abyss_Setting_Bible\General_Abyss\Biochemistries.md)
+![FTL Systems](Stellar_Abyss_Setting_Bible/General_Abyss/FTL_Systems.md)
+![Biochemistries](Stellar_Abyss_Setting_Bible/General_Abyss/Biochemistries.md)
 
 ## Bonus Links
 
