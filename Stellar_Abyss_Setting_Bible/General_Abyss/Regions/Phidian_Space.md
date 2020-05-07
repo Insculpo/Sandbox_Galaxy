@@ -1,16 +1,19 @@
-(Region)
+# Phidian Space
 
-[ideally, a region map]
+A region of space where there is only one dominate species loosely linked to by the Sprawl.  With a civilization that has kept stable for millennia and kept a effectively unified species far longer than usual through all matter of weird mind control tactics.  
 
-Worlds
--World links
-Species
--Species links
-Civilizations
--Civilization links
-History
--Link to history articles/timelines of this region
-Tech
--Links to tech/just associated technologies
-Characters/Figures
--Links to characters connected to this region
+## Worlds
+- Phidias
+
+## Species
+- Phidians
+
+## Civilizations
+- The Counsulate
+- Cinderites
+
+## History
+
+## Tech
+
+## Characters/Figures

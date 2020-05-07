@@ -2,15 +2,87 @@
 
 [ideally, a region map]
 
-Worlds
--World links
-Species
--Species links
-Civilizations
--Civilization links
-History
+## Worlds
+- Blolados
+- Sul Vopal
+- Fuedisar
+- Flux
+- Ivikurmaja
+- Jiwar
+- Vilus
+- Bezen
+- Flatworld
+- Ikarlothru
+- Pasia
+- Crimson
+- Varpossos
+- Nuivi
+- Blanca
+- Jilonus
+- Azul
+- Torpo
+- Okarius
+- New Xibalba
+- Sakam
+- Siplunt
+- Tradlos
+- Sapli
+- Siversial
+- Tangerine World
+
+## Species
+
+### Darwinian
+- Vopson
+- Fosskemian
+- Ivoltic
+- Utanguis
+- Sarkic
+- Vilate
+- Whandl
+- Pasis
+- Lasuuko
+- Yalilu
+- Okar
+- Veemer
+- Zakkai
+- Flatworlders
+- Illapians
+- Alephids
+
+### Synthetic
+- Composers
+- Ikeitans
+- Jama
+- The Cancer
+
+## Civilizations
+- Silver Legion
+- Mediator Gestalt
+- Bilethought
+- An Appath
+- Urzine Domain
+- Eyes of Sarvas
+- Balch
+- Tommik
+- Glowing Swarm
+- Plastic Swarm
+- Pale Swarm
+- Metasyndicate
+- Hargonians
+- Waywardians
+- Kazzlehorf
+- Akka's Realm
+- Collectors
+- Boundless
+- Clouded Ones
+- The Positives
+- The Negatives
+- Purifiers
+
+## History
 -Link to history articles/timelines of this region
-Tech
+## Tech
 -Links to tech/just associated technologies
-Characters/Figures
+## Characters/Figures
 -Links to characters connected to this region

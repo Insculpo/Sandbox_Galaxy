@@ -25,35 +25,4 @@ The goal of 2020 abyss is revision first and foremost, to improve on and work ou
 
 ## Bonus Links
 
-![Discord]()
 ![deviantart](https://www.deviantart.com/zoppadoppa/gallery)
-
-
-Intro page
--Map/Explore
--FTL stuff
--Stellar Abyss Content
--Links to Zoppadoppa in general
-
-Map/Explore
-
-[galaxymap.png]
-
--Links to the different regions depicted on the map
-
-(Region)
-
-[ideally, a region map]
-
-Worlds
--World links
-Species
--Species links
-Civilizations
--Civilization links
-History
--Link to history articles/timelines of this region
-Tech
--Links to tech/just associated technologies
-Characters/Figures
--Links to characters connected to this region
