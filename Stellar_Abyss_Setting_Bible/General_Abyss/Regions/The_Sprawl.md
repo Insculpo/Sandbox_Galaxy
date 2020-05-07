@@ -1,6 +1,6 @@
 # The Sprawl
 
-The sprawling network of city worlds that connects a lot of the galaxy through an ancient wormhole network.  Much of this article deals primarily with the large sprawl network connecting multiple upstart civilizations.  Other parts of the sprawl are either destroyed or too disconnected to be relevant.  The Sprawl attempted tospread the Ancient Ecumene across the galaxy but collapsed, becoming the fragmented and disconnected mess that it remains to this day.
+The sprawling network of city worlds that connects a lot of the galaxy through an ancient wormhole network.  Much of this article deals primarily with the large sprawl network connecting multiple upstart civilizations.  Other parts of the sprawl are either destroyed or too disconnected to be relevant.  The Sprawl attempted to spread the Ancient Ecumene across the galaxy but collapsed, becoming the fragmented and disconnected mess that it remains to this day.
 
 ## Worlds
 - Yuli
@@ -18,7 +18,7 @@ The sprawling network of city worlds that connects a lot of the galaxy through a
 
 ## Sapients
 
-The Sprawl is connected to the Ancient Ecumene, various sprawl species originated from the Ancient Ecunene.  So what is shown here are Sprawl entities in general, instead of strictly beings of the sprawl.  So you see a lot of overlap with the species.
+The Sprawl is connected to the Ancient Ecumene, various sprawl species originated from the Ancient Ecumene.  So what is shown here are Sprawl entities in general, instead of strictly beings of the sprawl.  So you see a lot of overlap with the species.
 
 
 ### Darwinian
