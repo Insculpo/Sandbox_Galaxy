@@ -2,7 +2,6 @@
 
 ![Radiation World](/Stellar_Abyss_Setting_Bible/Photo_Directory/Adina.png "Radioactive World")
 
-
 ### Overview
 
 The radiation rich world of Adina despite being small as mars has a gravitational pull as hard as earth.  Adina's density is also mixed with an atmosphere of rusted iron where dark orange seas and dark yellow skies are the norm.   Adina was stripped of its crust eons ago and has managed to develop life adapted to carbonyl.  Such life takes on magnetic properties and so many life forms have managed to hover on Adina, exploiting repulsion from the surface and using magnetic flux to kinetically sling themselves around the terrain or navigate the seas through energetic charges.  Life here also uses radio waves to stun prey, shout and even merely see by sensing other radio sources.  This is a biosphere where radio and magnetic forces permeate.  
