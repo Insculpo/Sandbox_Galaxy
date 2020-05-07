@@ -25,6 +25,7 @@ The Sprawl is connected to the Ancient Ecumene, various sprawl species originate
 - Vamusk
 - Dioviermes
 - Maratans
+- Usati
 
 ### Synthetic
 - Operiunn
@@ -32,6 +33,8 @@ The Sprawl is connected to the Ancient Ecumene, various sprawl species originate
 - Illapians
 - Vubit
 - Iffip
+- Shifters
+- Gilizetians
 
 ## Civilizations
 - Opallian Domain
