@@ -1,20 +1,19 @@
 
-
-
-
+The catalogue/roster of biochemistries that exist within the scope of the Stellar Abyss.  May include example worlds of each one as well.
 
 ## Chart of Molecular Life
 
 This it the chart of molecular life.  There is life outside the scope of those formed from chemical reactions - Nuclear forces can also in some circumstances create forms of life, for instance - but this chart is mostly concerned with chemical reactions.  There is obviously a lot more than this, but this chart is the general one used for the most common forms of life.
 
 **Definitions**
-Solvent - The fluid/gas used for dissolve lots of
-Polymer Type - The base atom type used to make the polymers used by this Life
-Metabolic Control - Kind of metabolic control used by these organisms
-Temperature Range - Range of temperature they occur at (solvent pegged)
-Pressure Range - Range of pressure they occur at (pressure pegged)
-Rate of Recurrence -The rate this kind of life occurs in our Galaxy
-Additional Info - Anything else
+
+* Solvent - The fluid/gas used for dissolve lots of
+* Polymer Type - The base atom type used to make the polymers used by this Life
+* Metabolic Control - Kind of metabolic control used by these organisms
+* Temperature Range - Range of temperature they occur at (solvent pegged)
+* Pressure Range - Range of pressure they occur at (pressure pegged)
+* Rate of Recurrence -The rate this kind of life occurs in our Galaxy
+* Additional Info - Anything else
 
  | **Solvent**       | **Polymer Type**           | **Metabolic Control** | **Temperature Range** |  **Pressure Range** | **Rate of Recurrence** | **Additional Info**
  | ------------- |:-----------------------------:| :---------------:| :--------------:| :--------------:| :-----------------:| ----------------:|
