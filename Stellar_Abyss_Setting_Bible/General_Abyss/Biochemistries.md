@@ -18,9 +18,9 @@ Additional Info - Anything else
 
  | **Solvent**       | **Polymer Type**           | **Metabolic Control** | **Temperature Range** |  **Pressure Range** | **Rate of Recurrence** | **Additional Info**
  | ------------- |:-----------------------------:| :---------------:| :--------------:| :--------------:| :-----------------:| ----------------:|
- | *Iron Carbonyl*   | Carbon/Silicon | Cyanide | -21 C to 103 C | ??? | 0.45RR | Low reactivity, often leading to resilient megacellular organisms |
- | *Liquid Salt*   | Silicon | Flourine | -21 C to 103 C | ??? | 0.45RR | |
- | *(Supercritical) Liquid SO2*   | Flourine | -21 C to 103 C | ??? | 0.45RR | Gel-like substances are common |
+ | *Iron Carbonyl*   | Carbon/Silicon | Cyanide |  ??? | ??? | 0.61RR | Low reactivity, often leading to resilient megacellular organisms |
+ | *Liquid Salt*   | Silicon | Flourine |  ??? | 5.1 ATM+ | 0.72RR | High gravity and heat|
+ | *(Supercritical) Liquid SO2* | Silicon  | Flourine |  ???  | 5.1 ATM+ | 0.45RR | Gel-like substances are common |
  | *Formic Acid*   | Carbon | Flourine | -21 C to 103 C | ??? | 0.45RR |  |
  | *Sulfuric Acid*   | Carbon | Phorphorus | 10 C to 337 C | ??? | 2.1RR | |
  | *Formamide*   | Carbon | Phosphorus | 2 C to 210 C | ??? | 0.45RR |  |
