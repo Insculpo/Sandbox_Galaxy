@@ -19,7 +19,7 @@ This it the chart of molecular life.  There is life outside the scope of those f
  | ------------- |:-----------------------------:| :---------------:| :--------------:| :--------------:| :-----------------:| ----------------:|
  | *Iron Carbonyl*   | Carbon/Silicon | Cyanide |  ??? | ??? | 0.61RR | Low reactivity, often leading to resilient megacellular organisms |
  | *Liquid Salt*   | Silicon | Flourine |  ??? | 5.1 ATM+ | 0.72RR | High gravity and heat|
- | *(Supercritical) Liquid SO2* | Silicon  | Flourine |  ???  | 5.1 ATM+ | 0.45RR | Gel-like substances are common |
+ | *(Supercritical) Liquid SO2* | Silicon  | Flourine |  ???  | 5.1 ATM+ | 0.9RR | Gel-like substances are common |
  | *Formic Acid*   | Carbon | Flourine | -21 C to 103 C | ??? | 0.45RR |  |
  | *Sulfuric Acid*   | Carbon | Phorphorus | 10 C to 337 C | ??? | 2.1RR | |
  | *Formamide*   | Carbon | Phosphorus | 2 C to 210 C | ??? | 0.45RR |  |
@@ -28,16 +28,16 @@ This it the chart of molecular life.  There is life outside the scope of those f
  | *Hydrochloric Acid*   | Carbon | Phorphorus | 0 C to 100 C | ??? | 0.02RR |  |
  | *Steam*   | Carbon | Phosphorus | 100 C+ | ??? | 1.2RR |  |
  | *Nitric Acid*   | Carbon | Arsenic | -42 C to 83 C | ??? | 1.4RR |  |
- | *(Supercritical) Liquid CO2*   | Carbon | Arsenic | -78 C to -57 C | 5.1 ATM + | 0.45RR |  |
+ | *(Supercritical) Liquid CO2*   | Carbon | Arsenic | -78 C to -57 C | 5.1 ATM + | 0.51RR |  |
  | *Liquid Ammonnia*   | Carbon | Arsenic | -73 C to -33 C  | ??? | 3.7RR |  |
  | *Hydrogen Sulfide* | Carbon/Silicon | Arsenic/Dihydrogen | ??? | ??? | 0.4RR |  |
- | *Ammonnia Gas*   | Carbon | Nitrates | -33 C+ | ??? | 0.2RR |  |
- | *Methane Gas*   | Carbon | Nitrates | ??? | ??? | 0.1RR |  |
+ | *Ammonnia Gas*   | Carbon | Nitrates | -33 C+ | ??? | 1.21RR |  |
+ | *Methane Gas*   | Carbon | Nitrates | ??? | ??? | 0.53RR |  |
  | *Hydrocarbons*   | Carbon | Nitrates | ??? | ??? | 3.7RR |  |
  | *Liquid Nitrogen*   | Silicon | Dihydrogen | ??? | ??? | 0.2RR |  |
- | *Liquid Helium*   | Silicon | Dihydrogen | ??? | 5.1 ATM+ | 0.04RR |  |
+ | *Liquid Helium*   | Silicon | Dihydrogen | ??? | 5.1 ATM+ | 0.24RR |  |
   | *Liquid Hydrogen*   | Silicon | Dihydrogen | ??? | ??? | 0.07RR |  |
- | *Hydrogen Flouride* | Silicon | Dihydrogen | ??? | ??? | 0.001RR |  |
+ | *Hydrogen Flouride* | Silicon | Dihydrogen | ??? | ??? | 0.01RR |  |
  | *Unknown* | Boron | Unknown | Unknown | Unknown | 1.0 x 10^-17 RR | An example of a life that is possible but basically irrelevant.  You'll be sifting through lots of super clusters of galaxies before finding any boron boys.
 
 ## Nuclear Entities
