@@ -19,7 +19,7 @@
 - [Nuivi](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Nuivi.md)
 - [Blanca](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Blanca.md)
 - Jilonus
-- Sarlum
+- [Maraterna](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Maraterna.md)
 - [Azul](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Azul.md)
 - [Torpo](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Torpo.md)
 - [Okarius](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Okaria.md)
