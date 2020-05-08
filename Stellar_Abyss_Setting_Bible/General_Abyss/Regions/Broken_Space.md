@@ -5,6 +5,7 @@ Broken Space is a region of space where the bulk of space travel has been monopo
 ## Worlds
 - [Isa](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Isa.md)
 - [Ijarnosis](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Ijarnosis.md)
+- [The Ice Emperor](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Ice_Emperor.md)
 
 ## Sapients
 
