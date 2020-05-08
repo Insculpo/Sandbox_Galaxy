@@ -11,25 +11,25 @@ These megascale sapients include the Tarpi, who are notably diseased, the Stolop
 The great mold is huge, it expands across a large share of the galaxy away from the Architect and even getting near the Ancient Ecumene who historically had pushed the earlier mold back and even had wars with the ancient ecumene, ones which continue with mold overgrown sprawl clusters completely cut off from the rest of the galaxy.  
 
 ## Worlds
-- The Abanoned Nexus
-- Panalama Complex
+- The Abandoned Nexus
+- [Panalama Complex](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Panalama.md)
 
 ## Sapients
 
 ### Darwinian
-- Tarpi
+- [Tarpi](/Stellar_Abyss_Setting_Bible/2_Sapients/Tarpi.md)
 - Stolopid
 - Mizar
 - Pink Spacers
 
 ### Synthetic
 - Laronians
-- Contorlas
+- [Contorlas](/Stellar_Abyss_Setting_Bible/2_Sapients/Contorlas.md)
 
 ## Civilizations
 - The Sleepers
 - Larona
-- Eyes of Sarvas
+- [Eyes of Sarvas](/Stellar_Abyss_Setting_Bible/2_Sapients/Eyes_Of_Sarvas.md)
 
 ## History
 

@@ -8,7 +8,7 @@ A region of space where there is only one dominate species loosely linked to by 
 ## Sapients
 
 ### Darwinian
-- Phidians
+- [Phidians](/Stellar_Abyss_Setting_Bible/2_Sapients/Phidian.md)
 
 ### Synthetic
 
