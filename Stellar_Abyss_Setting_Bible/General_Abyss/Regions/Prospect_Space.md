@@ -19,6 +19,7 @@
 - [Nuivi](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Nuivi.md)
 - [Blanca](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Blanca.md)
 - Jilonus
+- Sarlum
 - [Azul](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Azul.md)
 - [Torpo](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Torpo.md)
 - [Okarius](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Okaria.md)
@@ -35,7 +36,7 @@
 
 ### Darwinian
 - [Vopson](/Stellar_Abyss_Setting_Bible/2_Sapients/Vopson.md)
-- [Fosskemian](/Stellar_Abyss_Setting_Bible/2_Sapients/Fosskemian.md)
+- [Fosskemian](/Stellar_Abyss_Setting_Bible/2_Sapients/Fosskemians.md)
 - [Ivoltic](/Stellar_Abyss_Setting_Bible/2_Sapients/Ivoltic.md)
 - [Utanguis](/Stellar_Abyss_Setting_Bible/2_Sapients/Cyrawaloc.md)
 - [Sarkic](/Stellar_Abyss_Setting_Bible/2_Sapients/Sarkic.md)
@@ -49,7 +50,7 @@
 - [Zakkai](/Stellar_Abyss_Setting_Bible/2_Sapients/Zakkai.md)
 - Flatworlders
 - [Illapians](/Stellar_Abyss_Setting_Bible/2_Sapients/Illapian.md)
-- [Alephids](/Stellar_Abyss_Setting_Bible/2_Sapients/Alephids.md)
+- [Alephids](/Stellar_Abyss_Setting_Bible/2_Sapients/Alephid.md)
 
 ### Synthetic
 - Composers
