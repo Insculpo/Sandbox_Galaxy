@@ -1,26 +1,25 @@
 
-
-
-
+The catalogue/roster of biochemistries that exist within the scope of the Stellar Abyss.  May include example worlds of each one as well.
 
 ## Chart of Molecular Life
 
 This it the chart of molecular life.  There is life outside the scope of those formed from chemical reactions - Nuclear forces can also in some circumstances create forms of life, for instance - but this chart is mostly concerned with chemical reactions.  There is obviously a lot more than this, but this chart is the general one used for the most common forms of life.
 
 **Definitions**
-Solvent - The fluid/gas used for dissolve lots of
-Polymer Type - The base atom type used to make the polymers used by this Life
-Metabolic Control - Kind of metabolic control used by these organisms
-Temperature Range - Range of temperature they occur at (solvent pegged)
-Pressure Range - Range of pressure they occur at (pressure pegged)
-Rate of Recurrence -The rate this kind of life occurs in our Galaxy
-Additional Info - Anything else
+
+* Solvent - The fluid/gas used for dissolve lots of
+* Polymer Type - The base atom type used to make the polymers used by this Life
+* Metabolic Control - Kind of metabolic control used by these organisms
+* Temperature Range - Range of temperature they occur at (solvent pegged)
+* Pressure Range - Range of pressure they occur at (pressure pegged)
+* Rate of Recurrence -The rate this kind of life occurs in our Galaxy
+* Additional Info - Anything else
 
  | **Solvent**       | **Polymer Type**           | **Metabolic Control** | **Temperature Range** |  **Pressure Range** | **Rate of Recurrence** | **Additional Info**
  | ------------- |:-----------------------------:| :---------------:| :--------------:| :--------------:| :-----------------:| ----------------:|
- | *Iron Carbonyl*   | Carbon/Silicon | Cyanide | -21 C to 103 C | ??? | 0.45RR | Low reactivity, often leading to resilient megacellular organisms |
- | *Liquid Salt*   | Silicon | Flourine | -21 C to 103 C | ??? | 0.45RR | |
- | *(Supercritical) Liquid SO2*   | Flourine | -21 C to 103 C | ??? | 0.45RR | Gel-like substances are common |
+ | *Iron Carbonyl*   | Carbon/Silicon | Cyanide |  ??? | ??? | 0.61RR | Low reactivity, often leading to resilient megacellular organisms |
+ | *Liquid Salt*   | Silicon | Flourine |  ??? | 5.1 ATM+ | 0.72RR | High gravity and heat|
+ | *(Supercritical) Liquid SO2* | Silicon  | Flourine |  ???  | 5.1 ATM+ | 0.45RR | Gel-like substances are common |
  | *Formic Acid*   | Carbon | Flourine | -21 C to 103 C | ??? | 0.45RR |  |
  | *Sulfuric Acid*   | Carbon | Phorphorus | 10 C to 337 C | ??? | 2.1RR | |
  | *Formamide*   | Carbon | Phosphorus | 2 C to 210 C | ??? | 0.45RR |  |
@@ -32,7 +31,7 @@ Additional Info - Anything else
  | *(Supercritical) Liquid CO2*   | Carbon | Arsenic | -78 C to -57 C | 5.1 ATM + | 0.45RR |  |
  | *Liquid Ammonnia*   | Carbon | Arsenic | -73 C to -33 C  | ??? | 3.7RR |  |
  | *Hydrogen Sulfide* | Carbon/Silicon | Arsenic/Dihydrogen | ??? | ??? | 0.4RR |  |
- | *Ammonnia Gas*   | Carbon | Nitrates | ??? | ??? | 0.2RR |  |
+ | *Ammonnia Gas*   | Carbon | Nitrates | -33 C+ | ??? | 0.2RR |  |
  | *Methane Gas*   | Carbon | Nitrates | ??? | ??? | 0.1RR |  |
  | *Hydrocarbons*   | Carbon | Nitrates | ??? | ??? | 3.7RR |  |
  | *Liquid Nitrogen*   | Silicon | Dihydrogen | ??? | ??? | 0.2RR |  |
