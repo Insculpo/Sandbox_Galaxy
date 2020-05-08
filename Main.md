@@ -2,6 +2,10 @@ Welcome to the Insculpo Domain
 
 Here you will find all matter of creative efforts by Insculpo/ZoppaDoppa, most of it is sci-fi.
 
+## Setting Bibles
+
+[The Stellar Abyss](Stellar_Abyss_Setting_Bible/General_Abyss/Main_Page.md)
+
 ## Stories
 
 [Desolate](Stories/Desolate.md)
@@ -14,8 +18,3 @@ Here you will find all matter of creative efforts by Insculpo/ZoppaDoppa, most o
  [The Lizard](Associated_Coding_Projects/LizardRunner/myGame/index.html)
 
  [Galaxy Mapper](Associated_Coding_Projects/Galaxy_Placer/Alien_Placer.html)
-
-
-## Setting Bible
-
-[Worlds](Stellar_Abyss_Setting_Bible/General_Abyss/New_Main.md)
