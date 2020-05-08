@@ -32,7 +32,7 @@ Additional Info - Anything else
  | *(Supercritical) Liquid CO2*   | Carbon | Arsenic | -78 C to -57 C | 5.1 ATM + | 0.45RR |  |
  | *Liquid Ammonnia*   | Carbon | Arsenic | -73 C to -33 C  | ??? | 3.7RR |  |
  | *Hydrogen Sulfide* | Carbon/Silicon | Arsenic/Dihydrogen | ??? | ??? | 0.4RR |  |
- | *Ammonnia Gas*   | Carbon | Nitrates | ??? | ??? | 0.2RR |  |
+ | *Ammonnia Gas*   | Carbon | Nitrates | -33 C+ | ??? | 0.2RR |  |
  | *Methane Gas*   | Carbon | Nitrates | ??? | ??? | 0.1RR |  |
  | *Hydrocarbons*   | Carbon | Nitrates | ??? | ??? | 3.7RR |  |
  | *Liquid Nitrogen*   | Silicon | Dihydrogen | ??? | ??? | 0.2RR |  |
