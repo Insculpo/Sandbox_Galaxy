@@ -23,4 +23,4 @@
 
 ## Bonus Links
 
-[deviantart](https://www.deviantart.com/zoppadoppa/gallery)
+- [Deviantart](https://www.deviantart.com/zoppadoppa/gallery)
