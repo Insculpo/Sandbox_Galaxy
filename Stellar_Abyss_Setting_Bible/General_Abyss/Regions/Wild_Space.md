@@ -24,7 +24,7 @@ The great mold is huge, it expands across a large share of the galaxy away from 
 
 ### Synthetic
 - Laronians
-- [Contorlas](/Stellar_Abyss_Setting_Bible/2_Sapients/Contorlas.md)
+- [Contorlas](/Stellar_Abyss_Setting_Bible/2_Sapients/Contorlos.md)
 
 ## Civilizations
 - The Sleepers
