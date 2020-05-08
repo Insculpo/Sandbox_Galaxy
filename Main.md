@@ -18,4 +18,4 @@ Here you will find all matter of creative efforts by Insculpo/ZoppaDoppa, most o
 
 ## Setting Bible
 
-[Worlds](Stellar_Abyss_Setting_Bible/Main_Page.md)
+[Worlds](Stellar_Abyss_Setting_Bible/General_Abyss/New_Main.md)
