@@ -4,7 +4,7 @@ Broken Space is a region of space where the bulk of space travel has been monopo
 
 ## Worlds
 - Isa
-- Ijarnosis
+- [Ijarnosis]()
 
 ## Sapients
 
