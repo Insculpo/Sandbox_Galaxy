@@ -1,4 +1,4 @@
-## New Atlantis 
+## New Atlantis
 ￼
 New Atlantis is an inner colony world that makes use of biotech heavily in the post Vopson world, but again, they have no lead and are more a de facto GAC Client that also is an Association Client.  The dichotomy can be confusing on the whole.  The world they colonized was a watery one, with aquatic cities and cloud cities being common due to the low amount of land area to utilize.  The world also supports a local biosphere which shall now be tangentially described below.  New Atlantis as a culture is an oligarchy with various utopia experiments in the mountains, post scarcity arcologies and augmentation freely experimented with.  They weren't like this in the past, where they were a more conventional colony that was under the Terran thumb.  However, the Vopson invasion completely broke that as the Vopson slaughtered a third of their population as the terrans left them to neglect and was too busy attacking the very peacekeeping forces they had help from.  
 
@@ -12,4 +12,4 @@ New Atlantis supports a biosphere of Planimals that permeate the shallow oceansc
 
 Other wonders include floating islands that are actually living creatures that are a biome in of themselves, with those living on their backs and undersides that create large clusters seasonally and a land ecology of almost entirely shelled organisms with endoshells as part of their skeletal structure that interacts heavily with the surface swimmers in lowland regions.  Human activities have been mostly in upper layers outside the arcologies and the lucrative biotech research on this world, one of the 5 closest worlds to earth with complex life.    
 
-The world suffered a major extinction from Vopson acidification and the engineered bacteria that had to be cleaned up even centuries after the disaster, but megafauna species such as the islands have in recent decades recovered in numbers and many surviving species who had specimens taken other planets had been reintroduced to the world.  
+The world suffered a major extinction from Vopson acidification and the engineered bacteria that had to be cleaned up even centuries after the disaster, but megafauna species such as the islands have in recent decades recovered in numbers and many surviving species who had specimens taken other planets have since been reintroduced to the world.  

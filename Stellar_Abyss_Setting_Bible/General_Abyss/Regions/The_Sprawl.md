@@ -33,7 +33,6 @@ The Sprawl is connected to the Ancient Ecumene, various sprawl species originate
 - Vubit
 - Iffip
 - Shifters
-- Gilizetians
 
 ## Civilizations
 - Opallian Domain

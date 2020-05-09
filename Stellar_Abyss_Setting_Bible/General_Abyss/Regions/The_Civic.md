@@ -10,8 +10,8 @@ The Civics are the collective name given to the peculiar emergence of two inters
 - Ludor
 - [New Atlantis](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/New_Atlantis.md)
 - [Kusneto Prime](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Kusneto_Prime.md)
-- Necropolis
-- Vataland
+- [Necropolis](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Necropolis_Hub.md)
+- [Vataland](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Vataland.md)
 - [Vurmaria](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Vurmaria.md)
 - [The Anthropopulus Complex](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/The_Anthropopulus_Complex.md)
 - [Yiukoso](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Yiukoso.md)
@@ -21,12 +21,12 @@ The Civics are the collective name given to the peculiar emergence of two inters
 - [Torvald](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Torvald.md)
 - [Ovapas](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Ovapas.md)
 - [Viklu](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Viklu.md)
-- [The March](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/The_March.md)
+- [The March](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/March.md)
 - [Metallic Hives](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Metallic_Hives.md)
 - Pardas
 - Milloc
 - Vitloc
-- Suarsa
+- [Suarsa](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Suarsa.md)
 - [Ikirma](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Ikirma.md)
 - [Soot](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Soot.md)
 - [Vlanch](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Vlanch.md)

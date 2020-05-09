@@ -7,7 +7,7 @@
 - [Sul Vopal](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Sul_Vopal.md)
 - [Fuedisar](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Fuedisar.md)
 - Flux
-- Ivikurmaja
+- [Ivikurmaja](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Ivikurmaja.md)
 - [Jiwar](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Jiwar.md)
 - Vilus
 - [Bezen](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Bezen.md)

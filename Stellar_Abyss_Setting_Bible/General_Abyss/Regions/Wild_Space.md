@@ -23,7 +23,8 @@ The great mold is huge, it expands across a large share of the galaxy away from 
 - Pink Spacers
 
 ### Synthetic
-- Laronians
+- [Laronians](/Stellar_Abyss_Setting_Bible/2_Sapients/Larona.md)
+
 - [Contorlas](/Stellar_Abyss_Setting_Bible/2_Sapients/Contorlos.md)
 
 ## Civilizations

@@ -1,12 +1,14 @@
 <h2 align="center"> Maraterna </h2>
 
+<p align="center">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Samala.png" width="210" height="270">
+</p>
+
 ### Overview
 
 Maraterna is an ocean world with a couple tiny, tiny islands in the northern and southern poles where the oceans are slightly shallower.  Maraterna has cultivated in its 30KM deep oceans and a vast range of life ranging from the paranoid, toxic and moss cultivating [Alephids](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/2_Sapients/Alephid.md) to the massive and territorial Samala.
 
-<p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Samala.png" width="210" height="270">
-</p>
+Maraterna has a lot of stuff that on first impression is very reminiscent of earth oceans.  However the regionally deeper oceans  (some places go down 50 kilos deep if not more) mean huge waves often reverb around the surface.  This also leads to rather hostile current cycles that are both a boon and lethal hazard to the complex ecology that developed on Maraterna.  The megafauna on this world includes hornlike “filter feeders” that drift around these currents.  It often is a site of horror or awe for the locals when some massive creature from the deep regions gets pushed to the oceanic highland regions.  
 
 ### Samala
 

@@ -8,7 +8,7 @@ The Architect is a space dominated by confederations of world states that pool i
 - Malasa
 - [Grey World](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Grey_World.md)
 - [Varblodia](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Varblodia.md)
-- Liparta
+- [Liparta](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Liparta.md)
 - [Gavus](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Gavus.md)
 - [Uvami](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Uvami.md)
 - [The Timeless](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/The_Timeless.md)
