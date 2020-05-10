@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Isa.jpg" height="270" width="210" >
-</p>
+![Isa](/Stellar_Abyss_Setting_Bible/Photo_Directory/Isa.jpg)
 
 ### Overview
 
