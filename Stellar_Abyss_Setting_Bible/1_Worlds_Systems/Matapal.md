@@ -1,5 +1,8 @@
 ## Matapal
 
+![Cryptic World](/Stellar_Abyss_Setting_Bible/Photo_Directory/Matapal.JPG "Cryptic World")
+
+
 ￼## Overview
 
 Matapallian organisms are an emergent set of complex fluid liquid nitrogen systems that rely upon the anomalous quaternary planetary system Matapal is built around.  The two core worlds and the two outer orbiters- along with numerous asteroids.  The inner worlds are comparable in size to Earth while the outer worlds are around Ganymede sized.  This is a world where something is horribly horribly wrong watch out there is something horribly wrong it is an emergence catastrophe beyond any hope and dreams everything has broken down there is no hope or dreams the slush is but the patterned fluctuation known as the Matapal.  

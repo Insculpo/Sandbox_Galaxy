@@ -1,6 +1,8 @@
 <h2 align="center">Soto 4
 </h2>
 
+![Sane Desert](/Stellar_Abyss_Setting_Bible/Photo_Directory/Soto_4.jpg "Sane Desert")
+
 ### Overview
 
 Soto 4 is a low gravity world without much in the way of large bodies of water and has an anomalously thick atmosphere for a world of its gravity along with managing a biosphere way too advanced for the kind of world it is- having a whole class of creatures whose main body is a “seed” for fractal limbs.

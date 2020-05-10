@@ -1,5 +1,7 @@
 ## Okaria
 
+![Net Civ](/Stellar_Abyss_Setting_Bible/Photo_Directory/Okar.jpg "Net Civ")
+
 ## Overview
 
 Okaria is an icy world that is closer to its parent sun, but not close enough to be an ocean world.  However, this has led to a warmer ice layer than usual which has been exploited by the local flora to grow more than the snowball world normally would have.  It has been under global ice cover for most of its history with little sign this will change for at least a few hundred million more years.  In spite of that, a complex and diverse biosphere had matured on Okaria to the point it has intelligent life.

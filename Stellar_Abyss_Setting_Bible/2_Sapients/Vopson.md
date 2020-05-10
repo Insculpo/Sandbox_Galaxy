@@ -1,4 +1,6 @@
 
+![Voppy Boy](/Stellar_Abyss_Setting_Bible/Photo_Directory/LostVopson.JPG "Voppy Boy")
+
 ### Biology
 
 The Vopson are flying, flock-minded alien beings who are only sapient when mating as a fluke in their evolution caused neural connectivity to occur between individuals during sex.  This has less to do with a psychic connection and more to do with their mating being akin to some species of worms on Earth; they bind together for hours on end, often days or even weeks.  During sex, their pheromone release is far greater and their influence on others of their kind is extremely strong.  Information transfer happens both by pheromone and speech, though space and countering ‘exploiters’ has limited their ability to speak traditionally much to the contempt of Vopson across the galaxy.  The Vopson are extremely numerous despite coming from a world with oceans of sulfuric acid and having developed technology derived from very developed pottery (for instance, they have a very light weight breed of pottery that is very coveted), orgasmic computing and the plastic flesh of local megafauna to get off world.  The Vopson are unique in being a space faring species from a world where technological civilization was thought impossible due to the acids corroding metals.  
@@ -18,55 +20,54 @@ Flock Name only; all Vopson affiliated with the flock, the internal sub-consciou
 
 **The Golden Swarm**
 
-Clestro
-Cledtho
-Clenso
-Clebtro
-Clettro
-Cleftro
-Centro
-Clessro
-Clemro
-Klenlo
+- Clestro
+- Cletho
+- Clenso
+- Cletro
+- Clettro
+- Cleftro
+- Centro
+- Clessro
+- Clemro
+- Klenlo
  
 **The Glowing Swarm**
 
-Iper
-Ipera
-Ipara
-Ipur
-Ipura
-Ipure
-Ipurs
-Ikurs
-Ikura
-Inura
+- Ipera
+- Ipara
+- Ipur
+- Ipura
+- Ipure
+- Ipurs
+- Ikurs
+- Ikura
+- Inura
  
 **The Pale Swarm**
 
-Santis
-Suntir
-Cuntis
-Cuntur
-Cantas
-Cantir
-Santur
-Cuntar
-Santi
-Sunti
-Cunti
-Canti
+- Santis
+- Suntir
+- Cuntis
+- Cuntur
+- Cantas
+- Cantir
+- Santur
+- Cuntar
+- Santi
+- Sunti
+- Cunti
+- Canti
  
 **The Cyanite Swarm**
 
-Lodyr
-Kodyr
-Sodyr
-Amasyr
-Tasyr
-Amatyr
-Tatasyr
-Katasyr
-Smatyr
-Sodasyr
-Masastr
+- Lodyr
+- Kodyr
+- Sodyr
+- Amasyr
+- Tasyr
+- Amatyr
+- Tatasyr
+- Katasyr
+- Smatyr
+- Sodasyr
+- Masastr

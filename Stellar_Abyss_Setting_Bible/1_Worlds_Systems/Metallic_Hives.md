@@ -1,5 +1,8 @@
 ## The Metallic Hive
 
+![Metal Hives](/Stellar_Abyss_Setting_Bible/Photo_Directory/MetallicHives.JPG "Metal Hives")
+
+
 ## Overview￼
 
 The  Natvyr were contacted and uplifted by the Tikali in the 2400's and were mostly clients.  However in the centuries since they managed an interstellar society of their own, especially with the various internal issues the muck had going on adding up and the drowning ops arming the Natvyr.  The Metallic Hive is one of their main hive arcologies of note, which are located in an asteroid belt that interconnects with each other in a sprawling Natvyr hive that rapidly grew in populations.  The Metallic Hive has ballistic weapon users and flash printed careless rifles that are standard issue.  The Metallic hive's potential is grand and have pretty much become a massive pestilence in the Civic, with the Estates and Mush even considering an alliance to crush them as soon as coherently possible.

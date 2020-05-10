@@ -8,13 +8,13 @@ The Laronians despite their artificial selection and pressures from the advanced
 
 Laronians are not singular in form, but do have archetype forms that permeate as a result of that pressure from their ecological convergences as former Vast One dependent organisms
 
-[]
+![Soldier Caste Larona](/Stellar_Abyss_Setting_Bible/Photo_Directory/Larona_One.JPG "Soldier Caste Larona")
 ￼
 This is a crude rendition of one, first go.  In general you see multiple cooperative archetypes who act as a sort of feedback mechanism to fuel their endless fire across the region of the galaxy they have come to call their own.  
 
 They don't seem to have a concept of end goal and self awareness is warped, their motives are mostly built around ravenous wants but lacking the organization or organization of huge minds beyond the degree to which the selection pressures of the Vast One and architects have forced them to adapt.
 
-[]
+![Engineer Caste Larona](/Stellar_Abyss_Setting_Bible/Photo_Directory/Larona_Two.JPG "Engineer Caste Larona")
 ￼
 Specialized laronians who exist mainly as vacuum beings part of suicide castes and engineers.  In their own logic, it isn't even a hierarchy like thing.  They do as they do because that is what they do.  They are very mechanistic in that regard, since there is that constant, compulsive want to conform to the aesthetic demands of performative violence that leads to lots of ritualizing infighting that has more instinct than institution to it.  For such conflicts are known for having more in common with mating fights.  
 

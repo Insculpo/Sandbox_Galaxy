@@ -1,5 +1,5 @@
 
-
+![Plasma Boys](/Stellar_Abyss_Setting_Bible/Photo_Directory/Kolosha.png "Plasma Boys")
 
 #### Kolosha
 
