@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Isa.png" height="270" width="210" >
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Isa.jpg" height="270" width="210" >
 </p>
 
 ### Overview
