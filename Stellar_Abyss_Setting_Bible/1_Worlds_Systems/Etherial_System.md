@@ -1,5 +1,7 @@
 ## The Etherial System
 ￼
+![Etherial World](/Stellar_Abyss_Setting_Bible/Photo_Directory/Etherial_Realm.JPG "Etherial World")
+
 ## Overview
 
 This is a sprawl world that is connected to Gilizet and Operiunn filled.   The Marata from their larvae to adult forms are a prominent population with their synthetic ecologies having colonized multiple layers of what humans called the Ether.  The Operiunn fiefdoms compete for what structures haven't fallen to the depths of the gas giant's skies and have evidently done this for millennia.  The lurid violet skies are filled with iodine from the automated factories.  The energy fuel economy here has been somewhat reclaimed by the locals, who use helium rich fusion jets to spread to nearby moons but have been overall reliant on the wormholes for any interstellar activities.  The name Etherial Realm was something that came from human contact with the bizarre place.  

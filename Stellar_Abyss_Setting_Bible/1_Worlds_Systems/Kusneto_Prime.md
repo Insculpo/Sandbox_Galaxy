@@ -1,5 +1,7 @@
 ## Kusneto Prime
 ￼
+![Neutral Terran World](/Stellar_Abyss_Setting_Bible/Photo_Directory/KusnetoPrime.JPG "Neutral Terran World")
+
 ## Overview
 
 One of the main surviving inner colony worlds which has developed a megalopolis supporting a surface population in the hundred billions, space elevators and and orbital ring with hundreds of cylinder worlds as artificial satellites.  Kusneto is a highly developed world that exists separate from the Estate or the GAC being a self declared system state.  They're a society that can be viewed in a niche comparable to Singapore and Switzerland combined in how they're an important trade system due to their influence over the hyades star cluster and have avoided taking sides in any outside "space shit" that they view with antipathy and derision Internally but act friendly and cosmopolitan to visitors with a diplomacy that exists to keep them at arm's length.  

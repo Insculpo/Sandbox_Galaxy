@@ -1,6 +1,7 @@
 
 ## Ikirma
 
+![Blotchy Ice World](/Stellar_Abyss_Setting_Bible/Photo_Directory/Ikirmite.jpg "Blotchy Ice World")
 
 ## Overview
 

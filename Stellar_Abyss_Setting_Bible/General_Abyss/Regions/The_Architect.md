@@ -69,8 +69,6 @@ The Architect is a space dominated by confederations of world states that pool i
 - Ovatar's Domain
 - The Null
 
-
-
 ## History
 -Link to history articles/timelines of this region
 Tech

@@ -1,4 +1,8 @@
-### Overview and Geology
+# Sul Vopal
+
+![Fosskemian World](/Stellar_Abyss_Setting_Bible/Photo_Directory/Sul_Vopal.JPG "Fosskemian World")
+
+## Overview and Geology
 
 There is a world dominated by archipelagos and island chains, where storms of fire surge and floating islands of flesh lazily drift in an atmosphere optimal for flying and floating, to which so much life in this burning, oceanic world have taken great advantage of.
 
@@ -10,7 +14,7 @@ This atmospheric density doesn't preclude the use of fire, for the atmosphere ha
 
 Sul Vopal is around the age of Earth.  Complex life only occurred 437 million years ago, instead of 600 million like on Earth due to ice cover for most of this world's history.  This world would still be frozen over if it wasn't for the fact that it has tidal stress from Tyn Vupal, one of the two moons of Sul Vopal, and a good magnetosphere combined with a strong greenhouse effect.  This world has aspects in common with Europa in its ancient history, with hydrothermal vents heating the world's oceans internally for billions of years and sustaining the early forms of life when the world wasn't frozen over.  This wet world has a diverse range of resources, though metal scarcities would prove a bugbear to technological societies who became highly reliant on scavenging ruins and strip mining the two moons to sustain themselves.
 
-### Ecology
+## Ecology
 
 Unlike our world, there is no equivalent to the plant kingdom.  Instead there are complex sessile animals and Barioforms, which are seemingly mindless beings that have no commonality with the animoidal kingdom as they rely on sunlight, fire and electricity to live.  They have some ground life forms as well, but they are like jellyfish in behavior more than plants.  These Barioforms have led to some impressive megafauna around Sul Vopal in the skies.  Their corpses do make great feasts for life on the ground as well.
 

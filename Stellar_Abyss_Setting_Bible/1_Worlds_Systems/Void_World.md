@@ -1,4 +1,6 @@
-## The void world
+# The void world
+
+![A Class Desert](/Stellar_Abyss_Setting_Bible/Photo_Directory/Void_World_One.JPG "A Class Desert")
 
 ## Overview
 
@@ -33,6 +35,8 @@ Again this is a searing world where everywhere is desert.  One countless worlds 
 Most disturbing of all however, is that life did manage to persist to the present on this world.
 
 Not as we know it, however.
+
+![A Class Bacteria](/Stellar_Abyss_Setting_Bible/Photo_Directory/Void_World_Two.JPG "A Class Bacteria")
 
 ## White Patches
 ￼

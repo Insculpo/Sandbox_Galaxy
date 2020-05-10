@@ -1,5 +1,7 @@
 ## The Ice Emperor
 
+![Ice Emperor](/Stellar_Abyss_Setting_Bible/Photo_Directory/Ice_Emperor.JPG "Ice Emperor")
+
 ## Overview￼
 
 The Ice Emperor is a super giant planemo.  An ice giant of ice giants, within a binary system with a helium giant.

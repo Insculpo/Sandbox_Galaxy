@@ -1,5 +1,8 @@
 ## Gilizet (The Hidden Flesh)
 
+![Gilizet World](/Stellar_Abyss_Setting_Bible/Photo_Directory/Gilizet.JPG "Gilizet World")
+
+
 ## Overview
 
 Gilizet is a Sprawl world lost to space and time, with a couple tenuous open wormholes this outlying colony of the greater sprawl network being dominated by various factions of degenerative communities who only know the city they live in.  Gilizet's surface activity compared to some sprawl planets is relatively weak as the inhabitants went underground.

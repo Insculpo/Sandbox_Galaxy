@@ -1,6 +1,8 @@
+# Somber
 
+![Dark Ocean World](/Stellar_Abyss_Setting_Bible/Photo_Directory/Somber.JPG "Dark Ocean World")
 
-### Overview and Geology
+## Overview and Geology
 
 Somber is an oceanic world drenched in darkness and life, the dismal cloudscape and orange haze lying over brackish waters.
 
@@ -12,7 +14,7 @@ Somber’s depths consist of a very rugged terrain with massive underwater mount
 
 Many resources, especially minerals rich in rare earth metals can be found in the hotspot regions of the world or in the desolate, fossil-like mountains which over the ages have been sculpted by the currents of the ocean.
 
-### Ecology
+## Ecology
 
 Somber’s ecology, due to the distance and thin atmosphere tends to lose its energy from the sun to space.  However, the energy is more than enough to ensure a pump of minerals from oceanic flows between the various latitudes and regions of the planet.  The deeper, abyssal layers of the world benefit greatly from the detritus which planktonic life from near the surface have given.  The colder upper sea layers mark a barrier to the deeper, chemically reliant organisms who have the noticeable trait of being highly electric, much more so than life on Earth.  
 

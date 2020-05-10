@@ -1,5 +1,7 @@
 ## Ijarnosis
 
+![White Dwarf World](/Stellar_Abyss_Setting_Bible/Photo_Directory/Ijarnosis.JPG "White Dwarf World")
+
 ## Overview￼
 
 Ijarnosis is a large world in orbit of a white dwarf where life has persisted into being dark blue radiation absorbent flora and fauna.  Life on Inarnosis has to deal with exceptionally harsh conditions such as an atmosphere that had been thinned by a Nova event, high gravity and the little sunlight from the white dwarf Ijarnosis orbits.  The heating from the red giant phase incidentally made life able to miraculously survive to this day stronger than ever.

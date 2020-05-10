@@ -1,8 +1,7 @@
 <h2 align="center">Siplunt
 </h2>
-<p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Siplunt.png" width="210" height="270">
-</p>
+
+![Bladder Desert](/Stellar_Abyss_Setting_Bible/Photo_Directory/Siplunt_Bladders.jpg "Bladder Desert")
 
 ### Overview
 

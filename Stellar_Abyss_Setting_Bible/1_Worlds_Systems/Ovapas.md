@@ -1,5 +1,7 @@
 ## Ovapas
 
+![Lively Jovian](/Stellar_Abyss_Setting_Bible/Photo_Directory/Ovapas.png "Lively Jovian")
+
 ## Overview
 
 Ovapas lacks rings but has a single sterile moon which orbits close, but lacks the size or tidal flux to have volcanism in more recent eras.  That explains the multiple layers of overlapping maria (the darker grey spots on worlds like the moon are “seas” of dried up lava flows called maria).  

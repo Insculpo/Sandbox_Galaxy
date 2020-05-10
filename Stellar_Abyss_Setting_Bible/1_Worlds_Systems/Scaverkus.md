@@ -1,9 +1,13 @@
 ## Scaverkus
 
+![Cooperative Desert](/Stellar_Abyss_Setting_Bible/Photo_Directory/Scaverkus.jpg "Cooperative Desert")
+
 ## Overview
 
 Scaverkus is a highly desolate desert world which orbits its home star on a highly elliptical orbit.  It is not a high gravity world, but has kept a low key geological activity from seasonal tidal tugging from the parent sun.  This is a highly hostile world, where the world’s 2 earth year seasonal cycles can lead to very frigid deserts while warmth within the sun’s grasp exists only for part of the year.  The life here blurs the lines of civilization oriented living and am animal existence.  For the hostility of Scaverkus is so great that ecosystems of life here will cooperate on a seasonal basis.  Predators are known to work with creatures they view as prey for common resources in a highly hostile environment depending on the season.  For instance when the regional ecologies sheltered by dormant volcanic cave networks need to collect ice to warm in the depths of caves.  Of which activate for the volcano seasons.  
 
-Some hibernate, others exist only in caves.  The surface in the mid-seasons often gets temporary foliage, so one often sees these hoarding sessions occur between winter and summer predatory issues, it is peculiar.  They have an almost unspoken agreement that predatory and prey creatures work together in the mid seasons where the prey also happen to breed more often while the hot and cold seasons have the predatory creatures hunting them while not eating that much in the mid seasons.  Scaverkus even has entities which register to Archivist surveyors as regional civilizations.  
+Some hibernate, others exist only in caves.  The surface in the mid-seasons often gets temporary foliage, so one often sees these hoarding sessions occur between winter and summer predatory issues, it is peculiar.  They have an almost unspoken agreement that predatory and prey creatures work together in the mid seasons where the prey also happen to breed more often while the hot and cold seasons have the predatory creatures hunting them while not eating that much in the mid seasons.  Scaverkus even has entities which register to Archivist surveyors as regional civilizations.
+
+![Scaverkus Summer](/Stellar_Abyss_Setting_Bible/Photo_Directory/Summer_In_Scaverkus.jpg "Scaverkus Summer")  
 
 Two independently developing entities geographically locked by large barren regions.  Of which historically have only been traversed by migrating during their world’s version of “interglacials”.  Where earth’s ice ages allowed for arctic traversal, the “life ages” of Scaverkus allowed for relatively safe traversal across the equator.  The two proto-civilizations happened to both be at the middle latitudes of the world.  Which is where things are relatively more stable climate-wise.  However, the interspecies cooperative systems they made are bordering on unintelligible to each other.  

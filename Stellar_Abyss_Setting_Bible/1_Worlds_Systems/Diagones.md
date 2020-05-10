@@ -1,6 +1,6 @@
 ## Diagones
 
-￼
+￼![Pee World](/Stellar_Abyss_Setting_Bible/Photo_Directory/Diagones.JPG "Pee World")
 
 ### Overview
 

@@ -1,8 +1,6 @@
 <h2 align="center"> Maraterna </h2>
 
-<p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Samala.png" width="210" height="270">
-</p>
+![Purple Tundra World](/Stellar_Abyss_Setting_Bible/Photo_Directory/Maraterna.jpg "Purple Tundra World")
 
 ### Overview
 

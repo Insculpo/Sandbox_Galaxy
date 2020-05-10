@@ -2,7 +2,7 @@
 <h2 align="center">Tikali
 </h2>
 <p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Tikali.png">
+<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Tikali_New.jpg">
 </p>
 
 ### Overview
