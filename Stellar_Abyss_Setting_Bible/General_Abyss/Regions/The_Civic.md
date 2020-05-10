@@ -23,9 +23,9 @@ The Civics are the collective name given to the peculiar emergence of two inters
 - [Viklu](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Viklu.md)
 - [The March](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/March.md)
 - [Metallic Hives](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Metallic_Hives.md)
-- Pardas
-- Milloc
-- Vitloc
+- Qualma
+- [Milloc](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Vitloc_Milloc.md)
+- [Vitloc](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Vitloc_Milloc.md)
 - [Suarsa](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Suarsa.md)
 - [Ikirma](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Ikirma.md)
 - [Soot](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Soot.md)
