@@ -1,6 +1,6 @@
 # The Stellar Abyss
 
-[Galaxy Map](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/MapOfGalacticCivs.png)
+[Galaxy Map](Sandbox_Galaxy/Stellar_Abyss_Setting_Bible/Photo_Directory/MapOfGalacticCivs.png)
 
 ----
 
