@@ -8,11 +8,11 @@ This is a list of notable worlds.  Most if not all have local life, but this is 
 
 Due to how many worlds there are, there's a tagging system to follow.
 
-[Anomalous] - World with highly anomalous properties.
-[Sapient Locals] - Has sapient locals
-[Heavily Colonized] - Is a highly colonized world
-[Constructed] - Is an artificial world
-[Aborted] - Is a destroyed/ruined world
+* [Anomalous] - World with highly anomalous properties.
+* [Sapient Locals] - Has sapient locals
+* [Heavily Colonized] - Is a highly colonized world
+* [Constructed] - Is an artificial world
+* [Aborted] - Is a destroyed/ruined world
 
 ### Homeworlds
 - [Blolados](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Blolados.md) [Aborted] [Sapient Locals]
