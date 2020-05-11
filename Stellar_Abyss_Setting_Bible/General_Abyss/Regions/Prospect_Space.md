@@ -31,7 +31,7 @@ Due to how many worlds there are, there's a tagging system to follow.
 - [Giparna](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Giparna.md) [Heavily Colonized]
 - [Glisyimar](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Glisyimar.md) [Heavily Colonized]
 - [Grand Sphere of Appath](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Grand_Sphere_Of_Appath.md) [Heavily Colonized] [Anomalous] [Constructed]
-- [Hatursados]((/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Hatursados.md) [Heavily Colonized]
+- [Hatursados](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Hatursados.md) [Heavily Colonized]
 - [Ikarlothru](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Ikarlothru.md)
 - [Imartasa.md](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Imartasa.md) [Constructed] [Heavily Colonized]
 - [Ivikurmaja](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Ivikurmaja.md) [Heavily Colonized]
