@@ -72,7 +72,7 @@
 - Acidminds
 - Composers
 - Ikeitans
-- [Ivoltic](/Stellar_Abyss_Setting_Bible/2_Sapients/Ivoltic.md)
+- [Ivoltic](/Stellar_Abyss_Setting_Bible/2_Sapients/Ivoltic.md) 
 - Jama
 - The Cancer
 
