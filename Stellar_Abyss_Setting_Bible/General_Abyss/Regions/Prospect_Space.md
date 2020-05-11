@@ -4,47 +4,57 @@
 
 ## Worlds
 
+This is a list of notable worlds.  Most if not all have local life, but this is less because life is hyper-common and more because of all the volumes of space occupied by the civilizations of Prospect Space reaching many worlds.
+
+Due to how many worlds there are, there's a tagging system to follow.
+
+[Anomalous] - World with highly anomalous properties.
+[Sapient Locals] - Has sapient locals
+[Heavily Colonized] - Is a highly colonized world
+[Constructed] - Is an artificial world
+[Aborted] - Is a destroyed/ruined world
+
 ### Homeworlds
-- [Blolados](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Blolados.md)
-- [Fuedisar](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Fuedisar.md)
-- [Flux](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Flux.md)
-- [Pasia](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Pasia.md)
-- [Sul Vopal](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Sul_Vopal.md)
+- [Blolados](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Blolados.md) [Aborted] [Sapient Locals]
+- [Fuedisar](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Fuedisar.md) [Sapient Locals]
+- [Flux](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Flux.md) [Sapient Locals] [Heavily Colonized]
+- [Pasia](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Pasia.md) [Aborted] [Sapient Locals]
+- [Sul Vopal](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Sul_Vopal.md) [Aborted][Sapient Locals]
 
 ### General Worlds
-- [Akyamas](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Akyamas.md)
+- [Akyamas](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Akyamas.md) [Heavily Colonized]
 - [Azul](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Azul.md)
 - [Blanca](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Blanca.md)
 - [Bezen](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Bezen.md)
 - [Crimson](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Crimson.md)
-- [Flatworld](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Flat_World.md)
-- [Glisyimar](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Glisyimar.md)
+- [Flatworld](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Flat_World.md) [Sapient Locals]
+- [Glisyimar](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Glisyimar.md) [Heavily Colonized]
 - [Ikarlothru](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Ikarlothru.md)
-- [Imartasa.md](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Imartasa.md)
-- [Ivikurmaja](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Ivikurmaja.md)
+- [Imartasa.md](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Imartasa.md) [Constructed] [Heavily Colonized]
+- [Ivikurmaja](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Ivikurmaja.md) [Heavily Colonized]
 - [Jilonus](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Jilonus.md)
-- [Jitnulfumu](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Jitnulfumu.md)
-- [Jiwar](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Jiwar.md)
-- [Jumaki](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Jumaki.md)]
-- [Kasanajas](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Kasanajas.md)
-- [Lavisados](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Lavisados.md)
-- [Maraterna](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Maraterna.md)
+- [Jitnulfumu](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Jitnulfumu.md) [Heavily Colonized]
+- [Jiwar](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Jiwar.md) [Heavily Colonized]
+- [Jumaki](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Jumaki.md)  [Heavily Colonized] [Constructed] 
+- [Kasanajas](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Kasanajas.md) [Constructed] 
+- [Lavisados](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Lavisados.md) [Heavily Colonized]
+- [Maraterna](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Maraterna.md) [Sapient Locals]
 - [New Xibalba](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Xibalba.md)
 - [Nuivi](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Nuivi.md)
-- [Okarius](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Okaria.md)
-- [Pasakiyu](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Pasakiyu.md)
-- [Rasuf's Point](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Rasufs_Point.md)
+- [Okarius](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Okaria.md) [Sapient Locals]
+- [Pasakiyu](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Pasakiyu.md) [Constructed] 
+- [Rasuf's Point](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Rasufs_Point.md) [Constructed] [Heavily Colonized]
 - [Sakam](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Sakam.md)
 - [Sapli](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Sapli.md)
 - [Siplunt](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Siplunt.md)
-- [Siversial](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Lamsis.md)
+- [Siversial](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Lamsis.md) [Sapient Locals]
 - [Tradlos](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Tradlos.md)
 - [Tangerine World](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Tangerine_World.md)
 - [Torpo](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Torpo.md)
 - [Varpossos](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Varpossos.md)
-- Vilus
-- [Webesten](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Webesten.md)
-- [Zirloper](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Zirloper.md)
+- Vilus [Sapient Locals] [Heavily Colonized]
+- [Webesten](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Webesten.md)  [Constructed] [Heavily Colonized]
+- [Zirloper](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Zirloper.md) [Anomalous]
 
 ## Sapients
 
