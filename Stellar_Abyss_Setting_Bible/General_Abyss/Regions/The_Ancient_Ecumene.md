@@ -11,23 +11,25 @@ The ancient Ecumene was the first emergent civilization, though the emergence na
 ### Darwinian
 - Calzonit
 - [Dioviermes](/Stellar_Abyss_Setting_Bible/2_Sapients/Diovierme.md)
-- Quvaker
-- Vargin
 - [Maratans](/Stellar_Abyss_Setting_Bible/2_Sapients/Marata.md)
+- Quvaker
 - [Salfluer](/Stellar_Abyss_Setting_Bible/2_Sapients/Salfluer.md)
+- Vargin
 
 ### Synthetic
-- Operiunn
-- Insha
-- Harlapa
-- Zarathustra
 - Folders
+- Harlapa
+- Insha
+- Operiunn
+- Zarathustra
+
 
 ## Civilizations
 - Archivers
+- Builders
 - Folding Ones
 - Gatekeepers
-- Builders
+
 
 ## History
 -Link to history articles/timelines of this region

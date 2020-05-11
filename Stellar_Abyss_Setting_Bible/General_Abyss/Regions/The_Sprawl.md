@@ -29,24 +29,24 @@ The Sprawl is connected to the Ancient Ecumene, various sprawl species originate
 ### Synthetic
 - Operiunn
 - [Kabuzihin]((/Stellar_Abyss_Setting_Bible/2_Sapients/Kabuzihin.md)
-- Illapians
-- Vubit
 - Iffip
+- Illapians
 - Shifters
+- Vubit
 
 ## Civilizations
+- Crashers
+- Endless Factory
+- Fifth Federation
+- Forth Federation
+- Jarto
+- League of wisdom
+- Market of the Dead
+- Monitors
 - Opallian Domain
-- Unandopans
 - Stone Sprawl
 - The Last City
-- Crashers
-- Jarto
-- Forth Federation
-- Fifth Federation
-- League of wisdom
-- The Monitors
-- Market of the Dead
-- The Endless Factory
+- Unandopans
 
 ## History
 -Link to history articles/timelines of this region
