@@ -28,22 +28,26 @@ Due to how many worlds there are, there's a tagging system to follow.
 - [Bezen](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Bezen.md)
 - [Crimson](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Crimson.md)
 - [Flatworld](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Flat_World.md) [Sapient Locals]
+- [Giparna](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Giparna.md) [Heavily Colonized]
 - [Glisyimar](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Glisyimar.md) [Heavily Colonized]
+- [Grand Sphere of Appath](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Grand_Sphere_Of_Appath.md) [Heavily Colonized] [Anomalous] [Constructed]
+- [Hatursados]((/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Hatursados.md) [Heavily Colonized]
 - [Ikarlothru](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Ikarlothru.md)
 - [Imartasa.md](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Imartasa.md) [Constructed] [Heavily Colonized]
 - [Ivikurmaja](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Ivikurmaja.md) [Heavily Colonized]
 - [Jilonus](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Jilonus.md)
 - [Jitnulfumu](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Jitnulfumu.md) [Heavily Colonized]
 - [Jiwar](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Jiwar.md) [Heavily Colonized]
-- [Jumaki](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Jumaki.md)  [Heavily Colonized] [Constructed] 
-- [Kasanajas](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Kasanajas.md) [Constructed] 
+- [Jumaki](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Jumaki.md)  [Heavily Colonized] [Constructed]
+- [Kasanajas](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Kasanajas.md) [Constructed]
 - [Lavisados](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Lavisados.md) [Heavily Colonized]
 - [Maraterna](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Maraterna.md) [Sapient Locals]
 - [New Xibalba](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Xibalba.md)
 - [Nuivi](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Nuivi.md)
 - [Okarius](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Okaria.md) [Sapient Locals]
-- [Pasakiyu](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Pasakiyu.md) [Constructed] 
+- [Pasakiyu](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Pasakiyu.md) [Constructed]
 - [Rasuf's Point](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Rasufs_Point.md) [Constructed] [Heavily Colonized]
+- [Sadlom Central](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Sadlom_Central.md) [Heavily Colonized]
 - [Sakam](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Sakam.md)
 - [Sapli](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Sapli.md)
 - [Siplunt](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Siplunt.md)
@@ -82,7 +86,7 @@ Due to how many worlds there are, there's a tagging system to follow.
 - Acidminds
 - Composers
 - Ikeitans
-- [Ivoltic](/Stellar_Abyss_Setting_Bible/2_Sapients/Ivoltic.md) 
+- [Ivoltic](/Stellar_Abyss_Setting_Bible/2_Sapients/Ivoltic.md)
 - Jama
 - The Cancer
 
