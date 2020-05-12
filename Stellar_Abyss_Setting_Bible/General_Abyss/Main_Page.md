@@ -7,7 +7,7 @@
 ## Regions
 
 - [The Civic](Stellar_Abyss_Setting_Bible/General_Abyss/Regions/The_Civic.md)
-- [Prospect Space](.../Prospect_Space.md)
+- [Prospect Space](/Regions/Prospect_Space.md)
 - [The Sprawl](/The_Sprawl.md)
 - [The Architect](.../The_Architect.md)
 - [Phidians](Stellar_Abyss_Setting_Bible/General_Abyss/Regions/Phidian_Space.md)
