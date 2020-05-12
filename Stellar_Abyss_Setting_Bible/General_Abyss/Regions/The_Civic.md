@@ -3,34 +3,45 @@
 The Civics are the collective name given to the peculiar emergence of two interstellar civilizations near each other.  Mainly, the Humans and Tikali.  They have advanced more rapidly than usual as a result of having two civs with different perspectives yet different niches cooperating on R&D that didn't dominate out one or the other like with other places.
 
 ## Worlds
+
+This is a list of notable worlds.  Most if not all have local life, but this is less because life is hyper-common and more because of all the volumes of space occupied by the civilizations of the Civic reaching many worlds.
+
+Due to how many worlds there are, there's a tagging system to follow.
+
+[Anomalous] - World with highly anomalous properties.
+[Sapient Locals] - Has sapient locals
+[Heavily Colonized] - Is a highly colonized world
+[Constructed] - Is an artificial world
+[Aborted] - Is a destroyed/ruined world
+
 - [Adinia](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Adina.md)
-- [Ikirma](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Ikirma.md)
-- [Jormunan](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Jormunan.md)
-- [Kusneto Prime](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Kusneto_Prime.md)
-- [Long Step](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Long_Step.md)
-- Ludor
-- [Minava](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Minava.md)
-- [Metallic Hives](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Metallic_Hives.md)
+- [Ikirma](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Ikirma.md) [Sapient Locals]
+- [Jormunan](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Jormunan.md) [Heavily Colonized]
+- [Kusneto Prime](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Kusneto_Prime.md) [Heavily Colonized]
+- [Long Step](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Long_Step.md) [Sapient Locals] [Heavily Colonized]
+- Ludor [Sapient Locals] [Heavily Colonized]
+- [Minava](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Minava.md) [Heavily Colonized]
+- [Metallic Hives](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Metallic_Hives.md) [Constructed]
 - [Milloc](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Vitloc_Milloc.md)
-- [Necropolis](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Necropolis_Hub.md)
-- [New Atlantis](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/New_Atlantis.md)
+- [Necropolis](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Necropolis_Hub.md) [Heavily Colonized]
+- [New Atlantis](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/New_Atlantis.md) [Heavily Colonized]
 - [Ovapas](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Ovapas.md)
 - [Oxides](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Oxides.md)
-- Qualma
-- [Scaverkus](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Scaverkus.md)
-- Sol
+- Qualma [Sapient Locals]
+- [Scaverkus](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Scaverkus.md) [Sapient Locals]
+- Sol [Sapient Locals] [Heavily Colonized]
 - [Soot](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Soot.md)
-- Stargi
+- Stargi [Sapient Locals] [Anomalous]
 - [Suarsa](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Suarsa.md)
-- [Tabby World](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Tabby_World.md)
-- [The Anthropopulus Complex](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/The_Anthropopulus_Complex.md)
-- [The March](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/March.md)
-- [Torvald](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Torvald.md)
-- [Vataland](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Vataland.md)
+- [Tabby World](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Tabby_World.md)[Sapient Locals]
+- [The Anthropopulus Complex](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/The_Anthropopulus_Complex.md) [Constructed] [Heavily Colonized]
+- [The March](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/March.md) [Aborted] [Sapient Locals]
+- [Torvald](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Torvald.md) [Sapient Locals]
+- [Vataland](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Vataland.md) [Aborted] [Heavily Colonized]
 - [Viklu](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Viklu.md)
 - [Vitloc](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Vitloc_Milloc.md)
 - [Vlanch](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Vlanch.md)
-- [Vurmaria](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Vurmaria.md)
+- [Vurmaria](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Vurmaria.md) [Sapient Locals] [Heavily Colonized]
 - [Yiukoso](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Yiukoso.md)
 
 ## Sapients

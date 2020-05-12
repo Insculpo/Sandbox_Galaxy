@@ -40,3 +40,7 @@ There are entities such as the Breathers, known for streaming about fire, large 
 The Fosskemians come from a clade of life which had developed two large airsacs to the sides of their bodies which the Fosskemians had come to use as legs and floaters, as well as something to slide around on in colder climates.  The bloated, blubbery nature of fosskemian Flesh ensured such lifestyle was viable and this clade of life was remarkable versatile with many different genii on their world.  
 
 On Sul Vopal, the Fosskemians have proven their adaptability well through the wealth of civilizations and life styles their ancient ancestors had adopted to the general survival on a world so violent as Sul Vopal.  Metallurgy for the Fosskemians was achieved through a multitude of means, all of which outlandish to get better metal working in a climate little conductive to good metal work- it proved all too easy to get poisoned or the forge would catch aflame so more cautious methods were the norm.  Metals were mainly used as building material and for tools just like on Earth.
+
+### Balloon trees
+
+Balloon trees are sul vopal's standard flora, they're endemic to the place and amazingly adaptable.  They absorb lighter air for their has bladders, collecting methane inside of them that can combust into wildfires and make everything smell awful if penetrated, acting as a deterrent.  Their leaves and stems have much of the nutrition, along with various buds they produce.

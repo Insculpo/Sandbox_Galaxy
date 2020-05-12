@@ -1,0 +1,5 @@
+# The stolopid
+
+The Stolopid is a branch of Tarpi who appeared before even the Sprawl was a thing through natural evolution.  The Stolopid have managed to adapt their infectious genetic modification systems to force being Stolopid onto other Stolopid.  The Stolopid have managed this in care and in persistence.  The Stolopid are also what the Sprawl had uncovered for their own ends, to what ends, who knows.  The Stolopid groups have attained a vast depth of knowledge about the most minute, with the micro civilizations they keep as ornaments embedded into their head so they have company in this lonely galaxy.  
+
+The Stolopid with their civilization brains have managed to end up absorbing many to their civilization brains over the millennia for company.  And with civilization brains, they deal with burning hot heads at times, sometimes they die from their civilization augment destroying itself and crashing the whole Stolopid.  These incidents have yet to end the practice after thousands of years of it.

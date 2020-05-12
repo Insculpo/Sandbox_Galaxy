@@ -1,0 +1,3 @@
+# Partitionism
+
+Partitionism is a organizational system of beliefs that came from a Vopson flock mind that allowed for ritual bouts of individuality as a means of avoiding the dominant thinking that swarms can have.  It's very revilied due to the subsumption of individuals back to a forced collective which is implied with the practice and lots of trauma can happen when not transitioning such integrates properly.  The plastic swarm is the swarm which follows this ideology most, it also happens to be the swarm that is seen as a sickly, cold flock whose actions and activities often are cryptic and festered in the meta material plasteel  which they have cultivated.  

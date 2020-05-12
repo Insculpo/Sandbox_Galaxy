@@ -1,0 +1,5 @@
+# Machinism
+
+Machinist thought is the general dominion of the Empire of Choice.  Machinist is a totalitarian , meritocracy oriented ideology where the labor of each and every aveterriat is accounted for and is a caste free society in theory(with the bulk of Empire of Choice efforts being the liberation of the architect from the castes).  Machinists generally believe the natural development path for all life is towards encapsulation to the constructs and being able to pursue any path, but you are obligated to pursue a path.  Death is often dealt to those who prove themselves parasites so they may try again in another life.  
+
+Machinism as a whole is efficiency and power oriented, yet abhors the truly mechanical.  It is an ideology where life is expected to labor, and that machines are expected to rule.  One in the Empire of Choice has every choice to pick except to pick nothing.  And the rigors of this system have proven difficult to adapt to many species.  Even humans often succumb, for the system is even more totalitarian, rigorous and unflinching than even the most totalitarian human societies.  

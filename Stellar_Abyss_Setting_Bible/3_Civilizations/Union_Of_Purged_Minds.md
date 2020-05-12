@@ -1,0 +1,3 @@
+# The Purged Minds
+
+The Purged Minds union is a vast array of worlds connected by relays from the early ages of the Architect, of whom recall the first encounters with the Custodians and when the Custodians went in on a spurious expansionistic slaughter of the Hell Realms to reclaim ground they lost from some war that happened millennia earlier.  It is a long held belief among them that they are dead even if they could choose to be conscious at any time.  These dead Minds are what eventually became the Statics, an advanced clads of Architect machines absolutely feared to the point the Custodians keep a distance (the Blink Drives they deal with because they are a mobile danger- Statics only strike when bothered and the Custodians know that).

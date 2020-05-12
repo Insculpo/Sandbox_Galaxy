@@ -91,7 +91,7 @@ Due to how many worlds there are, there's a tagging system to follow.
 - The Cancer
 
 ## Civilizations
-- Akka's Realm
+- Appa's Realm
 - An Appath
 - Balch
 - Bilethought
