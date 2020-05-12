@@ -8,7 +8,7 @@
 
 - [The Civic](Regions/The_Civic.md)
 - [Prospect Space](Regions/Prospect_Space.md)
-- [The Sprawl](/The_Sprawl.md)
+- [The Sprawl](Regions/The_Sprawl.md)
 - [The Architect](Regions/The_Architect.md)
 - [Phidians](Regions/Phidian_Space.md)
 - [Broken Space (Zikelli)](Regions/Broken_Space.md)
