@@ -14,7 +14,7 @@ Due to how many worlds there are, there's a tagging system to follow.
 [Constructed] - Is an artificial world
 [Aborted] - Is a destroyed/ruined world
 
-- [Adinia](../1_Worlds_Systems/Adina.md)
+- [Adinia](.../1_Worlds_Systems/Adina.md)
 - [Ikirma](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Ikirma.md) [Sapient Locals]
 - [Jormunan](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Jormunan.md) [Heavily Colonized]
 - [Kusneto Prime](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Kusneto_Prime.md) [Heavily Colonized]
