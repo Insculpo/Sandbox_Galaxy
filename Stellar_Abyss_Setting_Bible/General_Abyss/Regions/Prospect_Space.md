@@ -15,7 +15,7 @@ Due to how many worlds there are, there's a tagging system to follow.
 * [Aborted] - Is a destroyed/ruined world
 
 ### Homeworlds
-- [Blolados](.../1_Worlds_Systems/Blolados.md) [Aborted] [Sapient Locals]
+- [Blolados](./../1_Worlds_Systems/Blolados.md) [Aborted] [Sapient Locals]
 - [Fuedisar](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Fuedisar.md) [Sapient Locals]
 - [Flux](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Flux.md) [Sapient Locals] [Heavily Colonized]
 - [Pasia](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Pasia.md) [Aborted] [Sapient Locals]
