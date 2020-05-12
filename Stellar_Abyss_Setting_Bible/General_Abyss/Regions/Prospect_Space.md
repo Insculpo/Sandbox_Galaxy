@@ -84,7 +84,7 @@ Due to how many worlds there are, there's a tagging system to follow.
 ### Synthetic
 
 - Acidminds
-- [Composers](/Stellar_Abyss_Setting_Bible/2_Sapients/Synthetics/Ivoltic.md)
+- [Composers](/Stellar_Abyss_Setting_Bible/2_Sapients/Synthetics/Composers.md)
 - Ikeitans
 - [Ivoltic](/Stellar_Abyss_Setting_Bible/2_Sapients/Ivoltic.md)
 - Jama
