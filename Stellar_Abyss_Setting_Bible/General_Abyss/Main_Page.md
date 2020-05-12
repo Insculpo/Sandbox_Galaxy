@@ -1,6 +1,6 @@
 # The Stellar Abyss
 
-![Galaxy Map](../MapOfGalacticCivs.png)
+![Galaxy Map](.../MapOfGalacticCivs.png)
 
 ----
 
