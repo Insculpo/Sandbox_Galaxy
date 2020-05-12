@@ -84,11 +84,11 @@ Due to how many worlds there are, there's a tagging system to follow.
 ### Synthetic
 
 - Acidminds
-- Composers
-- Ikeitans
+- [Composers](/Stellar_Abyss_Setting_Bible/2_Sapients/Synthetic/Composers.md)
+- [Ikeitans](/Stellar_Abyss_Setting_Bible/2_Sapients/Synthetic/Ikeitans.md)
 - [Ivoltic](/Stellar_Abyss_Setting_Bible/2_Sapients/Ivoltic.md)
-- Jama
-- The Cancer
+- [Jama](/Stellar_Abyss_Setting_Bible/2_Sapients/Synthetic/Jama.md)
+- [The Cancer ](/Stellar_Abyss_Setting_Bible/2_Sapients/Synthetic/Cancer.md)
 
 ## Civilizations
 - Appa's Realm
