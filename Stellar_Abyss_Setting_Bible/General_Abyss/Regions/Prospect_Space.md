@@ -8,11 +8,11 @@ This is a list of notable worlds.  Most if not all have local life, but this is 
 
 Due to how many worlds there are, there's a tagging system to follow.
 
-[Anomalous] - World with highly anomalous properties.
-[Sapient Locals] - Has sapient locals
-[Heavily Colonized] - Is a highly colonized world
-[Constructed] - Is an artificial world
-[Aborted] - Is a destroyed/ruined world
+* [Anomalous] - World with highly anomalous properties.
+* [Sapient Locals] - Has sapient locals
+* [Heavily Colonized] - Is a highly colonized world
+* [Constructed] - Is an artificial world
+* [Aborted] - Is a destroyed/ruined world
 
 ### Homeworlds
 - [Blolados](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Blolados.md) [Aborted] [Sapient Locals]
@@ -31,7 +31,7 @@ Due to how many worlds there are, there's a tagging system to follow.
 - [Giparna](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Giparna.md) [Heavily Colonized]
 - [Glisyimar](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Glisyimar.md) [Heavily Colonized]
 - [Grand Sphere of Appath](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Grand_Sphere_Of_Appath.md) [Heavily Colonized] [Anomalous] [Constructed]
-- [Hatursados]((/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Hatursados.md) [Heavily Colonized]
+- [Hatursados](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Hatursados.md) [Heavily Colonized]
 - [Ikarlothru](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Ikarlothru.md)
 - [Imartasa.md](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Imartasa.md) [Constructed] [Heavily Colonized]
 - [Ivikurmaja](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Ivikurmaja.md) [Heavily Colonized]
