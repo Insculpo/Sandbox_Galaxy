@@ -18,8 +18,8 @@
 
 ## Rulesets
 
-- [FTL Systems](Stellar_Abyss_Setting_Bible/General_Abyss/FTL_Systems.md)
-- [Biochemistries](Stellar_Abyss_Setting_Bible/General_Abyss/Biochemistries.md)
+- [FTL Systems](../General_Abyss/FTL_Systems.md)
+- [Biochemistries](../General_Abyss/Biochemistries.md)
 
 ## Bonus Links
 
