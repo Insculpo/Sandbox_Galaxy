@@ -10,11 +10,11 @@ The core of the galaxy and its associated societies.  Various entities adapted t
 ## Sapients
 
 ### Darwinian
-- [Untirlonians](/Stellar_Abyss_Setting_Bible/2_Sapients/Untirlonian.md)
+- [Untirlonians](../../2_Sapients/Untirlonian.md)
 
 ### Synthetic
-- [Vays](/Stellar_Abyss_Setting_Bible/2_Sapients/Kolosha.md)
-- [Virgo](/Stellar_Abyss_Setting_Bible/2_Sapients/Virgo.md)
+- [Vays](../../2_Sapients/Kolosha.md)
+- [Virgo](../../2_Sapients/Virgo.md)
 
 
 ## Civilizations

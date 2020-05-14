@@ -3,48 +3,48 @@
 The Architect is a space dominated by confederations of world states that pool into a bizarre affinity to large communal megastructures.  The Custodians have arisen as a dominant force of the Architect and by extension the bulk of the sprawl connected galaxy.
 
 ## Worlds
-- [Alkud](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Alkud.md)
-- [Carshigua](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Carshigua.md)
+- [Alkud](../../1_Worlds_Systems/Alkud.md)
+- [Carshigua](../../1_Worlds_Systems/Carshigua.md)
 - Clipsan
-- [Gavus](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Gavus.md)
-- [Grey World](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Grey_World.md)
-- [Kyruvi](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Kyruvi.md)
-- [Liparta](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Liparta.md)
+- [Gavus](../../1_Worlds_Systems/Gavus.md)
+- [Grey World](../../1_Worlds_Systems/Grey_World.md)
+- [Kyruvi](../../1_Worlds_Systems/Kyruvi.md)
+- [Liparta](../../1_Worlds_Systems/Liparta.md)
 - Malasa
-- [Messina](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Messina.md)
+- [Messina](../../1_Worlds_Systems/Messina.md)
 - Modulus
-- [Notaldi](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Votaldi.md)
+- [Notaldi](../../1_Worlds_Systems/Votaldi.md)
 - Pan-Stellar Complex
-- [Sidilico](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Sidilico.md)
-- [Sopliss](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Sopliss.md)
-- [Somber](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Somber.md)
-- [The Dumbbells](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Dumbells.md)
+- [Sidilico](../../1_Worlds_Systems/Sidilico.md)
+- [Sopliss](../../1_Worlds_Systems/Sopliss.md)
+- [Somber](../../1_Worlds_Systems/Somber.md)
+- [The Dumbbells](../../1_Worlds_Systems/Dumbells.md)
 - The Slow
-- [The Timeless](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/The_Timeless.md)
-- [Titus](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Titus.md)
-- [Varblodia](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Varblodia.md)
-- [Union 78](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Soto_4.md)
-- [Uvami](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Uvami.md)
+- [The Timeless](../../1_Worlds_Systems/The_Timeless.md)
+- [Titus](../../1_Worlds_Systems/Titus.md)
+- [Varblodia](../../1_Worlds_Systems/Varblodia.md)
+- [Union 78](../../1_Worlds_Systems/Soto_4.md)
+- [Uvami](../../1_Worlds_Systems/Uvami.md)
 - Zeem
 
 
 ## Sapients
 
 ### Darwinian
-- [Asantum](/Stellar_Abyss_Setting_Bible/2_Sapients/Asantum.md)
-- [Aveterriat](/Stellar_Abyss_Setting_Bible/2_Sapients/Aveterriat.md)
-- [Fluka](/Stellar_Abyss_Setting_Bible/2_Sapients/Fluka.md)
-- [Glinnvyr](/Stellar_Abyss_Setting_Bible/2_Sapients/Glinnvyr.md)
-- [Gavus](/Stellar_Abyss_Setting_Bible/2_Sapients/Gavus.md)
-- [Hilbado](/Stellar_Abyss_Setting_Bible/2_Sapients/Hilbado.md)
-- [Illrop](/Stellar_Abyss_Setting_Bible/2_Sapients/Illrop.md)
-- [Jayapossa](/Stellar_Abyss_Setting_Bible/2_Sapients/Jayapossa.md)
-- [Karko](/Stellar_Abyss_Setting_Bible/2_Sapients/Karko.md)
-- [Loptras](/Stellar_Abyss_Setting_Bible/2_Sapients/Loptras.md)
-- [Malasi](/Stellar_Abyss_Setting_Bible/1_Sapients/Malasi.md)
-- [Polino](/Stellar_Abyss_Setting_Bible/2_Sapients/Polino.md)
+- [Asantum](../../2_Sapients/Asantum.md)
+- [Aveterriat](../../2_Sapients/Aveterriat.md)
+- [Fluka](../../2_Sapients/Fluka.md)
+- [Glinnvyr](../../2_Sapients/Glinnvyr.md)
+- [Gavus](../../2_Sapients/Gavus.md)
+- [Hilbado](../../2_Sapients/Hilbado.md)
+- [Illrop](../../2_Sapients/Illrop.md)
+- [Jayapossa](../../2_Sapients/Jayapossa.md)
+- [Karko](../../2_Sapients/Karko.md)
+- [Loptras](../../2_Sapients/Loptras.md)
+- [Malasi](../../1_Sapients/Malasi.md)
+- [Polino](../../2_Sapients/Polino.md)
 - Somber Hydras
-- [Soplo](/Stellar_Abyss_Setting_Bible/2_Sapients/Soplo.md)
+- [Soplo](../../2_Sapients/Soplo.md)
 
 ### Synthetic
 - Anarchic Wisps

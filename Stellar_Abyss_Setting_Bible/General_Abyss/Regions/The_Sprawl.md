@@ -14,17 +14,17 @@ Due to how many worlds there are, there's a tagging system to follow.
 [Constructed] - Is an artificial world
 [Aborted] - Is a destroyed/ruined world
 
-- [Yuli](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Yuli.md) [Aborted] [Heavily Colonized]
-- [Kinnis](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Kinnis.md) [Aborted] [Heavily Colonized]
+- [Yuli](../../1_Worlds_Systems/Yuli.md) [Aborted] [Heavily Colonized]
+- [Kinnis](../../1_Worlds_Systems/Kinnis.md) [Aborted] [Heavily Colonized]
 - Sterile Volumes [Heavily Colonized]
-- [Verdent Reach](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Verdant_Reach.md) [Aborted] [Constructed] [Heavily Colonized]
-- [The Outer Nexus](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Outer_Nexus.md) [Aborted] [Constructed] [Heavily Colonized]
-- [Ether](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Etherial_System.md) [Aborted] [Heavily Colonized]
-- [Gilizet](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Gilizet.md) [Aborted] [Heavily Colonized]
+- [Verdent Reach](../../1_Worlds_Systems/Verdant_Reach.md) [Aborted] [Constructed] [Heavily Colonized]
+- [The Outer Nexus](../../1_Worlds_Systems/Outer_Nexus.md) [Aborted] [Constructed] [Heavily Colonized]
+- [Ether](../../1_Worlds_Systems/Etherial_System.md) [Aborted] [Heavily Colonized]
+- [Gilizet](../../1_Worlds_Systems/Gilizet.md) [Aborted] [Heavily Colonized]
 - The Egg [Anomalous] [Heavily Colonized]
-- [Hiviza](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Hiviza.md)
-- [Exolith](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Exolith.md)
-- [Uvastis](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Uvastis.md) [Constructed] [Heavily Colonized]
+- [Hiviza](../../1_Worlds_Systems/Hiviza.md)
+- [Exolith](../../1_Worlds_Systems/Exolith.md)
+- [Uvastis](../../1_Worlds_Systems/Uvastis.md) [Constructed] [Heavily Colonized]
 - The Abandoned Nexus [Anomalous] [Aborted] [Constructed] [Heavily Colonized]
 
 ## Sapients
@@ -39,7 +39,7 @@ The Sprawl is connected to the Ancient Ecumene, various sprawl species originate
 
 ### Synthetic
 - Operiunn
-- [Kabuzihin]((/Stellar_Abyss_Setting_Bible/2_Sapients/Kabuzihin.md)
+- [Kabuzihin]((../../2_Sapients/Kabuzihin.md)
 - Iffip
 - Illapians
 - Shifters

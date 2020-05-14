@@ -15,49 +15,49 @@ Due to how many worlds there are, there's a tagging system to follow.
 [Aborted] - Is a destroyed/ruined world
 
 - [Adinia](..../1_Worlds_Systems/Adina.md)
-- [Ikirma](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Ikirma.md) [Sapient Locals]
-- [Jormunan](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Jormunan.md) [Heavily Colonized]
-- [Kusneto Prime](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Kusneto_Prime.md) [Heavily Colonized]
-- [Long Step](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Long_Step.md) [Sapient Locals] [Heavily Colonized]
+- [Ikirma](../../1_Worlds_Systems/Ikirma.md) [Sapient Locals]
+- [Jormunan](../../1_Worlds_Systems/Jormunan.md) [Heavily Colonized]
+- [Kusneto Prime](../../1_Worlds_Systems/Kusneto_Prime.md) [Heavily Colonized]
+- [Long Step](../../1_Worlds_Systems/Long_Step.md) [Sapient Locals] [Heavily Colonized]
 - Ludor [Sapient Locals] [Heavily Colonized]
-- [Minava](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Minava.md) [Heavily Colonized]
-- [Metallic Hives](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Metallic_Hives.md) [Constructed]
-- [Milloc](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Vitloc_Milloc.md)
-- [Necropolis](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Necropolis_Hub.md) [Heavily Colonized]
-- [New Atlantis](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/New_Atlantis.md) [Heavily Colonized]
-- [Ovapas](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Ovapas.md)
-- [Oxides](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Oxides.md)
+- [Minava](../../1_Worlds_Systems/Minava.md) [Heavily Colonized]
+- [Metallic Hives](../../1_Worlds_Systems/Metallic_Hives.md) [Constructed]
+- [Milloc](../../1_Worlds_Systems/Vitloc_Milloc.md)
+- [Necropolis](../../1_Worlds_Systems/Necropolis_Hub.md) [Heavily Colonized]
+- [New Atlantis](../../1_Worlds_Systems/New_Atlantis.md) [Heavily Colonized]
+- [Ovapas](../../1_Worlds_Systems/Ovapas.md)
+- [Oxides](../../1_Worlds_Systems/Oxides.md)
 - Qualma [Sapient Locals]
-- [Scaverkus](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Scaverkus.md) [Sapient Locals]
+- [Scaverkus](../../1_Worlds_Systems/Scaverkus.md) [Sapient Locals]
 - Sol [Sapient Locals] [Heavily Colonized]
-- [Soot](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Soot.md)
+- [Soot](../../1_Worlds_Systems/Soot.md)
 - Stargi [Sapient Locals] [Anomalous]
-- [Suarsa](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Suarsa.md)
-- [Tabby World](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Tabby_World.md)[Sapient Locals]
-- [The Anthropopulus Complex](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/The_Anthropopulus_Complex.md) [Constructed] [Heavily Colonized]
-- [The March](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/March.md) [Aborted] [Sapient Locals]
-- [Torvald](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Torvald.md) [Sapient Locals]
-- [Vataland](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Vataland.md) [Aborted] [Heavily Colonized]
-- [Viklu](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Viklu.md)
-- [Vitloc](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Vitloc_Milloc.md)
-- [Vlanch](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Vlanch.md)
-- [Vurmaria](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Vurmaria.md) [Sapient Locals] [Heavily Colonized]
-- [Yiukoso](/Stellar_Abyss_Setting_Bible/1_Worlds_Systems/Yiukoso.md)
+- [Suarsa](../../1_Worlds_Systems/Suarsa.md)
+- [Tabby World](../../1_Worlds_Systems/Tabby_World.md)[Sapient Locals]
+- [The Anthropopulus Complex](../../1_Worlds_Systems/The_Anthropopulus_Complex.md) [Constructed] [Heavily Colonized]
+- [The March](../../1_Worlds_Systems/March.md) [Aborted] [Sapient Locals]
+- [Torvald](../../1_Worlds_Systems/Torvald.md) [Sapient Locals]
+- [Vataland](../../1_Worlds_Systems/Vataland.md) [Aborted] [Heavily Colonized]
+- [Viklu](../../1_Worlds_Systems/Viklu.md)
+- [Vitloc](../../1_Worlds_Systems/Vitloc_Milloc.md)
+- [Vlanch](../../1_Worlds_Systems/Vlanch.md)
+- [Vurmaria](../../1_Worlds_Systems/Vurmaria.md) [Sapient Locals] [Heavily Colonized]
+- [Yiukoso](../../1_Worlds_Systems/Yiukoso.md)
 
 ## Sapients
 
 ### Darwinian
-- [Human](/Stellar_Abyss_Setting_Bible/2_Sapients/Human.md)
+- [Human](../../2_Sapients/Human.md)
 - Ikirmites
-- [Natvyr](/Stellar_Abyss_Setting_Bible/2_Sapients/Natvyr.md)
-- [Ooloopoo](/Stellar_Abyss_Setting_Bible/2_Sapients/ooloopoo.md)
-- [Parda](/Stellar_Abyss_Setting_Bible/2_Sapients/Parda.md)
+- [Natvyr](../../2_Sapients/Natvyr.md)
+- [Ooloopoo](../../2_Sapients/ooloopoo.md)
+- [Parda](../../2_Sapients/Parda.md)
 - Rasuu
 - Scaverkians
 - Tabbites
-- [Tikali](/Stellar_Abyss_Setting_Bible/2_Sapients/Tikali.md)
+- [Tikali](../../2_Sapients/Tikali.md)
 - Torvaldites
-- [Vilkovum](/Stellar_Abyss_Setting_Bible/2_Sapients/Vilkovum.md)
+- [Vilkovum](../../2_Sapients/Vilkovum.md)
 
 
 
