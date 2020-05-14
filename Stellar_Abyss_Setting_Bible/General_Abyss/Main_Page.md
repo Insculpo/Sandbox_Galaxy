@@ -25,7 +25,3 @@
 
 - [Art Station](https://www.artstation.com/insculpo)
 - [Deviantart](https://www.deviantart.com/zoppadoppa/gallery)
-
-https://github.com/Insculpo/Sandbox_Galaxy/blob/master/Stellar_Abyss_Setting_Bible/General_Abyss/General_Abyss/Regions/Prospect_Space.md
-
-https://github.com/Insculpo/Sandbox_Galaxy/blob/master/Stellar_Abyss_Setting_Bible/General_Abyss/Regions/Prospect_Space.md
