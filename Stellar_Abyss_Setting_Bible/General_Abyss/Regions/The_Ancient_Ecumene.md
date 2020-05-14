@@ -10,10 +10,10 @@ The ancient Ecumene was the first emergent civilization, though the emergence na
 
 ### Darwinian
 - Calzonit
-- [Dioviermes](/Stellar_Abyss_Setting_Bible/2_Sapients/Diovierme.md)
-- [Maratans](/Stellar_Abyss_Setting_Bible/2_Sapients/Marata.md)
+- [Dioviermes](../../2_Sapients/Diovierme.md)
+- [Maratans](../../2_Sapients/Marata.md)
 - Quvaker
-- [Salfluer](/Stellar_Abyss_Setting_Bible/2_Sapients/Salfluer.md)
+- [Salfluer](../../2_Sapients/Salfluer.md)
 - Vargin
 
 ### Synthetic
