@@ -71,19 +71,19 @@ Due to how many worlds there are, there's a tagging system to follow.
 ## Civilizations
 - Asa's Hive
 - Burrows
-- Estate
+- [Estate](../../3_Civilizations/The_Estate.md)
 - Fleshdom
-- GSA
+- [GSA](../../3_Civilizations/Greater_Systems_Assembly.md)
 - Metallic Hives
 - Mikurmar
-- Neomush
-- Silent Imperium
+- [Neomush](../../3_Civilizations/Mush.md)
+- [Silent Imperium](../../3_Civilizations/Silent_Imperium.md)
 - The Eridani
 - The Grey Ones
 - The Noise
 - Vapourites
 - Vikka Corps
-- Virtue Coalition
+- [Virtue Coalition](../../3_Civilizations/Virtue_Coalition.md)
 
 
 ## History

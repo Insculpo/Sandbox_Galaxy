@@ -10,7 +10,7 @@
 - [Prospect Space](Regions/Prospect_Space.md)
 - [The Sprawl](Regions/The_Sprawl.md)
 - [The Architect](Regions/The_Architect.md)
-- [Phidians](General_Abyss/Regions/Phidian_Space.md)
+- [Phidians](Regions/Phidian_Space.md)
 - [Broken Space (Zikelli)](Regions/Broken_Space.md)
 - [Wildspace (Larona, Pink Space)](Regions/Wild_Space.md)
 - [The Ancient Ecumene](Regions/The_Ancient_Ecumene.md)
