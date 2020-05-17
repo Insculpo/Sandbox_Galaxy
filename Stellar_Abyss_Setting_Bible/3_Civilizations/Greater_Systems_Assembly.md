@@ -31,27 +31,27 @@ Aliens within the GSA come mainly from the Tikali and Ramuu.  The Ramuu are view
 ## Demographics
 
 -Darwinian-
-67% human
-22% Tikali
-4% Rasuu
-6% Uplifts
-1% Other Species
+- 67% human
+- 22% Tikali
+- 4% Rasuu
+- 6% Uplifts
+- 1% Other Species
 
 -Synthetic-
-47% Androids
-48% Simulacrums/Uploads
-5% Special Frameworks (specialized drone swarms)
+- 47% Androids
+- 48% Simulacrums/Uploads
+- 5% Special Frameworks (specialized drone swarms)
 
 -Uplifted-
-31% Terran Origin
-27% Vamusidian Origin
-15% Murk Origin
-27% Other Origin
+- 31% Terran Origin
+- 27% Vumarian Origin
+- 15% Murk Origin
+- 27% Other Origin
 
 --Overall--
-40% Darwinian
-52% Synthetic
-8% Uplifted
+- 40% Darwinian
+- 52% Synthetic
+- 8% Uplifted
 
 The overall population of the GSA is 197 Trillion across 27 thousand recognized world states not including worlds claimed by world states as part of their jurisdiction as of 2850 AD
 
@@ -77,7 +77,7 @@ The Assembly world states can be viewed as multiple societies part of the Greate
 
 ## Sapients of the Assembly
 
-Assembly society is peculiar in their xenophobia in that they have it, but view species such as the Tikali or Ramuu as friendly unlike the other aliens of the galaxy.  Some species intrude no matter what like the much loathed Fosskemians or the Utanguis.   It is very evident that the Assembly is one small part of a much more vast galaxy, which is why so many in the Assembly unify as a counter balance to a greater perceived threat.  Yet the Tikali and Rasuu despite the prescence have been of major contention, even if neither of them ever were a true threat beyond some cultural practices that humans found disturbing.  Uplifted animals in the assembly get the worst deal, as uplifted animal life tended to be viewed even centuries later as more a curiosity than anything else.  Meanwhile the uplifted animals have managed to gain a presence in the centuries since the depravities of the Terran Federation.
+Assembly society has a complicated relationship with aliens, as while they systemically despise the Vopson, they're more neutral or towards other species with Tikali cohabitation being very common in parts of the GSA.  Some species intrude no matter what like the rather frustrating Fosskemians or the Utanguis imperialists.   It is very evident that the Assembly is one small part of a much more vast galaxy, which is why so many in the Assembly unify as a counter balance to a greater perceived threat.  Yet the Tikali and Rasuu despite the prescence have been of ocassional contention, even if neither of them ever were a true threat beyond some cultural practices that humans found disturbing.  Uplifted animals in the assembly get the worst deal, as uplifted animal life tended to be viewed even centuries later as more a curiosity than anything else.  Meanwhile the uplifted animals have managed to gain a presence in the centuries since the depravities of the Terran Federation.
 
 Assembly Organization
 
