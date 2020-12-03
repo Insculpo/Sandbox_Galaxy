@@ -119,7 +119,7 @@ Due to how many worlds there are, there's a tagging system to follow.
 
 
 ## History
-- Grand Prospect Space History
+- [Grand Prospect Space History](../../3_Civilizations/Histories/Prospect_Grand_History.md)
 ## Tech
 -Links to tech/just associated technologies
 ## Characters/Figures

@@ -1,6 +1,6 @@
 # The Stellar Abyss
 
-![Galaxy Map](../Photo_Directory/MapOfGalacticCivs.png)
+![Galaxy Map](../Photo_Directory/NewGalacticMap.png)
 
 ----
 
@@ -18,10 +18,11 @@
 
 ## Rulesets
 
-- [FTL Systems](Stellar_Abyss_Setting_Bible/General_Abyss/FTL_Systems.md)
-- [Biochemistries](Stellar_Abyss_Setting_Bible/General_Abyss/Biochemistries.md)
+- [FTL Systems](FTL_Systems.md)
+- [Biochemistries](Biochemistries.md)
 
 ## Bonus Links
 
 - [Art Station](https://www.artstation.com/insculpo)
 - [Deviantart](https://www.deviantart.com/zoppadoppa/gallery)
+- [Discord](https://discord.gg/yUSsDrk)
