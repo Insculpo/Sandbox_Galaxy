@@ -69,15 +69,19 @@ Due to how many worlds there are, there's a tagging system to follow.
 - Virtual Spirits
 
 ## Civilizations
+
+### Essential factions
+- [GSA](../../3_Civilizations/Greater_Systems_Assembly.md)
+- [Silent Imperium](../../3_Civilizations/Silent_Imperium.md)
+
+### Secondary Factions
 - Asa's Hive
 - Burrows
 - [Estate](../../3_Civilizations/The_Estate.md)
 - Fleshdom
-- [GSA](../../3_Civilizations/Greater_Systems_Assembly.md)
 - Metallic Hives
 - Mikurmar
 - [Neomush](../../3_Civilizations/Mush.md)
-- [Silent Imperium](../../3_Civilizations/Silent_Imperium.md)
 - The Eridani
 - The Grey Ones
 - The Noise

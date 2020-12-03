@@ -56,7 +56,12 @@ The Architect is a space dominated by confederations of world states that pool i
 - Wisps
 
 ## Civilizations
-- Custodians
+### Essential Factions
+- [The Custodians](../../3_Civilizations/Custodians.md)
+- [Vmiskii Empire](../../3_Civilizations/Vmiskii_Empire.md)
+
+
+### Secondary Factions
 - Chromatists
 - Modulators
 - Mountain of Plates
@@ -68,7 +73,7 @@ The Architect is a space dominated by confederations of world states that pool i
 - Realm of Hellish Existence
 - The Crack
 - The Null
-- Vmiskii Domain
+
 
 
 ## History
