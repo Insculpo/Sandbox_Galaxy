@@ -18,3 +18,5 @@ Here you will find all matter of creative efforts by Insculpo/ZoppaDoppa, most o
  [The Lizard](Associated_Coding_Projects/LizardRunner/myGame/index.html)
 
  [Galaxy Mapper](Associated_Coding_Projects/Galaxy_Placer/Alien_Placer.html)
+ 
+ ------This is the version of this creative bible before the revisions that exists as a way to compare the two branches---
