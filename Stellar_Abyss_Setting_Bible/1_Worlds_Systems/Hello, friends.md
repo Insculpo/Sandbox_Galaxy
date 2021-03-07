@@ -21,9 +21,9 @@ The custodians having such insane destructive potential is tempered mainly by th
 
 What complicates the Custodians is they aren't so simple.  Many custodians are actually virtual copies of other species their scouts have encountered, with metaversials being a vast range of species copied from our universe along with all matter of more abstract, strange entities that only could exist within the parameters of completely generated subverses within the metaverse.  The time dilated chaos has meant the custodians have hyper-evolved massively over other civilizations, to the point they developed into advanced spatial manipulations that usually had been associated with the Virgo or Sprawl at its height.  These massive advantages would be tempered by other architect civs time dilated.
 
+
 Custodian character concepts
 
-Viggan - 
+Viggan -
 
 Viggan is a Custodian has no real purpose and seems to get this, seeing this universe as a plane of existence it has no use or hope for.  Just miserable drift.
-
