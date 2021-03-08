@@ -32,7 +32,7 @@ This it the chart of molecular life.  There is life outside the scope of those f
  | *Liquid Ammonia*   | Carbon | Arsenic | -73 C to -33 C  | ??? | 3.7RR |  |
  | *Hydrogen Sulfide* | Carbon/Silicon | Arsenic/Dihydrogen | ??? | ??? | 0.4RR |  |
  | *Ammonia Gas*   | Carbon | Nitrates | -33 C+ | ??? | 1.21RR |  |
- | *Methane Gas*   | Carbon | Nitrates | ??? | ??? | 0.53RR |  |
+| *Methane Gas*   | Carbon | Nitrates | ??? | ??? | 0.53RR |  |
  | *Hydrocarbons*   | Carbon | Nitrates | ??? | ??? | 3.7RR |  |
  | *Liquid Nitrogen*   | Silicon | Dihydrogen | ??? | ??? | 0.2RR |  |
  | *Liquid Helium*   | Silicon | Dihydrogen | ??? | 5.1 ATM+ | 0.24RR |  |
@@ -48,7 +48,7 @@ Such entities also act as a Boltzmann brain source, with "living stars" being co
 
 
 * **Living Stars** - Complex gestalts of plasma ecology that form after as a star hits subgiant phase.  Some of them fail to stop the natural stellar process, but others manage to skirt the trend and cannibalize other celestial bodies.  These stars would be known as living stars.  They were a common phenomena at a cosmic scale, but they were exceptionally rare within a single galaxy because of the peculiar compositions associated with them.
-* **Celestial Ecologies** - A less advanced form of plasma entities had built itself on and more chaotic, the celestial ecology is a system of coronaspheric and plasma entities whose metastable fusion bodies accelerated the supernova of a star.  Binary and trinary star systems would find that such ecologies spread in a virus-like fashion.  Globular clusters became massive incubators of celestial ecologies, for instance.  The [Vays](..\Stellar_Abyss_Setting_Bible\2_Sapients) themselves are known to have originated from this source, the Virgo as well.  Radiative spreading plasma entities outside globular clusters can occur in galactic cores in some cases.  
+* **Celestial Ecologies** - A less advanced form of plasma entities had built itself on and more chaotic, the celestial ecology is a system of coronaspheric and plasma entities whose metastable fusion bodies accelerated the supernova of a star.  Binary and trinary star systems would find that such ecologies spread in a virus-like fashion.  Globular clusters became massive incubators of celestial ecologies, for instance.  The [Vays](Stellar_Abyss_Setting_Bible\2_Sapients) themselves are known to have originated from this source, the Virgo as well.  Radiative spreading plasma entities outside globular clusters can occur in galactic cores in some cases.  
 
 
 ## Kinetic Entities
