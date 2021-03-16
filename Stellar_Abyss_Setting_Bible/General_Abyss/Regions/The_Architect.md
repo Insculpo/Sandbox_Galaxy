@@ -18,6 +18,7 @@ The Architect is a space dominated by confederations of world states that pool i
 - [Sidilico](../../1_Worlds_Systems/Sidilico.md)
 - [Sopliss](../../1_Worlds_Systems/Sopliss.md)
 - [Somber](../../1_Worlds_Systems/Somber.md)
+- [Soto 4](../../1_Worlds_Systems/Soto_4.md)
 - [The Dumbbells](../../1_Worlds_Systems/Dumbells.md)
 - The Slow
 - [The Timeless](../../1_Worlds_Systems/The_Timeless.md)
