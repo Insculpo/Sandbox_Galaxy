@@ -8,7 +8,7 @@ A region of space where there is only one dominate species loosely linked to by 
 ## Sapients
 
 ### Darwinian
-- [Phidians](../../2_Sapients/Phidian.md)
+- [Phidians](../../2_Sapients/Darwinian/Phidian.md)
 
 ### Synthetic
 
