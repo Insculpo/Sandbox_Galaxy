@@ -27,25 +27,25 @@ The Architect is a space dominated by confederations of world states that pool i
 - [Union 78](../../1_Worlds_Systems/Soto_4.md)
 - [Uvami](../../1_Worlds_Systems/Uvami.md)
 - Zeem
+- 
 
 
 ## Sapients
 
 ### Darwinian
-- [Asantum](../../2_Sapients/Asantum.md)
-- [Aveterriat](../../2_Sapients/Aveterriat.md)
-- [Fluka](../../2_Sapients/Fluka.md)
-- [Glinnvyr](../../2_Sapients/Glinnvyr.md)
-- [Gavus](../../2_Sapients/Gavus.md)
-- [Hilbado](../../2_Sapients/Hilbado.md)
-- [Illrop](../../2_Sapients/Illrop.md)
-- [Jayapossa](../../2_Sapients/Jayapossa.md)
-- [Karko](../../2_Sapients/Karko.md)
-- [Loptras](../../2_Sapients/Loptras.md)
-- [Malasi](../../1_Sapients/Malasi.md)
-- [Polino](../../2_Sapients/Polino.md)
+- [Asantum](../../2_Sapients/Darwinian/Asantum.md)
+- [Aveterriat](../../2_Sapients/Darwinian/Aveterriat.md)
+- [Fluka](../../2_Sapients/Darwinian/Fluka.md)
+- [Glinnvyr](../../2_Sapients/Darwinian/Glinnvyr.md)
+- [Hilbado](../../2_Sapients/Darwinian/Hilbado.md)
+- [Illrop](../../2_Sapients/Darwinian/Illrop.md)
+- [Jayapossa](../../2_Sapients/Darwinian/Jayapossa.md)
+- [Karko](../../2_Sapients/Darwinian/Karko.md)
+- [Loptras](../../2_Sapients/Darwinian/Loptras.md)
+- [Malasi](../../1_Sapients/Darwinian/Malasi.md)
+- [Polino](../../2_Sapients/Darwinian/Polino.md)
 - Somber Hydras
-- [Soplo](../../2_Sapients/Soplo.md)
+- [Soplo](../../2_Sapients/Darwinian/Soplo.md)
 
 ### Synthetic
 - Anarchic Wisps
