@@ -53,7 +53,7 @@ Due to how many worlds there are, there's a tagging system to follow.
 - [Ooloopoo](../../2_Sapients/Darwinian/ooloopoo.md)
 - [Parda](../../2_Sapients/Darwinian/Parda.md)
 - [Rasuu](
-- [Scaverkians](../../2_Sapients/Darwinian/Scaverkus.md)
+- [Stevik](../../2_Sapients/Darwinian/Stevik.md)
 - Tabbites
 - [Parda](../../2_Sapients/Darwinian/Parda.md)
 - [Tikali](../../2_Sapients/Darwinian/Tikali.md)
