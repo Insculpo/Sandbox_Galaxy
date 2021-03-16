@@ -47,17 +47,18 @@ Due to how many worlds there are, there's a tagging system to follow.
 ## Sapients
 
 ### Darwinian
-- [Human](../../2_Sapients/Human.md)
+- [Human](../../2_Sapients/Darwinian/Human.md)
 - Ikirmites
-- [Natvyr](../../2_Sapients/Natvyr.md)
-- [Ooloopoo](../../2_Sapients/ooloopoo.md)
-- [Parda](../../2_Sapients/Parda.md)
+- [Natvyr](../../2_Sapients/Darwinian/Natvyr.md)
+- [Ooloopoo](../../2_Sapients/Darwinian/ooloopoo.md)
+- [Parda](../../2_Sapients/Darwinian/Parda.md)
 - Rasuu
 - Scaverkians
 - Tabbites
-- [Tikali](../../2_Sapients/Tikali.md)
+- [Parda](../../2_Sapients/Darwinian/Parda.md)
+- [Tikali](../../2_Sapients/Darwinian/Tikali.md)
 - Torvaldites
-- [Vilkovum](../../2_Sapients/Vilkovum.md)
+- [Vilkovum](../../2_Sapients/Darwinian/Vilkovum.md)
 
 
 

@@ -63,21 +63,21 @@ Due to how many worlds there are, there's a tagging system to follow.
 ## Sapients
 
 ### Darwinian
-- [Alephids](../../2_Sapients/Alephid.md)
+- [Alephids](../../2_Sapients/Darwinian/Alephid.md)
 - Flatworlders
-- [Fosskemian](../../2_Sapients/Fosskemians.md)
-- [Illapians](../../2_Sapients/Illapian.md)
-- [Lasuuko](../../2_Sapients/Lasuuko.md)
-- [Okar](../../2_Sapients/Okar.md)
-- [Pasis](../../2_Sapients/Pasis.md)
-- [Sarkic](../../2_Sapients/Sarkic.md)
-- [Utanguis](../../2_Sapients/Cyrawaloc.md)
-- [Veemer](../../2_Sapients/Veemer.md)
-- [Vilate](../../2_Sapients/Vilate.md)
-- [Vopson](../../2_Sapients/Vopson.md)
-- [Whandl](../../2_Sapients/Whandl.md)
-- [Yalilu](../../2_Sapients/Yalilu.md)
-- [Zakkai](../../2_Sapients/Zakkai.md)
+- [Fosskemian](../../2_Sapients/Darwinian/Fosskemians.md)
+- [Illapians](../../2_Sapients/Darwinian/Illapian.md)
+- [Lasuuko](../../2_Sapients/Darwinian/Lasuuko.md)
+- [Okar](../../2_Sapients/Darwinian/Okar.md)
+- [Pasis](../../2_Sapients/Darwinian/Pasis.md)
+- [Sarkic](../../2_Sapients/Darwinian/Sarkic.md)
+- [Utanguis](../../2_Sapients/Darwinian/Cyrawaloc.md)
+- [Veemer](../../2_Sapients/Darwinian/Veemer.md)
+- [Vilate](../../2_Sapients/Darwinian/Vilate.md)
+- [Vopson](../../2_Sapients/Darwinian/Vopson.md)
+- [Whandl](../../2_Sapients/Darwinian/Whandl.md)
+- [Yalilu](../../2_Sapients/Darwinian/Yalilu.md)
+- [Zakkai](../../2_Sapients/Darwinian/Zakkai.md)
 
 
 
@@ -86,7 +86,7 @@ Due to how many worlds there are, there's a tagging system to follow.
 - Acidminds
 - [Composers](../../2_Sapients/Synthetic/Composers.md)
 - [Ikeitans](../../2_Sapients/Synthetic/Ikeitans.md)
-- [Ivoltic](../../2_Sapients/Ivoltic.md)
+- [Ivoltic](../../2_Sapients/Synthetic/Ivoltic.md)
 - [Jama](../../2_Sapients/Synthetic/Jama.md)
 - [The Cancer ](../../2_Sapients/Synthetic/Cancer.md)
 
