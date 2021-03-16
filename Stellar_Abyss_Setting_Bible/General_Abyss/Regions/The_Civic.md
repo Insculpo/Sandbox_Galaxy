@@ -19,7 +19,7 @@ Due to how many worlds there are, there's a tagging system to follow.
 - [Jormunan](../../1_Worlds_Systems/Jormunan.md) [Heavily Colonized]
 - [Kusneto Prime](../../1_Worlds_Systems/Kusneto_Prime.md) [Heavily Colonized]
 - [Long Step](../../1_Worlds_Systems/Long_Step.md) [Sapient Locals] [Heavily Colonized]
-- Ludor [Sapient Locals] [Heavily Colonized]
+- [Ludor](../../1_Worlds_Systems/Ludor.md) [Sapient Locals] [Heavily Colonized]
 - [Minava](../../1_Worlds_Systems/Minava.md) [Heavily Colonized]
 - [Metallic Hives](../../1_Worlds_Systems/Metallic_Hives.md) [Constructed]
 - [Milloc](../../1_Worlds_Systems/Vitloc_Milloc.md)
@@ -52,8 +52,8 @@ Due to how many worlds there are, there's a tagging system to follow.
 - [Natvyr](../../2_Sapients/Darwinian/Natvyr.md)
 - [Ooloopoo](../../2_Sapients/Darwinian/ooloopoo.md)
 - [Parda](../../2_Sapients/Darwinian/Parda.md)
-- Rasuu
-- Scaverkians
+- [Rasuu](
+- [Scaverkians](../../2_Sapients/Darwinian/Scaverkus.md)
 - Tabbites
 - [Parda](../../2_Sapients/Darwinian/Parda.md)
 - [Tikali](../../2_Sapients/Darwinian/Tikali.md)
@@ -74,21 +74,21 @@ Due to how many worlds there are, there's a tagging system to follow.
 ### Essential factions
 - [GSA](../../3_Civilizations/Greater_Systems_Assembly.md)
 - [Silent Imperium](../../3_Civilizations/Silent_Imperium.md)
+- [Virtue Coalition](../../3_Civilizations/Virtue_Coalition.md)
 
 ### Secondary Factions
 - Asa's Hive
 - Burrows
 - [Estate](../../3_Civilizations/The_Estate.md)
 - Fleshdom
-- Metallic Hives
+- The Metallic Hives
 - Mikurmar
 - [Neomush](../../3_Civilizations/Mush.md)
-- The Eridani
 - The Grey Ones
 - The Noise
-- Vapourites
+- The Minavans
 - Vikka Corps
-- [Virtue Coalition](../../3_Civilizations/Virtue_Coalition.md)
+
 
 
 ## History
