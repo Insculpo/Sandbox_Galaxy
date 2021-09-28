@@ -3,7 +3,7 @@
 <h2 align="center">Utanguis
 </h2>
 <p align="center">
-<img src="https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/Photo_Directory/Utanguis.jpg">
+<img src="https://media.discordapp.net/attachments/140616787539656704/869111562663780382/Untitled_Artwork.png?width=956&height=621">
 </p>
 
 ### Overview
