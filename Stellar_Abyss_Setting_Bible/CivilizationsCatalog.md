@@ -1,4 +1,4 @@
-### Civilizations Catalog
+/## Civilizations Catalog
 
 * [The Cooperative](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/3_Civilizations/Cooperative.md)
 * [The Custodians](https://github.com/Insculpo/Sandbox_Galaxy/blob/Galactic/Stellar_Abyss_Setting_Bible/3_Civilizations/Custodians.md)

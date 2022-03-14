@@ -1,4 +1,4 @@
-Liduzum
+# Liduzum
 
 Liduzum is perhaps a case study in the sheer amount of peculiar places advanced life has managed to develop.  For in total mockery of ancient human conceptions of where advanced intelligent life can develop, Liduzum came to be.  Liduzum is a highly volcanic desert world in orbit of a brown dwarf known as Lidus B.  Lidus A is a F-Class star.  Liduzum's ecology formed in these conditions with highly acidic oceans thanks to all the vulcanism on the world which made the world a hotspot for sulfuric organisms whose teal-white colorations complemented the yellowish coloration of many other organisms on the world who in these low gravity conditions made use of many skittering appendages.
 
