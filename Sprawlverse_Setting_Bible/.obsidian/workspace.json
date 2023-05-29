@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "2789282fba6ccfd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "77607db09e6aa88e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "891ea675798f638a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "main.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec6927610b7878ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b5cac279625f93a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2bfab56595be71a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d650de9e77cbeca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b9295900c809d371",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "45e4bfaa385c5bc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "067bef8b000013aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fb10a44d39bb0ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "main.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f45fae82f94498c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "main.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20000f9f0bb55cc2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "596ea46a2ecfaed8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "main.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "891ea675798f638a",
+  "lastOpenFiles": [
+    "Worlds/Biochemistry Notes.md",
+    "main.md",
+    "Worlds/Hospitable/Blolados.md",
+    "Stellar_Abyss_Setting_Bible/Photo_Directory/Adina.png.md",
+    "Worlds/Hospitable/Adina.md",
+    "Worlds/Hospitable/Dwaine.md",
+    "Stellar_Abyss_Setting_Bible/Photo_Directory",
+    "Stellar_Abyss_Setting_Bible",
+    "Worlds/Hospitable/New Rich Text Document.rtf",
+    "Worlds/Megastructures/Abandoned_Sprawl.md",
+    "Worlds/Hospitable",
+    "Worlds/Inhospitable",
+    "Worlds/New folder",
+    "Worlds/Megastructures",
+    "Worlds/Biospheres",
+    "Factions/Active",
+    "Factions/New folder",
+    "Worlds/Dwaine.md"
+  ]
+}

@@ -1,6 +1,10 @@
-## Adina
+# Adina
 
 ![Radiation World](/Stellar_Abyss_Setting_Bible/Photo_Directory/Adina.png "Radioactive World")
+
+## Properties
+
+
 
 ### Overview
 

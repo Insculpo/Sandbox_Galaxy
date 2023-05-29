@@ -1,0 +1,3 @@
+# Salasana
+
+Salasana's life was one of Jamat Corps AI tinkering.  She did the work, produced the results and overall sought to make the harmonious actions homely as it were.  She had been born from a synthetic egg, lost her body a several times from some harmony wars but was brought back from the memory stream.  All normal to metasyndicate life.  Salasana's work in the Jatarisan Rainbow in selling arms to Vermeer violence vectors.  Salasana's a dedicated chaos agent on the whole, and she has continued to spearhead destabilization ops in the neutral zones.  She's somewhat a coy being, but not really intentionally so.  She just is very open headed about stuff she really shouldn't be.
